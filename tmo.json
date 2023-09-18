@@ -16,13 +16,6 @@
 		"redirect_url": ""
 	},
 	"menus": [
-	    {
-			"name": "Nuevas funciones",
-			"type": "url",
-			"icon": "https://app.gottarcrds.com/icon/ic_air.png",
-			"url": "https://app.gottarcrds.com/update",
-			"url_dark": "https://app.gottarcrds.com/update"
-		},
 		{
 			"name": "Inicio",
 			"type": "url",
