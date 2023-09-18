@@ -21,8 +21,8 @@
 	},
 	"ayt": {
 		"url1": "https://drive.google.com/file/d/1Ztz3oCbOeQ8nspTc0Kf8M-s7-mrGQCmv/view",
-		"url2": "https://app.gottarcrds.com/servers/animeyt.json",
-		"url3": "https://storage.googleapis.com/tmomangaapp.appspot.com/animeyt.json"
+		"url2": "https://app.gottarcrds.com/servers/ayt.json",
+		"url3": "https://raw.githubusercontent.com/nasamx/json/main/ayt.json"
 	},
 	"updatelink": "https://drive.google.com/file/d/1bC4MmaxPM7Zjl2Cj92YHdMFS-HPhEVCa/view",
 	"versiontmo": 1000000,
