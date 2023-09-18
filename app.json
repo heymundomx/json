@@ -17,7 +17,7 @@
 	"tm": {
 		"url1": "https://drive.google.com/file/d/1H1b1ss2Kn1JZMhITbMHeoWCMaiHFsTP2/view",
 		"url2": "https://app.gottarcrds.com/servers/tm.json",
-		"url3": "https://storage.googleapis.com/tmomangaapp.appspot.com/tumangaonline.json"
+		"url3": "https://raw.githubusercontent.com/nasamx/json/main/tm.json"
 	},
 	"ayt": {
 		"url1": "https://drive.google.com/file/d/1Ztz3oCbOeQ8nspTc0Kf8M-s7-mrGQCmv/view",
