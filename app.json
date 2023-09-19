@@ -1,30 +1,4 @@
 {
-	"countries": [
-		"AR",
-		"BZ",
-		"BR",
-		"BO",
-		"CL",
-		"CO",
-		"CR",
-		"CU",
-		"EC",
-		"SV",
-		"ES",
-		"US",
-		"GT",
-		"HN",
-		"MX",
-		"NI",
-		"PA",
-		"PY",
-		"PE",
-		"DO",
-		"UY",
-		"VE",
-		"IT",
-		"BR"
-	],
 	"adblock": [{
 			"url": "https://www.googletagmanager.com/gtag/js?id=G-67Y2KRCYWB"
 		},
