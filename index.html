@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estamos trabajando</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Montserrat', sans-serif;
+            background-color: #DDDDDD;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+        
+        .button-container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+        }
+        
+        .title {
+            text-align: center;
+            font-size: 32px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            text-align: center;
+            font-size: 14px;
+            color: #888;
+            margin-bottom: 20px;
+        }
+        
+        .message {
+            text-align: center;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .contact-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #121212;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 20px;
+            margin-right: 10px;
+        }
+        
+        .play-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #CD5C5C;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 20px;
+            margin-left: 10px;
+        }
+        
+        @media (max-width: 767px) {
+                .contact-button,
+                .play-button {
+                    font-size: 11px;
+                    padding: 20px 15px;
+            }
+        }
+        
+        .audio-player {
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        #play-button,
+        #pause-button {
+            background-color: #CD5C5C;
+            color: #ffffff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-right: 5px;
+        }
+
+        #play-button:hover,
+        #pause-button:hover {
+            background-color: #aa4646;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Estamos trabajando para ti</h1>
+        <!--<p class="subtitle">Por favor, espere...</p>-->
+        <p class="message">
+            En este momento, la aplicación se encuentra en revisión en Playstore y no podemos mostrar el contenido completo hasta que la revisión sea aceptada. Por lo tanto, te pedimos que esperes pacientemente hasta que la revisión sea aceptada.
+            <br>
+            Una vez concluida la revisión y aprobada la actualización, la aplicación estará nuevamente disponible para su uso normal. Agradecemos su paciencia y comprensión mientras realizamos este proceso. Estamos comprometidos en proporcionar un servicio de calidad y esta actualización nos permitirá mejorar aún más la funcionalidad y rendimiento de la aplicación.
+            <br>
+            Mientras tanto, si tienes alguna consulta o necesitas asistencia, no dudes en comunicarte con nuestro equipo de soporte. Estaremos encantados de ayudarte en lo que necesites.
+            <br><br><br>
+            ¡Gracias por usar nuestra aplicación y por tu apoyo continuo mientras trabajamos en esta actualización!</p>
+            <div class="button-container">
+                <a href="mailto:heymundomx@gmail.com" class="contact-button">Contacto con el desarrollador</a>
+            <a href="https://play.google.com/store/apps/dev?id=7608677967894553639" class="play-button">Nuestras aplicaciones</a>
+            </div>
+            <br><br>
+            <h2 class="title">Gracias</h2>
+            <div class="audio-player">
+            <audio id="audio-player" src="https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_SC"></audio>
+            <button id="previous-button">Anterior</button>
+            <button id="play-button">Play</button>
+            <button id="pause-button">Pause</button>
+            <button id="next-button">Siguiente</button>
+            </div>
+    </div>
+    <script>
+    var audio = document.getElementById('audio-player');
+    var playButton = document.getElementById('play-button');
+    var pauseButton = document.getElementById('pause-button');
+    var previousButton = document.getElementById('previous-button');
+    var nextButton = document.getElementById('next-button');
+
+    var audioSources = [
+      "https://stream1.thepuremix.net/nexusdance.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC"
+    ];
+    var currentSourceIndex = 0;
+
+    playButton.addEventListener('click', function() {
+      audio.play();
+    });
+
+    pauseButton.addEventListener('click', function() {
+      audio.pause();
+    });
+
+    previousButton.addEventListener('click', function() {
+      changeAudioSource(-1);
+    });
+
+    nextButton.addEventListener('click', function() {
+      changeAudioSource(1);
+    });
+
+    function changeAudioSource(direction) {
+      currentSourceIndex += direction;
+
+      if (currentSourceIndex < 0) {
+        currentSourceIndex = audioSources.length - 1;
+      } else if (currentSourceIndex >= audioSources.length) {
+        currentSourceIndex = 0;
+      }
+
+      audio.src = audioSources[currentSourceIndex];
+      audio.load();
+      audio.play();
+    }
+</script>
+</body>
