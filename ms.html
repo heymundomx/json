@@ -76,20 +76,20 @@
     <h1 class="title">Mangas</h1>
     <div class="images">
       <div>
-        <img src="./img/1.png" alt="Imagen 1" onclick="showChapter('chapter1')">
-        <p class="chapter-text" id="chapter1">Capítulo 1: Este es el capítulo 1 creado por mí.</p>
+        <img src="./img/1.png" alt="Imagen 1" onclick="toggleChapter('chapter1')">
+        <p class="chapter-text" id="chapter1" style="display: none;">Capítulo 1: Este es el capítulo 1 creado por mí.</p>
       </div>
       <div>
-        <img src="./img/2.png" alt="Imagen 2" onclick="showChapter('chapter2')">
-        <p class="chapter-text" id="chapter2">Capítulo 2: Este es el capítulo 2 creado por mí.</p>
+        <img src="./img/2.png" alt="Imagen 2" onclick="toggleChapter('chapter2')">
+        <p class="chapter-text" id="chapter2" style="display: none;">Capítulo 2: Este es el capítulo 2 creado por mí.</p>
       </div>
       <div>
-        <img src="./img/3.png" alt="Imagen 3" onclick="showChapter('chapter3')">
-        <p class="chapter-text" id="chapter3">Capítulo 3: Este es el capítulo 3 creado por mí.</p>
+        <img src="./img/3.png" alt="Imagen 3" onclick="toggleChapter('chapter3')">
+        <p class="chapter-text" id="chapter3" style="display: none;">Capítulo 3: Este es el capítulo 3 creado por mí.</p>
       </div>
       <div>
-        <img src="./img/4.png" alt="Imagen 4" onclick="showChapter('chapter4')">
-        <p class="chapter-text" id="chapter4">Capítulo 4: Este es el capítulo 4 creado por mí.</p>
+        <img src="./img/4.png" alt="Imagen 4" onclick="toggleChapter('chapter4')">
+        <p class="chapter-text" id="chapter4" style="display: none;">Capítulo 4: Este es el capítulo 4 creado por mí.</p>
       </div>
     </div>
     <a href="https://play.google.com/store/apps/dev?id=7608677967894553639" class="play-button">Nuestras aplicaciones</a>
@@ -97,30 +97,13 @@
   </div>
 
   <script>
-    function showChapter(chapterId) {
-      const chapterText = document.getElementById(chapterId);
-      const parentDiv = chapterText.parentElement;
-      const imagesDiv = parentDiv.parentElement;
-
-      // Obtén todas las imágenes dentro del contenedor de imágenes
-      const images = imagesDiv.getElementsByClassName('images')[0].getElementsByTagName('img');
-
-      // Recorre todas las imágenes y muestra/oculta la imagen y texto correspondientes
-      for (let i = 0; i < images.length; i++) {
-        if (images[i].getAttribute('onclick') === `showChapter('${chapterId}')`) {
-          // Muestra la imagen y el texto del capítulo seleccionado
-          images[i].style.display = 'block';
-          chapterText.style.display = 'block';
-        } else {
-          // Oculta las demás imágenes y textos
-          images[i].style.display = 'none';
-          images[i].nextElementSibling.style.display = 'none';
-        }
+    function toggleChapter(id) {
+      var chapter = document.getElementById(id);
+      if (chapter.style.display === "none") {
+        chapter.style.display = "block";
+      } else {
+        chapter.style.display = "none";
       }
-
-      // Mueve la imagen seleccionada y el texto al principio
-      parentDiv.prepend(parentDiv.removeChild(imagesDiv.previousElementSibling));
-      parentDiv.prepend(chapterText.parentElement);
     }
   </script>
 </body>
