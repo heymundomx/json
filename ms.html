@@ -97,7 +97,7 @@
   </div>
 
   <script>
-    function showChapter(chapterId) {
+function showChapter(chapterId) {
   const chapterText = document.getElementById(chapterId);
   const parentDiv = chapterText.parentElement;
   const imagesDiv = parentDiv.parentElement;
@@ -120,7 +120,7 @@
 
   // Mueve la imagen seleccionada y el texto al principio
   parentDiv.prepend(parentDiv.removeChild(imagesDiv.previousElementSibling));
-  parentDiv.prepend(images[i]);
+  parentDiv.prepend(chapterText.parentElement);
 }
   </script>
 </body>
