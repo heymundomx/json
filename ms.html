@@ -58,13 +58,13 @@
       }
     }
   </style>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&amp;display=swap" rel="stylesheet">
   <title>Mangas</title>
 </head>
 <body>
   <div class="container">
     <h1 class="title">Mangas</h1>
-    <!--<p class="subtitle">Imágenes de Mangas...</p>-->
+    <p class="subtitle">Imágenes de Mangas...</p>
     <div class="images">
       <div>
         <img src="./img/1.png" alt="Imagen 1" onclick="showChapter('chapter1')">
@@ -91,11 +91,11 @@
     function showChapter(chapterId) {
       const chapterText = document.getElementById(chapterId);
       const images = document.querySelectorAll('.images div');
-      
+
       images.forEach(image => {
-        image.style.display = 'none';
+        image.childNodes[1].style.display = 'none';
       });
-      
+
       chapterText.style.display = 'block';
     }
   </script>
