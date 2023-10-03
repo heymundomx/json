@@ -35,11 +35,6 @@
       height: auto;
       cursor: pointer;
     }
-    .text {
-      text-align: center;
-      font-size: 18px;
-      margin-top: 20px;
-    }
     .chapter-text {
       display: none;
       text-align: center;
@@ -53,12 +48,9 @@
       .images {
         grid-template-columns: 1fr;
       }
-      .text {
-        font-size: 16px;
-      }
     }
   </style>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap" rel="stylesheet">
   <title>Mangas</title>
 </head>
 <body>
@@ -89,15 +81,26 @@
 
   <script>
     function showChapter(chapterId) {
-      const chapterText = document.getElementById(chapterId);
-      const images = document.querySelectorAll('.images div');
+  const chapterText = document.getElementById(chapterId);
+  const parentDiv = chapterText.parentElement;
+  const imagesDiv = parentDiv.parentElement;
 
-      images.forEach(image => {
-        image.childNodes[1].style.display = 'none';
-      });
+  // Obtén todas las imágenes dentro del contenedor de imágenes
+  const images = imagesDiv.getElementsByClassName('images')[0].getElementsByTagName('img');
 
+  // Recorre todas las imágenes y muestra/oculta la imagen y texto correspondientes
+  for (let i = 0; i < images.length; i++) {
+    if (images[i].getAttribute('onclick') === `showChapter('${chapterId}')`) {
+      // Muestra la imagen y el texto del capítulo seleccionado
+      images[i].style.display = 'block';
       chapterText.style.display = 'block';
+    } else {
+      // Oculta las demás imágenes y textos
+      images[i].style.display = 'none';
+      images[i].nextElementSibling.style.display = 'none';
     }
+  }
+}
   </script>
 </body>
 </html>
