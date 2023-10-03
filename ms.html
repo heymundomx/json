@@ -117,6 +117,10 @@
       images[i].nextElementSibling.style.display = 'none';
     }
   }
+
+  // Mueve la imagen seleccionada y el texto al principio
+  parentDiv.prepend(parentDiv.removeChild(imagesDiv.previousElementSibling));
+  parentDiv.prepend(images[i]);
 }
   </script>
 </body>
