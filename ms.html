@@ -97,31 +97,31 @@
   </div>
 
   <script>
-function showChapter(chapterId) {
-  const chapterText = document.getElementById(chapterId);
-  const parentDiv = chapterText.parentElement;
-  const imagesDiv = parentDiv.parentElement;
+    function showChapter(chapterId) {
+      const chapterText = document.getElementById(chapterId);
+      const parentDiv = chapterText.parentElement;
+      const imagesDiv = parentDiv.parentElement;
 
-  // Obtén todas las imágenes dentro del contenedor de imágenes
-  const images = imagesDiv.getElementsByClassName('images')[0].getElementsByTagName('img');
+      // Obtén todas las imágenes dentro del contenedor de imágenes
+      const images = imagesDiv.getElementsByClassName('images')[0].getElementsByTagName('img');
 
-  // Recorre todas las imágenes y muestra/oculta la imagen y texto correspondientes
-  for (let i = 0; i < images.length; i++) {
-    if (images[i].getAttribute('onclick') === `showChapter('${chapterId}')`) {
-      // Muestra la imagen y el texto del capítulo seleccionado
-      images[i].style.display = 'block';
-      chapterText.style.display = 'block';
-    } else {
-      // Oculta las demás imágenes y textos
-      images[i].style.display = 'none';
-      images[i].nextElementSibling.style.display = 'none';
+      // Recorre todas las imágenes y muestra/oculta la imagen y texto correspondientes
+      for (let i = 0; i < images.length; i++) {
+        if (images[i].getAttribute('onclick') === `showChapter('${chapterId}')`) {
+          // Muestra la imagen y el texto del capítulo seleccionado
+          images[i].style.display = 'block';
+          chapterText.style.display = 'block';
+        } else {
+          // Oculta las demás imágenes y textos
+          images[i].style.display = 'none';
+          images[i].nextElementSibling.style.display = 'none';
+        }
+      }
+
+      // Mueve la imagen seleccionada y el texto al principio
+      parentDiv.prepend(parentDiv.removeChild(imagesDiv.previousElementSibling));
+      parentDiv.prepend(chapterText.parentElement);
     }
-  }
-
-  // Mueve la imagen seleccionada y el texto al principio
-  parentDiv.prepend(parentDiv.removeChild(imagesDiv.previousElementSibling));
-  parentDiv.prepend(chapterText.parentElement);
-}
   </script>
 </body>
 </html>
