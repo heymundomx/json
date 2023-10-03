@@ -64,7 +64,7 @@
 <body>
   <div class="container">
     <h1 class="title">Mangas</h1>
-    <p class="subtitle">Imágenes de Mangas...</p>
+    <!--<p class="subtitle">Imágenes de Mangas...</p>-->
     <div class="images">
       <div>
         <img src="./img/1.png" alt="Imagen 1" onclick="showChapter('chapter1')">
@@ -90,7 +90,13 @@
   <script>
     function showChapter(chapterId) {
       const chapterText = document.getElementById(chapterId);
-      chapterText.style.display = "block";
+      const images = document.querySelectorAll('.images div');
+      
+      images.forEach(image => {
+        image.style.display = 'none';
+      });
+      
+      chapterText.style.display = 'block';
     }
   </script>
 </body>
