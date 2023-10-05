@@ -35,6 +35,12 @@
             "url": "manga/.*"
         },
         {
+            "url": "biblioteca"
+        },
+        {
+            "url": "recomendados"
+        },
+        {
             "url": "adulto"
         },
         {
