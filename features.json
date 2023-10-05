@@ -29,7 +29,13 @@
     "redirect": "https://htmlpreview.github.io/?https://github.com/heymundomx/json/blob/main/ig.html",
     "incognito": [
         {
-            "url": "https://leermanga.net/capitulo/crees-en-los-espiritus-malignos-.*"
+            "url": "capitulo/crees-en-los-espiritus-malignos-.*"
+        },
+        {
+            "url": "capitulo/en-mis-suenos-humedos-siempre-apareces-solo-tu-.*"
+        },
+        {
+            "url": "capitulo/un-guia-mas-espeso-que-la-sangre-.*"
         }
     ],
     "adblock": [
