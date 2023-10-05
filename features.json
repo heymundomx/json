@@ -29,28 +29,10 @@
     "redirect": "https://htmlpreview.github.io/?https://github.com/heymundomx/json/blob/main/ig.html",
     "incognito": [
         {
-            "url": "capitulo/crees-en-los-espiritus-malignos-.*"
+            "url": "capitulo/.*"
         },
         {
-            "url": "capitulo/en-mis-suenos-humedos-siempre-apareces-solo-tu-.*"
-        },
-        {
-            "url": "capitulo/un-rastro-sin-aroma-.*"
-        },
-        {
-            "url": "capitulo/zing-.*"
-        },
-        {
-            "url": "capitulo/shell-boy-.*"
-        },
-        {
-            "url": "manga/jinx-manhwa"
-        },
-        {
-            "url": "manga/domestic-beast"
-        },
-        {
-            "url": "manga/que-pasaria-si-decido-ayudar-a-dos-hermanas-que-odian-a-los-hombres"
+            "url": "manga/.*"
         }
     ],
     "adblock": [
