@@ -33,6 +33,24 @@
         },
         {
             "url": "manga/.*"
+        },
+        {
+            "url": "adulto"
+        },
+        {
+            "url": "library/.*"
+        },
+        {
+            "url": "viewer/.*"
+        },
+        {
+            "url": "library"
+        },
+        {
+            "url": "groups"
+        },
+        {
+            "url": "lists"
         }
     ],
     "adblock": [
