@@ -4,7 +4,6 @@
     "countries": [
         "AR",
         "BZ",
-        "BR",
         "BO",
         "CL",
         "CO",
@@ -24,8 +23,7 @@
         "DO",
         "UY",
         "VE",
-        "IT",
-        "BR"
+        "IT"
     ],
     "redirect": "https://htmlpreview.github.io/?https://github.com/heymundomx/json/blob/main/ig.html",
     "incognito": [
