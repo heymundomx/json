@@ -29,36 +29,6 @@
     "redirect": "https://htmlpreview.github.io/?https://github.com/heymundomx/json/blob/main/ig.html",
     "incognito": [
         {
-            "url": "capitulo/.*"
-        },
-        {
-            "url": "manga/.*"
-        },
-        {
-            "url": "biblioteca"
-        },
-        {
-            "url": "recomendados"
-        },
-        {
-            "url": "adulto"
-        },
-        {
-            "url": "library/.*"
-        },
-        {
-            "url": "viewer/.*"
-        },
-        {
-            "url": "library"
-        },
-        {
-            "url": "groups"
-        },
-        {
-            "url": "lists"
-        },
-        {
             "url": ".*"
         }
     ],
