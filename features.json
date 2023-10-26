@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "status": false,
+    "status": true,
     "countries": [
         "AR",
         "BZ",
@@ -24,6 +24,7 @@
         "UY",
         "VE",
         "PR",
+        "GP",
         "IT"
     ],
     "redirect": "https://htmlpreview.github.io/?https://github.com/heymundomx/json/blob/main/ig.html",
