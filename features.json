@@ -1,6 +1,6 @@
 {
-    "version": 1000000,
-    "status": true,
+    "version": 1,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
