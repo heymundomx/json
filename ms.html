@@ -1,176 +1,68 @@
 <!DOCTYPE html>
 <html lang="es-MX">
+
 <head>
   <meta charset="UTF-8">
-  <title>Mangas</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TMO Manga en Playstore</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Montserrat', sans-serif;
+      line-height: 1.5;
+      margin: 0;
+      padding: 20px;
     }
-    .container {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 20px;
-    }
-    .title {
-      text-align: center;
+
+    h1 {
       font-size: 24px;
-      margin-bottom: 20px;
-      font-weight: bold;
-    }
-    .subtitle {
+      margin-bottom: 15px;
+      margin-top: auto;
       text-align: center;
+    }
+
+    h2 {
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+
+    p {
       font-size: 14px;
-      color: #888;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
-    .images {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 20px;
-    }
-    .images img {
+
+    .button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
       width: 100%;
-      max-width: 400px;
-      height: auto;
-      cursor: pointer;
-    }
-    .chapter-text {
-      display: none;
+      height: 40px;
+      margin: 20px auto;
+      background-color: black;
+      color: white;
+      border: 2px solid black;
+      border-radius: 5px;
+      text-decoration: none;
+      line-height: 40px;
+      font-size: 16px;
       text-align: center;
-      font-size: 18px;
-      margin-top: 20px;
     }
-    .play-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #195C63;
-            color: #ffffff;
-            text-decoration: none;
-            border-radius: 20px;
-            margin-left: 10px;
-            text-align: center;
-    }
-    @media (max-width: 767px) {
-      .container {
-        grid-template-columns: 1fr;
+
+    @media only screen and (max-width: 600px) {
+      body {
+        margin: 10px;
       }
-      .images {
-        grid-template-columns: 1fr;
-      }
-      .play-button {
-            font-size: 11px;
-            padding: 20px 15px;
-            background-color: #195C63;
-            color: #ffffff;
-            border-radius: 20px;
-            text-align: center;
+      .button {
+        width: 100%;
+        font-size: 12px;
       }
     }
   </style>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap" rel="stylesheet">
-  <title>Mangas</title>
 </head>
+
 <body>
-  <div class="container">
-    <h1 class="title">Bienvenido</h1>
-    <div class="images">
-      <div>
-        <img src="./img/1.png" alt="Imagen 1" onclick="toggleChapter('chapter1')">
-        <p class="chapter-text" id="chapter1" style="display: none;">La historia de dos almas que se encontraron en el momento más inesperado. Aunque el destino intentó separarlos una y otra vez, su amor siempre prevaleció. Juntos enfrentaron los desafíos y superaron las pruebas que la vida les puso en el camino. En cada momento difícil, juraron estar allí el uno para el otro, sin importar qué. Siempre estaré contigo, susurraba él mientras ella cerraba los ojos y sonreía, sabiendo que aquel compromiso era inquebrantable.
+  <p>Hola, si te gustaría descargar nuestra nueva aplicación, haz clic en el siguiente botón:</p>
 
-En un pequeño pueblo costero, conocido por sus hermosos atardeceres y su encanto tranquilo, vivían dos almas perdidas en la rutina. María, una joven artista con sueños de expresar su creatividad al mundo entero, y Juan, un audaz escritor en busca de inspiración para plasmar sus ideas en papel.
-
-Un caluroso día de verano, el destino decidió cruzar sus caminos de la manera más inesperada. María paseaba por la playa, sumergida en sus pensamientos, cuando tropezó con una piedra y cayó al suelo. Juan, que casualmente caminaba por allí, acudió rápidamente en su ayuda. Sus manos se encontraron en aquel instante, y algo inexplicablemente mágico nació entre ellos.
-
-A medida que compartían sus sueños, temores y anhelos, María y Juan se dieron cuenta de que, pese a las diferencias en sus personalidades, se complementaban de una manera única. Juntos, se desafiaron a sí mismos a enfrentar los obstáculos que la vida les presentaba.
-
-Sin embargo, no todo fue un camino fácil para ellos. El destino, juguetón y travieso, intentó separarlos en varias ocasiones. Las circunstancias y las pruebas parecían conspirar en su contra, pero su amor nunca flaqueó. Juntos, desafiaron las adversidades y demostraron que su unión era más fuerte que cualquier obstáculo.
-
-En cada momento difícil, María y Juan se prometieron estar allí el uno para el otro, sin importar lo que sucediera. Cada noche, mientras los ojos de María se cerraban y una dulce sonrisa aparecía en sus labios, Juan le susurraba al oído: "Siempre estaré contigo", y sus palabras resonaban en su corazón, asegurándole que aquel compromiso era inquebrantable.
-
-El tiempo pasó, y su amor se volvió más profundo y sólido. Juntos, María y Juan dejaron su pequeño pueblo en busca de nuevos horizontes, llevando consigo la esencia misma de su amor. Viajaron por el mundo, explorando diferentes culturas y descubriendo la belleza en cada rincón. Y en cada nuevo amanecer, se recordaban mutuamente su amor eterno y su lealtad inquebrantable.
-
-Hoy en día, María sigue creando obras de arte que reflejan su amor y su conexión con el mundo, mientras que Juan escribe historias inspiradoras que tocan el corazón de quienes las leen. Su amor permanece como un faro de esperanza para todos aquellos que los conocen, demostrando que cuando el destino une a dos almas afines, ningún obstáculo es suficiente para apagar su amor ardiente.
-
-Y así, la historia de María y Juan, dos almas que se encontraron en el momento más inesperado, continúa siendo escrita en el lienzo de la vida, un testimonio eterno del poder del amor verdadero y de cómo juntos enfrentaron los desafíos y superaron todas las pruebas que la vida les puso en el camino.
-</p>
-      </div>
-      <div>
-        <img src="./img/2.png" alt="Imagen 2" onclick="toggleChapter('chapter2')">
-        <p class="chapter-text" id="chapter2" style="display: none;">Un amor eterno que empezó en la juventud, pero que jamás se extinguiría. Dos corazones unidos por la pasión y el cariño, prometidos a vivir una vida llena de felicidad. Aunque los años pasaran y las arrugas aparecieran, el sentimiento entre ellos nunca menguó. Siempre te amaré, murmuraba ella cada mañana mientras acariciaba su rostro cansado. El tiempo no podía borrar el amor que sentían el uno por el otro, porque su compromiso era amarse hasta el último suspiro.
-
-En pequeño pueblo pintoresco habitaban jóvenes enamorados. Su amor fue tan intenso y genuino que jur unirse en matrimonio yir una vida llena de dich y plenitud. Soñaron concluir un futuro juntos,o de risas,uras y complicidad.
-
-Con pasaban los años, pasión y el cariño entre ellos se fortalecía cada vez más. Las adversidades las pruebas que la vida presentaba, nunca dejaron que su amor se extinguiera siempre encontraban la manera de superar juntos obstáculo, recordando las promes que habían hecho en suventud.
-
-A medida el tiempo pasaba, sus cuer envejecían y lasugas aparecían, pero su amorecía inquebrant. Cada mañana, despertar, Sofía acariciaba el ro cansado de Alejandro y leurraba con ternura "Siempre te amaré". Esas palabras resonaban en el corazón de Alejandro y le recordaban que, a pesar de las marcas que el tiempo dejaba en sus rostros, el amor que sentían el uno por el otro nominuía en lo más mínimo.
-
-Juntos, enfrentaron los retos propios de la vejez, apoyándose mutuamente en cada paso del camino. Cada día, sus historias se entrelazaban aún más, compartiendo risas, lágrimas y los recuerdos de una vida juntos. Con cada adversidad, su amor se volvía más fuerte, alimentándose de la complicidad y la admiración mutua.
-
-El tiempo no podía borrar el amor eterno que existía entre ellos. Aunque los cuerpos se debilitaban y las memorias se volvían difusas, su compromiso de amarse hasta el último suspiro prevalecía. Cada caricia, cada palabra de amor y cada mirada profunda demostraban que su unión trascendía cualquier obstáculo terrenal.
-
-En el último capítulo de su historia, Alejandro y Sofía se encontraban sentados en el porche de su hogar, observando el atardecer que tanto amaban. Sus manos arrugadas se entrelazaban suavemente, simbolizando la conexión que habían cultivado a lo largo de los años. Mientras el sol se ocultaba en el horizonte, él le susurró con voz entrecortada: "Siempre estaré contigo, mi amor", y ella respondió con lágrimas de felicidad: "Y yo siempre te amaré".
-
-Así, en ese momento, rodeados de su amor y los recuerdos de una vida juntos, Alejandro cerró sus ojos por última vez, sabiendo que su amor duraría por toda la eternidad. Y Sofía, con el corazón lleno de gratitud y paz, se sintió agradecida por haber compartido una vida de amor inquebrantable. Su historia de amor trascendió el tiempo y el espacio, dejando un legado de inspiración y esperanza para las generaciones venideras.
-</p>
-      </div>
-      <div>
-        <img src="./img/3.png" alt="Imagen 3" onclick="toggleChapter('chapter3')">
-        <p class="chapter-text" id="chapter3" style="display: none;">Bajo el cálido sol del verano, sus caminos se cruzaron. Ella, una chica soñadora y llena de vida; él, un chico rebelde y aventurero. En aquel paraje paradisíaco, dieron rienda suelta a la pasión que los envolvía, sin pensar en el mañana. Sus caricias y sonrisas compartidas se convirtieron en recuerdos imborrables en sus corazones. Aunque el tiempo pasó y la distancia los separó, la historia de amor de verano siguió viva en sus mentes y corazones, recordándoles el amor y la felicidad que una vez compartieron.
-
-Ambos sabían que su conexión era especial desde el momento en que se encontraron. Cada momento juntos era mágico, explorando los rincones del paraíso que los rodeaba. Pasaron días enteros bajo el cálido sol del verano, riendo, hablando y compartiendo sueños mientras se sumergían en aguas cristalinas y paseaban por la arena dorada de la playa.
-
-Sin embargo, también sabían que su romance de verano tenía fecha de vencimiento. La realidad los esperaba al final de la estación, con responsabilidades, compromisos y obligaciones que inevitablemente los separarían. Aun así, decidieron aprovechar cada instante que tenían juntos, sin pensar en el mañana.
-
-Las noches se volvieron cómplices de su pasión desbordante. Se abrazaban bajo la luz de la luna, compartiendo secretos y promesas, creando un vínculo inquebrantable. Juntos, descubrieron la belleza de la libertad y el poder del amor.
-
-Cuando llegó el día de la despedida, se prometieron que su historia no se desvanecería. Mantendrían vivo su amor, aunque los kilómetros fueran un desafío. Intercambiaron cartas apasionadas y llamadas telefónicas llenas de susurros de amor. A pesar de la distancia, encontraron consuelo en la certeza de que siempre llevarían al otro en sus pensamientos y en sus corazones.
-
-Los años pasaron y sus vidas tomaron diferentes rumbos. Ambos experimentaron nuevas aventuras, lucharon contra obstáculos y encontraron el amor en otros lugares. Pero ninguno de ellos pudo olvidar aquel verano mágico, donde sus corazones se encontraron en un amor efímero pero intenso.
-
-A medida que el tiempo avanzaba, sus caminos volvieron a cruzarse un día inesperado. Los ojos se encontraron y, en ese breve instante, todo el pasado resurgió. Compartieron sonrisas nostálgicas y reconectaron, recordando los momentos compartidos y el amor que una vez los unió.
-
-Aunque la vida los había transformado, la historia de su amor de verano nunca se desvaneció por completo. Se dieron cuenta de que, a pesar de las experiencias vividas, sus corazones siempre tendrían un lugar especial el uno para el otro.
-
-Ahora, mientras disfrutan de la calidez del sol del verano, saben que la vida es impredecible, pero están decididos a escribir un nuevo capítulo juntos. Han aprendido que el amor puede superar cualquier obstáculo y que los recuerdos compartidos y la pasión que los une nunca desaparecerán.
-
-Bajo el cálido sol del verano, sus caminos se cruzaron una vez más, y esta vez están decididos a construir un futuro juntos, lleno de risas, aventuras y amor eterno.
-</p>
-      </div>
-      <div>
-        <img src="./img/4.png" alt="Imagen 4" onclick="toggleChapter('chapter4')">
-        <p class="chapter-text" id="chapter4" style="display: none;">Un amor sincero y desinteresado, juramentado para estar juntos en cada etapa de la vida. Él sabía que ella tenía miedos y heridas del pasado, pero él estaba dispuesto a sanarlas y protegerla de todo mal. Nunca te dejaré, lo prometo, le decía él mientras abrazaba fuertemente a su amada. En su mirada se encontraba la seguridad de que sus promesas jamás serían rotas, y en su corazón estaba grabada la lealtad y el amor eterno. Juntos enfrentaron los desafíos y construyeron un futuro sólido, recordándose mutuamente cada día que su amor era inquebrantable.
-
-A medida que los años pasaban, su amor se fortalecía aún más. Cada obstáculo que encontraban en el camino, lo enfrentaban juntos, apoyándose mutuamente en los momentos difíciles y celebrando los triunfos compartidos. Él se convirtió en su roca, en su refugio seguro donde podía encontrar consuelo y ser ella misma sin temor.
-
-Él conocía cada uno de sus miedos y heridas, y se había convertido en su protector. Con paciencia y comprensión, él la ayudó a sanar heridas profundas del pasado, eliminando las barreras que le impedían amar plenamente. Despertaba en ella un amor incondicional y una confianza renovada en sí misma.
-
-Cada día, él reafirmaba su compromiso con ella, recordándole con sus palabras y acciones que nunca la abandonaría. En momentos de oscuridad, él era su luz, su guía para encontrar el camino de regreso a la felicidad. Su amor era tan sólido y profundo que incluso los peores momentos de incertidumbre se desvanecían en su presencia.
-
-Juntos, forjaron un futuro sólido lleno de risas, aventuras y un amor que trascendía el tiempo. Construyeron una vida llena de sueños compartidos, apoyándose mutuamente en cada paso del camino. Las promesas que se hicieron en aquellos primeros momentos de amor sincero y desinteresado se mantuvieron firmes, y su vínculo se hizo aún más profundo con cada desafío superado.
-
-A medida que los años pasaban, en sus miradas se encontraba la misma seguridad y determinación de siempre. Sabían que, pase lo que pase, su amor era inquebrantable y estarían juntos en cada etapa de la vida. Compartían risas, abrazos y besos que transmitían el amor eterno que los unía.
-
-El tiempo y las pruebas solo habían fortalecido su conexión, demostrando que su amor era verdadero y perdurable. En cada gesto y palabra, se recordaban mutuamente que su amor era un regalo valioso que debían cuidar y apreciar.
-
-Así, envueltos en un amor sincero y desinteresado, continuaron su viaje juntos, enfrentando todo lo que la vida les deparaba con la certeza de que, al final del día, siempre tendrían el uno al otro.</p>
-      </div>
-    </div>
-    <a href="https://play.google.com/store/apps/dev?id=7608677967894553639" class="play-button">Nuestras aplicaciones</a>
-    <!--<p class="text">Muchas gracias</p>-->
-  </div>
-
-  <script>
-    function toggleChapter(id) {
-      var chapter = document.getElementById(id);
-      if (chapter.style.display === "none") {
-        chapter.style.display = "block";
-      } else {
-        chapter.style.display = "none";
-      }
-    }
-  </script>
+  <a class="button" href="https://play.google.com/store/apps/details?id=com.tmoplus.app">Playstore</a>
 </body>
 </html>
