@@ -1,6 +1,6 @@
 {
     "version": 1000100,
-    "status": false,
+    "status": true,
     "countries": [
         "AR",
         "BZ",
@@ -12,6 +12,7 @@
         "EC",
         "SV",
         "ES",
+        "US",
         "GT",
         "HN",
         "MX",
@@ -22,10 +23,7 @@
         "DO",
         "UY",
         "VE",
-        "PR",
-        "GP",
-        "CH",
-        "JP"
+        "PR"
     ],
     "redirect": "https://htmlpreview.github.io/?https://github.com/heymundomx/json/blob/main/ig.html",
     "incognito": [
