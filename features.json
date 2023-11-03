@@ -1,6 +1,6 @@
 {
     "version": 1000115,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -14,7 +14,7 @@
         "ES",
         "GT",
         "HN",
-        "MX",
+        
         "NI",
         "PA",
         "PY",
