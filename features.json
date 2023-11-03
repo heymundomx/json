@@ -1,5 +1,5 @@
 {
-    "version": 1000100,
+    "version": 1000115,
     "status": true,
     "countries": [
         "AR",
@@ -12,10 +12,10 @@
         "EC",
         "SV",
         "ES",
-        "US",
+        
         "GT",
         "HN",
-        "MX",
+        
         "NI",
         "PA",
         "PY",
