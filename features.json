@@ -1,6 +1,6 @@
 {
     "version": 20240125,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -36,18 +36,6 @@
     "dmca_report": [
         {
             "url": "manga/senor-permitame-hacer-un-reembolso"
-        },
-        {
-            "url": "capitulo/senor-permitame-hacer-un-reembolso-1.00"
-        },
-        {
-            "url": "manga/estanque-de-flores-pond-with-flowers"
-        },
-        {
-            "url": "manga/gongsajuk"
-        },
-        {
-            "url": "manga/be-be"
         }
     ],
     "adblock": [
