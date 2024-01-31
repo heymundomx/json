@@ -1,6 +1,7 @@
 {
     "version": 20240210,
     "status": false,
+    "wally": false,
     "countries": [
         "AR",
         "BZ",
