@@ -625,6 +625,8 @@
         "https://arc.io/widget.min.js#yJMmkdYT",
         "https://core.arc.io",
         "https://core.arc.io/broker.html?76bc4f3",
+        "https://shelfoka.com",
+        "https://shelfoka.com/fMKcMsHk4xd/52461",
         "https://disqus.com",
         "https://tempest.services.disqus.com",
         "https://apis.google.com",
@@ -637,11 +639,13 @@
         {
             "domain": [
                 "https://tmomanga.com/",
-                "https://leermanga.net/"
+                "https://leermanga.net/",
+                "https://tmolector.net/"
             ],
             "domainimage": [
                 "https://images.tmomanga.com/",
-                "https://img.leermanga.net/"
+                "https://img.leermanga.net/",
+                "https://img1.tmolector.net/"
             ],
             "url": [
                 "img/bg-search.jpg",
