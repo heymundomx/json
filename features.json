@@ -306,8 +306,8 @@
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
             "mainColInner": [
-                ".main-col-inner.c-page",
-                ".main-col-inner.c-page"
+                "main-col-inner c-page",
+                "main-col-inner c-page"
             ]
         }
     ]
