@@ -370,7 +370,7 @@
                 ".blue.bolder",
                 ".bigger-120",
                 ".topnavbar-wrapper",
-                "summary_image"
+                ".summary_image"
             ],
             "footer": "footer",
             "sectionDivSelector": ".section.pt-40.content-term"
