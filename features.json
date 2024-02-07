@@ -369,8 +369,7 @@
                 ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
                 ".blue.bolder",
                 ".bigger-120",
-                ".topnavbar-wrapper",
-                ".summary_image"
+                ".topnavbar-wrapper"
             ],
             "footer": "footer",
             "sectionDivSelector": ".section.pt-40.content-term"
