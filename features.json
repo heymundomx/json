@@ -90,6 +90,16 @@
                 "https://img.leermanga.net/",
                 "https://img1.tmolector.net/"
             ],
+            "domaincode": [
+                "aHR0cHM6Ly90bW9tYW5nYS5jb20=",
+                "aHR0cHM6Ly9sZWVybWFuZ2EubmV0Lw==",
+                "aHR0cHM6Ly90bW9sZWNvdGVyLm5ldC8="
+            ],
+            "domainimagecode": [
+                "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
+                "aHR0cHM6Ly9pbWcubGVlcm1hbmdhLm5ldC8=",
+                "aHR0cHM6Ly9pbWcxdC50bW9sZWNvdGVyLm5ldC8v"
+            ],
             "url": [
                 "img/bg-search.jpg",
                 "manga/motto-teikou-shite-kure-yo-sawayaka-ouji-no-yuganda-seiheki",
@@ -278,6 +288,7 @@
                 ".disqus_commend",
                 ".notification-button",
                 ".main-col.col-12.col-sm-12.col-md-12.col-lg-12",
+                ".manga-title-info",
                 ".c-breadcrumb",
                 ".adsbygoogle",
                 ".interest",
