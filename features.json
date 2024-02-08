@@ -90,15 +90,10 @@
                 "https://img.leermanga.net/",
                 "https://img1.tmolector.net/"
             ],
-            "domaincode": [
+            "domains": [
                 "aHR0cHM6Ly90bW9tYW5nYS5jb20v",
                 "aHR0cHM6Ly9sZWVybWFuZ2EubmV0Lw==",
                 "aHR0cHM6Ly90bW9sZWN0b3IubmV0Lw=="
-            ],
-            "domainimagecode": [
-                "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
-                "aHR0cHM6Ly9pbWcubGVlcm1hbmdhLm5ldC8=",
-                "aHR0cHM6Ly9pbWcxLnRtb2xlY3Rvci5uZXQv"
             ],
             "url": [
                 "img/bg-search.jpg",
@@ -128,6 +123,11 @@
                 "manga/cuando-el-sol-se-asoma",
                 "manga/lluvia-de-verano",
                 "biblioteca?page=900"
+            ],
+            "domainimages": [
+                "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
+                "aHR0cHM6Ly9pbWcubGVlcm1hbmdhLm5ldC8=",
+                "aHR0cHM6Ly9pbWcxLnRtb2xlY3Rvci5uZXQv"
             ],
             "urlimage": [
                 "cover/noche-de-profanacion.jpg",
@@ -258,7 +258,7 @@
             ]
         }
     ],
-    "class": [
+    "css": [
         {
             "fragment": [
                 ".chapter-item",
