@@ -29,11 +29,6 @@
         "VE"
     ],
     "redirect": "https://htmlpreview.github.io/?https://github.com/heymundomx/json/blob/main/reset.html",
-    "incognito": [
-        {
-            "url": ".*"
-        }
-    ],
     "ads": [
         "https://www.googletagmanager.com/gtag/js?id=G-67Y2KRCYWB",
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-42",
