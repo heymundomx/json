@@ -318,6 +318,7 @@
                 ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
                 ".blue.bolder",
                 ".bigger-120",
+                ".c-selectpicker.selectpicker_version",
                 ".topnavbar-wrapper"
             ],
             "searchMainMenu": ".search-main-menu",
@@ -387,6 +388,7 @@
                 ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
                 ".blue.bolder",
                 ".bigger-120",
+                ".c-selectpicker.selectpicker_version",
                 ".topnavbar-wrapper"
             ],
             "footer": "footer",
