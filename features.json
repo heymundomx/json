@@ -75,16 +75,6 @@
     ],
     "content": [
         {
-            "domain": [
-                "https://tmomanga.com/",
-                "https://leermanga.net/",
-                "https://tmolector.net/"
-            ],
-            "domainimage": [
-                "https://images.tmomanga.com/",
-                "https://img.leermanga.net/",
-                "https://img1.tmolector.net/"
-            ],
             "domains": [
                 "aHR0cHM6Ly90bW9tYW5nYS5jb20v",
                 "aHR0cHM6Ly9sZWVybWFuZ2EubmV0Lw==",
