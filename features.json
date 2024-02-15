@@ -385,6 +385,7 @@
                 ".selectpicker.single-chapter-select.select_chapter",
                 ".btn.prev_page",
                 ".btn.next_page",
+                ".notice_report",
                 ".topnavbar-wrapper"
             ],
             "footer": "footer",
