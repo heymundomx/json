@@ -34,6 +34,7 @@
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-42",
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-53",
         "https://www.googletagmanager.com/gtag/js?id=G-V1FZBSFSKC",
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-49",
         "https://niggedpacaya.com",
         "https://tl.niggedpacaya.com",
         "https://tl.niggedpacaya.com/fmmgC2MhVUcrpbaav/45651",
@@ -51,6 +52,8 @@
         "https://a.magsrv.com/ad-provider.js",
         "https://outoctillerytor.com",
         "https://outoctillerytor.com/400/4881967",
+        "https://shelfoka.com/fraf9QUrrArrDdGBq/60527",
+        "https://shelfoka.com",
         "https://inmanga.com/ads/get?type=1&adNetwork=1",
         "https://inmanga.com/ads/get?type=2&adNetwork=1",
         "https://inmanga.com/ads/get?type=3&adNetwork=1",
@@ -78,7 +81,8 @@
             "domains": [
                 "aHR0cHM6Ly90bW9tYW5nYS5jb20v",
                 "aHR0cHM6Ly9sZWVybWFuZ2EubmV0Lw==",
-                "aHR0cHM6Ly90bW9sZWN0b3IubmV0Lw=="
+                "aHR0cHM6Ly90bW9sZWN0b3IubmV0Lw==",
+                "aHR0cHM6Ly93d3cubWFuZ2FsYW5kaWEubmV0Lw=="
             ],
             "url": [
                 "img/bg-search.jpg",
@@ -114,7 +118,8 @@
             "domainimages": [
                 "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
                 "aHR0cHM6Ly9pbWcubGVlcm1hbmdhLm5ldC8=",
-                "aHR0cHM6Ly9pbWcxLnRtb2xlY3Rvci5uZXQv"
+                "aHR0cHM6Ly9pbWcxLnRtb2xlY3Rvci5uZXQv",
+                "aHR0cHM6Ly9pbWFnZXMubWFuZ2FsYW5kaWEubmV0Lw=="
             ],
             "urlimage": [
                 "cover/noche-de-profanacion.jpg",
