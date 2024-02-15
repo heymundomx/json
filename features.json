@@ -383,6 +383,8 @@
                 ".blue.bolder",
                 ".bigger-120",
                 ".selectpicker.single-chapter-select.select_chapter",
+                ".btn.prev_page",
+                ".btn.next_page",
                 ".topnavbar-wrapper"
             ],
             "footer": "footer",
