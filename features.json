@@ -272,11 +272,6 @@
             "subs": [
                 "manga",
                 "capitulo"
-            ],
-            "blocked_ads_urls": [
-                "https://googleads.g.doubleclick.net",
-                "https://configv2.unityads.unity3d.com",
-                "https://adx.ads.vungle.com"
             ]
         }
     ],
