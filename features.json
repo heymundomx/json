@@ -404,7 +404,9 @@
                 ".topnavbar-wrapper"
             ],
             "footer": "footer",
-            "sectionDivSelector": ".section.pt-40.content-term"
+            "sectionDivSelector": ".section.pt-40.content-term",
+            "elementimages": ".entry-content img",
+            "elementchapter": "#chapter-heading"
         }
     ]
 }
