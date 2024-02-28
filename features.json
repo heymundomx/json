@@ -406,7 +406,8 @@
             "footer": "footer",
             "sectionDivSelector": ".section.pt-40.content-term",
             "elementimages": ".entry-content img",
-            "elementchapter": "#chapter-heading"
+            "elementchapter": "#chapter-heading",
+            "elementimagetag": "data-src"
         }
     ]
 }
