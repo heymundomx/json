@@ -3,6 +3,7 @@
     "versiontwo": 20240201,
     "versionthree": 20240201,
     "status": false,
+    "status_ads": false,
     "countries": [
         "AR",
         "BZ",
