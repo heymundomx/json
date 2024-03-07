@@ -277,6 +277,7 @@
                 "cover/65e90d7fa1447.jpg",
                 "cover/65e915b557c94.jpg",
                 "cover/65e92949bfee1.jpg",
+                "cover/.*",
                 "cover/5ee869e48bcc8.jpg"
             ],
             "subs": [
