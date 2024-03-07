@@ -112,6 +112,7 @@
                 "manga/alfa-x-alfa-x-alfa",
                 "manga/si-eres-flojo-engordaras",
                 "manga/cuando-el-sol-se-asoma",
+                "capitulo/.*",
                 "adulto",
                 "biblioteca?page=900"
             ],
