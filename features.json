@@ -112,7 +112,6 @@
                 "manga/alfa-x-alfa-x-alfa",
                 "manga/si-eres-flojo-engordaras",
                 "manga/cuando-el-sol-se-asoma",
-                "manga/.*",
                 "adulto",
                 "biblioteca?page=900"
             ],
@@ -277,7 +276,6 @@
                 "cover/65e90d7fa1447.jpg",
                 "cover/65e915b557c94.jpg",
                 "cover/65e92949bfee1.jpg",
-                "cover/.*",
                 "cover/5ee869e48bcc8.jpg"
             ],
             "subs": [
