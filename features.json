@@ -112,8 +112,7 @@
                 "manga/si-eres-flojo-engordaras",
                 "manga/cuando-el-sol-se-asoma",
                 "adulto",
-                "biblioteca?page=900",
-                "capitulo/.*"
+                "biblioteca?page=900"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
