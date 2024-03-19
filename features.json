@@ -4,6 +4,8 @@
     "versionthree": 20240201,
     "status": false,
     "code": "HeyLector",
+    "okru": ".*//ok\\.ru/.*",
+    "streamtape": ".*//streamtape\\.com/.*",
     "countries": [
         "AR",
         "BZ",
