@@ -4,8 +4,6 @@
     "versionthree": 20240201,
     "status": false,
     "code": "HeyLector",
-    "okru": ".*//ok\\.ru/.*",
-    "tape": ".*//streamtape\\.com/.*",
     "countries": [
         "AR",
         "BZ",
@@ -32,6 +30,8 @@
         "VE"
     ],
     "redirect": "aHR0cHM6Ly9odG1scHJldmlldy5naXRodWIuaW8vP2h0dHBzOi8vZ2l0aHViLmNvbS9oZXltdW5kb214L2pzb24vYmxvYi9tYWluL3Jlc2V0Lmh0bWw=",
+    "okru": ".*//ok\\.ru/.*",
+    "tape": ".*//streamtape\\.com/.*",
     "ads": [
         "https://www.googletagmanager.com/gtag/js?id=G-67Y2KRCYWB",
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-42",
@@ -98,6 +98,10 @@
                 "manga/kemono-no-gochisou-hijoushoku",
                 "manga/masaje-terapeutico",
                 "manga/si-me-quieres",
+                "manga/dog-and-bird",
+                "manga/doushite-sensei-ni-natta-mesuochi-anthology",
+                "manga/re-playlist",
+                "manga/toxina",
                 "manga/bird-cage",
                 "manga/headache",
                 "manga/estoy-enfermo",
@@ -107,9 +111,6 @@
                 "manga/llamada-privada-private-call",
                 "manga/sisters-prison",
                 "manga/amante-raro",
-                "manga/yuutousei-wa-mi-no-hodo-shirazu",
-                "manga/como-romper-con-el-how-to-break-up-with-him",
-                "manga/maniju",
                 "manga/cuando-el-sol-se-asoma",
                 "adulto",
                 "biblioteca?page=900"
