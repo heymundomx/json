@@ -5,7 +5,7 @@
     "status": false,
     "code": "HeyLector",
     "okru": ".*//ok\\.ru/.*",
-    "streamtape": ".*//streamtape\\.com/.*",
+    "tape": ".*//streamtape\\.com/.*",
     "countries": [
         "AR",
         "BZ",
