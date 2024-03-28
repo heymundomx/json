@@ -33,7 +33,7 @@
     "okru": ".*//ok\\.ru/.*",
     "tape": ".*//streamtape\\.com/.*",
     "adone": "https://admob.com",
-    "adtwo": "https://doubleclick.net",
+    "adtwo": "https://media.net",
     "ads": [
         "https://www.googletagmanager.com/gtag/js?id=G-67Y2KRCYWB",
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-42",
