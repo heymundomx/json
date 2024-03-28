@@ -32,8 +32,8 @@
     "redirect": "aHR0cHM6Ly9odG1scHJldmlldy5naXRodWIuaW8vP2h0dHBzOi8vZ2l0aHViLmNvbS9oZXltdW5kb214L2pzb24vYmxvYi9tYWluL3Jlc2V0Lmh0bWw=",
     "okru": ".*//ok\\.ru/.*",
     "tape": ".*//streamtape\\.com/.*",
-    "adone": "https://adservice.google.com",
-    "adtwo": "https://ads.youtube.com",
+    "adone": "https://pagead2.googleadservices.com",
+    "adtwo": "https://ad.doubleclick.net",
     "ads": [
         "https://www.googletagmanager.com/gtag/js?id=G-67Y2KRCYWB",
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-42",
