@@ -3,7 +3,7 @@
     "versiontwo": 20240130,
     "versionthree": 20240201,
     "status": false,
-    "code": "LectorHM+18",
+    "code": "TMO+18Lector",
     "countries": [
         "AR",
         "BZ",
@@ -102,6 +102,8 @@
                 "manga/si-me-quieres",
                 "manga/you-and-me-hard-at-work",
                 "manga/octava-relacion-fallida",
+                "manga/eres-mi-talon-de-aquiles",
+                "manga/perla",
                 "manga/en-tus-ojos-salvajes",
                 "manga/larga-vida-al-odio",
                 "manga/campana-de-alegria",
@@ -118,8 +120,6 @@
                 "manga/toxina",
                 "manga/bird-cage",
                 "manga/headache",
-                "manga/estoy-enfermo",
-                "manga/semillero-maison",
                 "manga/cuando-el-sol-se-asoma",
                 "adulto",
                 "biblioteca?page=900"
