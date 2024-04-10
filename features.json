@@ -5,6 +5,7 @@
     "status": false,
     "code": "MundoTMO+18",
     "coupon": "Premium2024",
+    "duration": 604800000,
     "countries": [
         "AR",
         "BZ",
