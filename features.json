@@ -5,7 +5,7 @@
     "status": false,
     "code": "MundoTMO+18",
     "coupon": "Premium2024",
-    "duration": 604800000,
+    "duration": 60000,
     "countries": [
         "AR",
         "BZ",
@@ -97,6 +97,9 @@
                 "manga/en-la-cabina",
                 "manga/special-application-for-newlyweds",
                 "manga/night-without-a-trace",
+                "manga/pinocho-en-el-closet",
+                "manga/camboy-bunny",
+                "manga/renaci-como-una-princesa-pero-me-ire-de-casa",
                 "manga/regrese-con-el-poder-del-rey",
                 "manga/completare-el-divorcio-en-3-segundos",
                 "manga/siempre-seras-mi-numero-1",
@@ -115,9 +118,6 @@
                 "manga/simulador-de-citas-con-hombres-atractivos-podrias-dejar-de-insistir",
                 "manga/degaje",
                 "manga/gokutora-no-honey-bunny",
-                "manga/naka-made-aishite",
-                "manga/eres-mi-talon-de-aquiles",
-                "manga/perla",
                 "manga/cuando-el-sol-se-asoma",
                 "adulto",
                 "biblioteca?page=900"
