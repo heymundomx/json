@@ -84,6 +84,7 @@
                 "aHR0cHM6Ly9tYW5nYWxhbmRpYS5uZXQv"
             ],
             "url": [
+                "img/logo.png",
                 "img/bg-search.jpg",
                 "manga/redeem-tatta-hitotsu-no-eien",
                 "manga/advertencia-de-lluvia-rain-advisory",
@@ -122,8 +123,8 @@
                 "manga/renaci-como-una-princesa-pero-me-ire-de-casa",
                 "manga/regrese-con-el-poder-del-rey",
                 "manga/no-es-mucho-mejor-ser-una-mujer-malvada",
-                "adulto",
-                "biblioteca?page=900"
+                "biblioteca?page=900",
+                "adulto"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
