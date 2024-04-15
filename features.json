@@ -5,7 +5,7 @@
     "status": false,
     "code": "LectorHey+18",
     "coupon": "TPre24",
-    "duration": 60000,
+    "duration": 604800000,
     "countries": [
         "AR",
         "BZ",
