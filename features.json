@@ -202,6 +202,7 @@
                 ".selectpicker.single-chapter-select.select_chapter",
                 ".topnavbar-wrapper",
                 ".jw-logo.jw-logo-top-left.jw-reset",
+                ".jw-preview.jw-reset",
                 ".c-breadcrumb-wrapper"
             ],
             "searchMainMenu": ".search-main-menu",
