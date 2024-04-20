@@ -58,8 +58,6 @@
         "https://arc.io/widget.min.js",
         "https://core.arc.io",
         "https://core.arc.io/broker.html",
-        "https://performtechnique.com",
-        "https://performtechnique.com/83/c4/ab/83c4ab866c1bae0ee5e2b7dbc96e4c47.js",
         "https://www.google-analytics.com",
         "https://www.google-analytics.com/analytics.js",
         "https://disqus.com",
@@ -199,7 +197,6 @@
                 ".bigger-120",
                 ".selectpicker.single-chapter-select.select_chapter",
                 ".topnavbar-wrapper",
-                ".jw-icon.jw-icon-inline.jw-button-color.jw-reset.jw-logo-button",
                 ".c-breadcrumb-wrapper"
             ],
             "searchMainMenu": ".search-main-menu",
