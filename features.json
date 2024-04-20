@@ -128,12 +128,12 @@
                 "manga/no-es-mucho-mejor-ser-una-mujer-malvada",
                 "biblioteca?page=900",
                 "adulto",
-                "premium",
-                "premium_dark",
+                "stories",
+                "stories_dark",
                 "faq",
                 "faq_dark",
-                "stories",
-                "stories_dark"
+                "premium",
+                "premium_dark"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
