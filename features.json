@@ -150,6 +150,8 @@
             "fragment": [
                 ".chapter-item",
                 ".list-chapter",
+                ".slick-prev.slick-arrow",
+                ".slick-next.slick-arrow",
                 ".vkevrnifpbp",
                 ".kxjf",
                 ".ajbxn",
