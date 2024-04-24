@@ -192,7 +192,8 @@
                 ".blue.bolder",
                 ".bigger-120",
                 ".selectpicker.single-chapter-select.select_chapter",
-                ".topnavbar-wrapper"
+                ".topnavbar-wrapper",
+                ".c-breadcrumb-wrapper"
             ],
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
