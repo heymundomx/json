@@ -175,7 +175,7 @@
                 ".sidebar-col.col-md-4.col-sm-4",
                 ".widget__inner.manga-history-widget__inner.c-widget-wrap",
                 ".disqus_commend",
-                ".notification-button",
+                "#notification-button",
                 ".main-col.col-12.col-sm-12.col-md-12.col-lg-12",
                 ".c-breadcrumb",
                 ".adsbygoogle",
