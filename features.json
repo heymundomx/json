@@ -190,13 +190,6 @@
                 ".notranslate",
                 ".arc-iframe-app",
                 ".site-footer",
-                ".bigger-120",
-                ".btn.btn-xs.mr-lg.btn-warning.pull-right",
-                ".col-xs-12.text-center.p0.readerAdsWidgetContainer",
-                ".col-sm-12.col-xs-12.pull-left.p0",
-                ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
-                ".blue.bolder",
-                ".bigger-120",
                 ".topnavbar-wrapper"
             ],
             "searchMainMenu": ".search-main-menu",
