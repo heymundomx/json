@@ -197,9 +197,7 @@
                 ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
                 ".blue.bolder",
                 ".bigger-120",
-                ".selectpicker.single-chapter-select.select_chapter",
-                ".topnavbar-wrapper",
-                ".c-breadcrumb-wrapper"
+                ".topnavbar-wrapper"
             ],
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
