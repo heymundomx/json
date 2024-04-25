@@ -42,11 +42,14 @@
         "https://majorcharacter.com/c/D.9K6lbk2N5/lrSHWAQj9zNTDNc-0RONTJUs4hOuS/0c0MNzzrQQ5-NQTwkUwM",
         "https://outoctillerytor.com",
         "https://outoctillerytor.com/400/4881967",
+        "https://outoctillerytor.com/400/4942010",
         "https://salivanmobster.com",
         "https://salivanmobster.com/fEtjMPRTYEbX85/45652",
         "https://shelfoka.com",
         "https://shelfoka.com/fMKcMsHk4xd/52461",
         "https://shelfoka.com/fraf9QUrrArrDdGBq/60527",
+        "https://schoonnonform.com",
+        "https://schoonnonform.com/f78U5SIVh87/46156",
         "https://a.magsrv.com",
         "https://a.magsrv.com/ad-provider.js",
         "https://inmanga.com/ads/get?type=1&adNetwork=1",
@@ -80,7 +83,8 @@
                 "aHR0cHM6Ly90bW9tYW5nYS5jb20v",
                 "aHR0cHM6Ly9sZWVybWFuZ2EubmV0Lw==",
                 "aHR0cHM6Ly90bW9sZWN0b3IubmV0Lw==",
-                "aHR0cHM6Ly9tYW5nYWxhbmRpYS5uZXQv"
+                "aHR0cHM6Ly9tYW5nYWxhbmRpYS5uZXQv",
+                "aHR0cHM6Ly9sZWN0b3J0bW8ub3JnLw=="
             ],
             "url": [
                 "img/logo.png",
@@ -133,7 +137,8 @@
                 "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
                 "aHR0cHM6Ly9pbWcubGVlcm1hbmdhLm5ldC8=",
                 "aHR0cHM6Ly9pbWcxLnRtb2xlY3Rvci5uZXQv",
-                "aHR0cHM6Ly9pbWFnZXMubWFuZ2FsYW5kaWEubmV0Lw=="
+                "aHR0cHM6Ly9pbWFnZXMubWFuZ2FsYW5kaWEubmV0Lw==",
+                "aHR0cHM6Ly9pbWcxLmxlY3RvcnRtby5vcmcv"
             ],
             "urlimage": [
                 "cover/.*"
