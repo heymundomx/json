@@ -1,2 +1,2 @@
-# JSON & HTML
-JSON & HTML library for code app
+# JSON
+JSON library for code
