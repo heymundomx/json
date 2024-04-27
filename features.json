@@ -197,6 +197,10 @@
             ],
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
+            "searchMainMenuTwo": ".navbar-toggle",
+            "searchMainMenuTwoActive": "collapsed",
+            "searchMainMenuTwoAttribute": "aria-expanded",
+            "searchMainMenuTwoId": "navbar",
             "mainColInner": [
                 "main-col-inner c-page",
                 "main-col-inner c-page"
