@@ -205,6 +205,10 @@
                 "main-col-inner c-page",
                 "main-col-inner c-page"
             ],
+            "mainCol": [
+                "main-col-inner c-page 1",
+                "resCarousel postersizes ResHover special 0"
+            ],
             "activity": [
                 ".breadcrumbs",
                 "#preloader-active",
