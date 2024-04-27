@@ -205,7 +205,7 @@
                 "main-col-inner c-page",
                 "main-col-inner c-page"
             ],
-            "mainCol": [
+            "disableElements": [
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0"
             ],
