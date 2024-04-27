@@ -197,17 +197,9 @@
             ],
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
-            "searchMainMenuTwo": ".navbar-toggle",
-            "searchMainMenuTwoActive": "collapsed",
-            "searchMainMenuTwoAttribute": "aria-expanded",
-            "searchMainMenuTwoId": "navbar",
             "mainColInner": [
                 "main-col-inner c-page",
                 "main-col-inner c-page"
-            ],
-            "disableElements": [
-                "main-col-inner c-page 0",
-                "resCarousel postersizes ResHover special 0"
             ],
             "activity": [
                 ".breadcrumbs",
@@ -225,6 +217,7 @@
                 ".notice_report"
             ],
             "footer": "footer",
+            "sectionDivSelector": ".section.pt-40.content-term",
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
             "elementimagetag": "data-src"
