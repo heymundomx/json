@@ -43,6 +43,7 @@
         "https://outoctillerytor.com",
         "https://outoctillerytor.com/400/4881967",
         "https://outoctillerytor.com/400/4942010",
+        "https://outoctillerytor.com/400/4881962",
         "https://salivanmobster.com",
         "https://salivanmobster.com/fEtjMPRTYEbX85/45652",
         "https://shelfoka.com",
@@ -50,6 +51,8 @@
         "https://shelfoka.com/fraf9QUrrArrDdGBq/60527",
         "https://schoonnonform.com",
         "https://schoonnonform.com/f78U5SIVh87/46156",
+        "https://chozarpeases.com",
+        "https://chozarpeases.com/fiCvWAo6WHG/45688",
         "https://a.magsrv.com",
         "https://a.magsrv.com/ad-provider.js",
         "https://inmanga.com/ads/get?type=1&adNetwork=1",
@@ -75,7 +78,8 @@
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-53",
         "https://www.googletagmanager.com/gtag/js?id=G-V1FZBSFSKC",
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-54",
-        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-49"
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-49",
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-32"
     ],
     "content": [
         {
@@ -85,6 +89,7 @@
                 "aHR0cHM6Ly90bW9sZWN0b3IubmV0Lw==",
                 "aHR0cHM6Ly9tYW5nYWxhbmRpYS5uZXQv",
                 "aHR0cHM6Ly9sZWN0b3J0bW8ub3JnLw==",
+                "aHR0cHM6Ly9tYW5nYW1vdmlsLm5ldC8=",
                 "aHR0cHM6Ly9oZXltdW5kb214LmNvbS8="
             ],
             "url": [
@@ -147,7 +152,8 @@
                 "aHR0cHM6Ly9pbWcubGVlcm1hbmdhLm5ldC8=",
                 "aHR0cHM6Ly9pbWcxLnRtb2xlY3Rvci5uZXQv",
                 "aHR0cHM6Ly9pbWFnZXMubWFuZ2FsYW5kaWEubmV0Lw==",
-                "aHR0cHM6Ly9pbWcxLmxlY3RvcnRtby5vcmcv"
+                "aHR0cHM6Ly9pbWcxLmxlY3RvcnRtby5vcmcv",
+                "aHR0cHM6Ly9tYW5nYW1vdmlsLm5ldC9pbWcv"
             ],
             "urlimage": [
                 "cover/.*"
