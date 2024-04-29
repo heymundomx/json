@@ -204,7 +204,7 @@
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
             "searchMainMenuTwo": ".navbar-toggle",
-            "searchMainMenuTwoActive": "collapsed",
+            "searchMainMenuActiveTwo": "collapsed",
             "searchMainMenuTwoAttribute": "aria-expanded",
             "searchMainMenuTwoId": "navbar",
             "mainColInner": [
@@ -230,11 +230,13 @@
                 ".c-sidebar.c-bottom-sidebar",
                 ".notice_report"
             ],
-            "footer": "footer",
-            "sectionDivSelector": ".section.pt-40.content-term",
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
-            "elementimagetag": "data-src"
+            "elementimagetag": "data-src",
+            "elementimagestwo": ".entry-content img",
+            "elementchaptertwo": "#chapter-heading",
+            "elementimagetagtwo": "data-src",
+            "footer": "footer"
         }
     ]
 }
