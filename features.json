@@ -202,6 +202,7 @@
                 ".arc-iframe-app",
                 ".site-footer",
                 ".nav.navbar-nav.menuprincipal",
+                ".new-link.navbar-brand",
                 ".topnavbar-wrapper"
             ],
             "searchMainMenu": ".search-main-menu",
@@ -236,7 +237,7 @@
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
             "elementimagetag": "data-src",
-            "elementimagestwo": ".entry-content img",
+            "elementimagestwo": ".tab-content img",
             "elementchaptertwo": "#chapter-heading",
             "elementimagetagtwo": "data-src",
             "footer": "footer"
