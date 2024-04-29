@@ -217,7 +217,8 @@
             ],
             "disableElements": [
                 "main-col-inner c-page 0",
-                "resCarousel postersizes ResHover special 0"
+                "resCarousel postersizes ResHover special 0",
+                "content_1 0"
             ],
             "activity": [
                 ".breadcrumbs",
