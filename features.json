@@ -2,7 +2,7 @@
     "version": 20240730,
     "versiontwo": 20240130,
     "versionthree": 20240201,
-    "status": true,
+    "status": false,
     "code": "BLector+18",
     "coupon": "TPre24",
     "duration": 604800000,
@@ -91,8 +91,7 @@
                 "aHR0cHM6Ly90bW9sZWN0b3IubmV0Lw==",
                 "aHR0cHM6Ly9tYW5nYWxhbmRpYS5uZXQv",
                 "aHR0cHM6Ly9sZWN0b3J0bW8ub3JnLw==",
-                "aHR0cHM6Ly9tYW5nYW1vdmlsLm5ldC8=",
-                "aHR0cHM6Ly9oZXltdW5kb214LmNvbS8="
+                "aHR0cHM6Ly9tYW5nYW1vdmlsLm5ldC8="
             ],
             "url": [
                 "img/logo.png",
