@@ -211,13 +211,10 @@
             "searchMainMenuActiveTwo": "collapsed",
             "searchMainMenuTwoAttribute": "aria-expanded",
             "searchMainMenuTwoId": "navbar",
-            "mainColInner": [
-                "main-col-inner c-page",
-                "main-col-inner c-page"
-            ],
             "disableElements": [
                 "main-col-inner c-page 0",
-                "resCarousel postersizes ResHover special 0"
+                "resCarousel postersizes ResHover special 0",
+                "col-xs-6 col-sm-4 col-md-3 col-lg-2 col-6  content-ellipsis 6"
             ],
             "activity": [
                 ".breadcrumbs",
