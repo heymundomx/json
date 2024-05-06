@@ -34,6 +34,11 @@
                 "pages/premium_dark"
             ],
             "domainimages": [
+                "aHR0cHM6Ly9pbWcubWFuZ2F0di5uZXQv",
+                "aHR0cHM6Ly9pbWcxLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWcyLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWczLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWc0Lm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw=="
             ],
             "urlimage": [
