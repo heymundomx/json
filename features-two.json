@@ -53,14 +53,7 @@
                 "#thememode",
                 ".shme",
                 ".postbody",
-                ".scrollToTop",
-                ".bigcover",
-                ".ts-breadcrumb.bixbox",
-                ".bookmark",
-                ".socialts",
-                "#comments",
-                ".ts-breadcrumb.bixbox",
-                "#Manga"
+                ".scrollToTop"
             ],
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
