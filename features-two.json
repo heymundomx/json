@@ -78,7 +78,7 @@
             ],
             "activity": [
                 ".th.top-header",
-                "#infox",
+                ".infox",
                 "#sidebar"
             ],
             "elementimages": "#readerarea img",
