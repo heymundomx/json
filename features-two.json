@@ -57,6 +57,8 @@
                 ".bookmark",
                 ".socialts",
                 "#comments",
+                "#colophon",
+                ".blox.mlb.kln",
                 "#Manga"
             ],
             "searchMainMenu": ".search-main-menu",
@@ -70,19 +72,10 @@
                 "resCarousel postersizes ResHover special 0"
             ],
             "activity": [
-                ".breadcrumbs",
-                "#preloader-active",
-                ".header.sticky-bar",
-                ".navigation.paging-navigation",
-                ".tab-wrap",
-                ".row.row-eq-height",
-                ".c-genres-block.archive-page",
-                ".main-col-inner.c-page",
-                ".c-sidebar.c-top-second-sidebar",
-                ".summary_content_wrap",
-                ".dcddkoOverlay",
-                ".c-sidebar.c-bottom-sidebar",
-                ".notice_report"
+                ".th.top-header",
+                "#infox",
+                ".bixbox",
+                "#sidebar"
             ],
             "elementimages": "#readerarea img",
             "elementchapter": "#entry-title",
