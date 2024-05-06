@@ -204,15 +204,15 @@
             ],
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
-            "searchMainMenuTwo": ".navbar-toggle",
-            "searchMainMenuActiveTwo": "collapsed",
-            "searchMainMenuTwoAttribute": "aria-expanded",
-            "searchMainMenuTwoId": "navbar",
+            "searchmainmenutwo": ".navbar-toggle",
+            "searchmainmenuactivetwo": "collapsed",
+            "searchmainmenutwoattribute": "aria-expanded",
+            "searchmainmenutwoid": "navbar",
             "disableElements": [
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0"
             ],
-            "disableText": [
+            "disabletext": [
                 "Política de privacidad h1",
                 "Renuncia de responsabilidad h1"
             ],
