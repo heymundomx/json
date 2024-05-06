@@ -53,11 +53,9 @@
                 ".postbody",
                 ".scrollToTop",
                 ".bigcover",
-                ".ts-breadcrumb.bixbox",
                 ".bookmark",
                 ".socialts",
-                "#comments",
-                "#Manga"
+                "#comments"
             ],
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
