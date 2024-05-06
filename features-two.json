@@ -1,8 +1,6 @@
 {
     "code": "DesMundo+18",
     "ads": [
-        "https://judiciousfat.com",
-        "https://judiciousfat.com/czD.9/6Tb/2C5/l/SQWQQm9LN/DBY/w/MnT/YNzeNJCG0K0CNrj_AJx/NrjdMY1p",
         "https://blazonstowel.com",
         "https://blazonstowel.com/twmTuZeyVVAio/76415",
         "https://cdn.viglink.com",
@@ -53,7 +51,14 @@
                 "#thememode",
                 ".shme",
                 ".postbody",
-                ".scrollToTop"
+                ".scrollToTop",
+                ".bigcover",
+                ".ts-breadcrumb.bixbox",
+                ".bookmark",
+                ".socialts",
+                "#comments",
+                ".ts-breadcrumb.bixbox",
+                "#Manga"
             ],
             "searchMainMenu": ".search-main-menu",
             "searchMainMenuActive": "active",
