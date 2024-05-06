@@ -64,7 +64,6 @@
                 "#comments",
                 "#colophon",
                 ".blox.mlb.kln",
-                ".bixbox",
                 "#Manga"
             ],
             "searchMainMenu": ".search-main-menu",
@@ -80,6 +79,7 @@
             "activity": [
                 ".th.top-header",
                 "#infox",
+                ".bixbox",
                 "#sidebar"
             ],
             "elementimages": "#readerarea img",
