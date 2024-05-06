@@ -1,7 +1,6 @@
 {
     "version": 20240801,
     "versiontwo": 20240130,
-    "versionthree": 20240201,
     "status": false,
     "code": "DesMundo+18",
     "coupon": "TPre24",
@@ -31,8 +30,6 @@
         "UY",
         "VE"
     ],
-    "okru": ".*//ok\\.ru/.*",
-    "tape": ".*//streamtape\\.com/.*",
     "adone": "https://pagead2.googleadservices.com",
     "adtwo": "https://ad.doubleclick.net",
     "ads": [
