@@ -212,6 +212,10 @@
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0"
             ],
+            "disableText": [
+                "Política de privacidad h1",
+                "Renuncia de responsabilidad h1"
+            ],
             "activity": [
                 ".breadcrumbs",
                 "#preloader-active",
