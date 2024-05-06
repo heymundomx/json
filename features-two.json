@@ -78,6 +78,9 @@
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0"
             ],
+            "disableText": [
+                "MangaTV - lee tus mangas gratis y de forma online"
+            ],
             "activity": [
                 ".th.top-header",
                 ".infox",
