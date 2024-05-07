@@ -55,7 +55,8 @@
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8="
+                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
+                "aHR0cHM6Ly9oZXltdW5kb214LmNvbS8="
             ],
             "url": [
                 "assets/images/logo_blanco.png",
