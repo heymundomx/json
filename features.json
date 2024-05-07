@@ -1,5 +1,5 @@
 {
-    "version": 20240801,
+    "version": 20240810,
     "versiontwo": 20240130,
     "status": false,
     "code": "DesMundo+18",
@@ -88,7 +88,8 @@
                 "aHR0cHM6Ly90bW9sZWN0b3IubmV0Lw==",
                 "aHR0cHM6Ly9tYW5nYWxhbmRpYS5uZXQv",
                 "aHR0cHM6Ly9sZWN0b3J0bW8ub3JnLw==",
-                "aHR0cHM6Ly9tYW5nYW1vdmlsLm5ldC8="
+                "aHR0cHM6Ly9tYW5nYW1vdmlsLm5ldC8=",
+                "aHR0cHM6Ly9oZXltdW5kb214LmNvbS8="
             ],
             "url": [
                 "img/logo.png",
@@ -198,13 +199,13 @@
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper"
             ],
-            "searchMainMenu": ".search-main-menu",
-            "searchMainMenuActive": "active",
+            "searchmainmenu": ".search-main-menu",
+            "searchmainmenuactive": "active",
             "searchmainmenutwo": ".navbar-toggle",
             "searchmainmenuactivetwo": "collapsed",
             "searchmainmenutwoattribute": "aria-expanded",
             "searchmainmenutwoid": "navbar",
-            "disableElements": [
+            "disableelements": [
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0"
             ],
@@ -232,8 +233,7 @@
             "elementimagetag": "data-src",
             "elementimagestwo": ".tab-content img",
             "elementchaptertwo": "#chapter-heading",
-            "elementimagetagtwo": "data-src",
-            "footer": "footer"
+            "elementimagetagtwo": "data-src"
         }
     ]
 }
