@@ -156,7 +156,8 @@
                 ".th.top-header",
                 ".infox",
                 "#sidebar",
-                ".page.manga-page.mobile"
+                ".page.manga-page.mobile",
+                ".page.reading-manga.mobile"
             ]
         }
     ]
