@@ -205,9 +205,7 @@
                 ".dcddkoOverlay",
                 ".c-sidebar.c-bottom-sidebar",
                 ".notice_report",
-                ".th.top-header",
-                ".infox",
-                "#sidebar"
+                ".darkmode"
             ],
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
