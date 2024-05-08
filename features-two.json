@@ -35,12 +35,6 @@
         "https://judiciousfat.com/czD.9/6Tb/2C5/l/SQWQQm9LN/DBY/w/MnT/YNzeNJCG0K0CNrj_AJx/NrjdMY1p",
         "https://blazonstowel.com",
         "https://blazonstowel.com/twmTuZeyVVAio/76415",
-        "https://uf.disbendcrumby.com",
-        "https://uf.disbendcrumby.com/fivzNnirgtxQslx/45651",
-        "https://majorcharacter.com",
-        "https://majorcharacter.com/c/D.9K6lbk2N5/lrSHWAQj9zNTDNc-0RONTJUs4hOuS/0c0MNzzrQQ5-NQTwkUwM",
-        "https://shelfoka.com",
-        "https://shelfoka.com/fraf9QUrrArrDdGBq/60527",
         "https://cdn.viglink.com",
         "https://cdn.viglink.com/images/pixel.gif",
         "https://arc.io",
@@ -59,14 +53,7 @@
         "https://static.cloudflareinsights.com",
         "https://static.cloudflareinsights.com/beacon.min.js",
         "https://www.googletagmanager.com/gtag/js?id=UA-200507601-1",
-        "https://www.googletagmanager.com/gtag/js?id=G-458WRMRQWG",
-        "https://www.googletagmanager.com/gtag/js?id=G-67Y2KRCYWB",
-        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-49",
-        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-53",
-        "https://www.googletagmanager.com/gtag/js?id=G-V1FZBSFSKC",
-        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-54",
-        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-42",
-        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-32"
+        "https://www.googletagmanager.com/gtag/js?id=G-458WRMRQWG"
     ],
     "content": [
         {
@@ -169,19 +156,7 @@
                 ".th.top-header",
                 ".infox",
                 "#sidebar",
-                ".breadcrumbs",
-                "#preloader-active",
-                ".header.sticky-bar",
-                ".navigation.paging-navigation",
-                ".tab-wrap",
-                ".row.row-eq-height",
-                ".c-genres-block.archive-page",
-                ".main-col-inner.c-page",
-                ".c-sidebar.c-top-second-sidebar",
-                ".summary_content_wrap",
-                ".dcddkoOverlay",
-                ".c-sidebar.c-bottom-sidebar",
-                ".notice_report"
+                ".page.manga-page.mobile"
             ]
         }
     ]
