@@ -80,8 +80,7 @@
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
-                "aHR0cHM6Ly9kcmFnb250cmFuc2xhdGlvbi5uZXQv"
+                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8="
             ],
             "url": [
                 "assets/images/logo_blanco.png",
@@ -95,12 +94,10 @@
                 "aHR0cHM6Ly9pbWcyLm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWczLm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWc0Lm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9kcmFnb250cmFuc2xhdGlvbi5uZXQv"
+                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw=="
             ],
             "urlimage": [
-                "library/.*",
-                "assets_m/.*"
+                "library/.*"
             ],
             "subs": [
                 "manga",
@@ -124,55 +121,10 @@
                 ".blox.mlb.kln",
                 ".readingnav.rnavbot",
                 ".Manga",
-                ".go-to-top.active",
-                ".chapter-item",
-                ".list-chapter",
-                ".slick-prev.slick-arrow",
-                ".slick-next.slick-arrow",
-                "#arc-broker",
-                "#arc-widget-container",
-                ".col-lg-12.col-md-12.col-sm-12.content-ads",
-                ".adsfooter",
-                "#pushcontent-slidedown-dialog",
-                "#pushcontent-slidedown-container",
-                "#notification-push",
-                "#button-notification-active",
-                ".main-navigation_wrap",
-                "#discord-button",
-                "#init-links",
-                "#main-sidebar",
-                "#manga-history-id-4",
-                ".disqus_commend",
-                "#notification-button",
-                ".c-breadcrumb",
-                ".adsbygoogle",
-                ".interest",
-                ".manga-action",
-                "#manga-recent-4",
-                ".content_disqus",
-                "#manga-discussion",
-                ".manga-discussion.wrapper",
-                ".notification-manga",
-                ".ads_article",
-                ".adsbygoogle.adsbygoogle-noablate",
-                ".p_patrocinado",
-                ".notranslate",
-                ".arc-iframe-app",
-                ".site-footer",
-                ".nav.navbar-nav.menuprincipal",
-                ".new-link.navbar-brand",
-                ".topnavbar-wrapper",
-                ".col-md-4.col-sm-12.col-xs-12"
-            ],
-            "searchmainmenu": ".search-main-menu",
-            "searchmainmenuactive": "active",
-            "disableelements": [
-                "d-flex justify-content-center 1",
-                "d-flex justify-content-center 2"
+                ".go-to-top.active"
             ],
             "disabletext": [
-                "MangaTV - lee tus mangas gratis y de forma online h1",
-                "Ja2023114p647 span"
+                "MangaTV - lee tus mangas gratis y de forma online h1"
             ],
             "activity": [
                 ".th.top-header",
