@@ -28,6 +28,8 @@
         "UY",
         "VE"
     ],
+    "adone": "https://pagead2.googleadservices.com",
+    "adtwo": "https://ad.doubleclick.net",
     "ads": [
         "https://js.juicyads.com",
         "https://js.juicyads.com/jp.php?c=34b4v2y2s254u4q2w27423b4a4&u=https%3A%2F%2Ftumanhwas.com",
@@ -138,7 +140,7 @@
             ],
             "elementimages": "#chapter_imgs img",
             "elementchapter": "#chapter-heading",
-            "elementimagetag": "src",
+            "elementimagetag": "src"
         }
     ]
 }
