@@ -93,6 +93,7 @@
             "url": [
                 "img/logo.png",
                 "img/bg-search.jpg",
+                "manga/falso-comienzo",
                 "manga/romance-en-una-isla-desierta",
                 "manga/no-pienses-mal-de-mi",
                 "manga/abre-tu-corazon",
@@ -104,7 +105,7 @@
                 "manga/heart-effect-yaoi",
                 "manga/full-moon-alchemist",
                 "manga/linea-de-cruce",
-                "manga/hogar",
+                "manga/puedes-con-esto-hesseo",
                 "manga/mated-to-the-ruthless-alpha",
                 "manga/caida-al-mar",
                 "manga/contrato-de-esclavitud-obsceno",
@@ -124,19 +125,13 @@
                 "manga/neptuno-cayo-en-el-campo-de-batalla-de-shura",
                 "manga/bajo-la-tierra-azul-beneath-the-blue-land",
                 "manga/4-week-lovers",
-                "manga/puedo-ver-tus-estadisticas",
-                "manga/proyeccion",
                 "manga/no-es-mucho-mejor-ser-una-mujer-malvada",
                 "genero/ecchi",
                 "genero/girls-love",
                 "genero/boys-love",
                 "genero/harem",
                 "genero/gore",
-                "adulto",
-                "pages/stories",
-                "pages/stories_dark",
-                "pages/premium",
-                "pages/premium_dark"
+                "adulto"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9pbWFnZXMudG1vbWFuZ2EuY29tLw==",
