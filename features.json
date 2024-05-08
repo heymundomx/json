@@ -50,13 +50,12 @@
         "https://schoonnonform.com/f78U5SIVh87/46156",
         "https://chozarpeases.com",
         "https://chozarpeases.com/fiCvWAo6WHG/45688",
-        "https://humble-gap.com",
-        "https://humble-gap.com/c/D/9.6/bC2X5ylASSWHQi9iNsD/Mt0aNnzZcj0BMIid0h0oMLzCQO3pNzz_Qrzb",
+        "https://judiciousfat.com",
+        "https://judiciousfat.com/czD.9/6Tb/2C5/l/SQWQQm9LN/DBY/w/MnT/YNzeNJCG0K0CNrj_AJx/NrjdMY1p",
+        "https://blazonstowel.com",
+        "https://blazonstowel.com/twmTuZeyVVAio/76415",
         "https://a.magsrv.com",
         "https://a.magsrv.com/ad-provider.js",
-        "https://inmanga.com/ads/get?type=1&adNetwork=1",
-        "https://inmanga.com/ads/get?type=2&adNetwork=1",
-        "https://inmanga.com/ads/get?type=3&adNetwork=1",
         "https://cdn.viglink.com",
         "https://cdn.viglink.com/images/pixel.gif",
         "https://arc.io",
@@ -78,7 +77,9 @@
         "https://www.googletagmanager.com/gtag/js?id=G-V1FZBSFSKC",
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-54",
         "https://www.googletagmanager.com/gtag/js?id=UA-40545214-49",
-        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-32"
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-32",
+        "https://www.googletagmanager.com/gtag/js?id=UA-200507601-1",
+        "https://www.googletagmanager.com/gtag/js?id=G-MCWESB7QVG"
     ],
     "content": [
         {
@@ -216,7 +217,10 @@
                 ".summary_content_wrap",
                 ".dcddkoOverlay",
                 ".c-sidebar.c-bottom-sidebar",
-                ".notice_report"
+                ".notice_report",
+                ".th.top-header",
+                ".infox",
+                "#sidebar"
             ],
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
