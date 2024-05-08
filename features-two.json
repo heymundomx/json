@@ -53,18 +53,13 @@
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
-                "aHR0cHM6Ly9oZXltdW5kb214LmNvbS8="
+                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8="
             ],
             "url": [
                 "assets/images/logo_blanco.png",
                 "assets/images/logo_negro.png",
                 "manga/.*",
-                "leer/.*",
-                "pages/stories",
-                "pages/stories_dark",
-                "pages/premium",
-                "pages/premium_dark"
+                "leer/.*"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9pbWcubWFuZ2F0di5uZXQv",
