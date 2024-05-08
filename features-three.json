@@ -1,0 +1,97 @@
+{
+    "version": 20240810,
+    "versiontwo": 20240130,
+    "status": false,
+    "code": "DesMundo+18",
+    "countries": [
+        "AR",
+        "BZ",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "US",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "DO",
+        "UY",
+        "VE"
+    ],
+    "ads": [
+        "https://inmanga.com/ads/get?type=1&adNetwork=1",
+        "https://inmanga.com/ads/get?type=2&adNetwork=1",
+        "https://inmanga.com/ads/get?type=3&adNetwork=1",
+        "https://connect.facebook.net/en_US/sdk.js"
+    ],
+    "content": [
+        {
+            "domains": [
+                "aHR0cHM6Ly9pbm1hbmdhLmNvbS8=",
+                "aHR0cHM6Ly9wYWNrLXlhay5pbnRvbWFuZ2EuY29tLw=="
+            ],
+            "url": [
+                "img/logo.png",
+                "img/bg-search.jpg",
+                "ver/manga/.*"
+            ],
+            "domainimages": [
+                "aHR0cHM6Ly9wYWNrLXlhay5pbnRvbWFuZ2EuY29tLw=="
+            ],
+            "urlimage": [
+                "thumbnails/.*"
+            ],
+            "subs": [
+                "ver/manga"
+            ]
+        }
+    ],
+    "css": [
+        {
+            "fragment": [
+                ".topnavbar-wrapper",
+                ".col-md-4.col-xs-12.p0.visible-xs",
+                ".col-md-4.col-xs-12.p0",
+                ".scroll-top-wrapper.show",
+                "#suggestGenere",
+                "#commentsSection",
+                ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left"
+            ],
+            "searchmainmenu": ".navbar-form",
+            "searchmainmenuactive": "open",
+            "disableelements": [
+                "main-col-inner c-page 0",
+                "resCarousel postersizes ResHover special 0"
+            ],
+            "disabletext": [
+                "Política de privacidad h1",
+                "Renuncia de responsabilidad h1"
+            ],
+            "activity": [
+                ".breadcrumbs",
+                "#preloader-active",
+                ".header.sticky-bar",
+                ".navigation.paging-navigation",
+                ".tab-wrap",
+                ".row.row-eq-height",
+                ".c-genres-block.archive-page",
+                ".main-col-inner.c-page",
+                ".c-sidebar.c-top-second-sidebar",
+                ".summary_content_wrap",
+                ".dcddkoOverlay",
+                ".c-sidebar.c-bottom-sidebar",
+                ".notice_report"
+            ]
+        }
+    ]
+}
