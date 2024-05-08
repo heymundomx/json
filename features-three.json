@@ -71,6 +71,7 @@
     "css": [
         {
             "fragment": [
+                ".go-to-top.active",
                 ".chapter-item",
                 ".list-chapter",
                 ".slick-prev.slick-arrow",
