@@ -155,8 +155,6 @@
     "css": [
         {
             "fragment": [
-                ".chapter-item",
-                ".list-chapter",
                 ".slick-prev.slick-arrow",
                 ".slick-next.slick-arrow",
                 "#arc-broker",
@@ -199,7 +197,9 @@
             "searchmainmenutwoid": "navbar",
             "disableelements": [
                 "main-col-inner c-page 0",
-                "resCarousel postersizes ResHover special 0"
+                "resCarousel postersizes ResHover special 0",
+                "chapter-item 0",
+                "list-chapter 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
