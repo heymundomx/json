@@ -104,10 +104,10 @@
                 ".page.manga-page.mobile",
                 ".page.reading-manga.mobile"
             ],
-            "elementimages": "#readerarea img.ts-main-image",
+            "elementimages": "#readerarea img",
             "elementchapter": ".entry-title",
             "elementimagetag": "src",
-            "elementimagestwo": "#readerarea img.ts-main-image",
+            "elementimagestwo": "#readerarea img",
             "elementchaptertwo": ".entry-title",
             "elementimagetagtwo": "src"
         }
