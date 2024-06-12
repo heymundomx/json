@@ -103,7 +103,13 @@
                 "#sidebar",
                 ".page.manga-page.mobile",
                 ".page.reading-manga.mobile"
-            ]
+            ],
+            "elementimages": "#readerarea img.ts-main-image",
+            "elementchapter": ".entry-title",
+            "elementimagetag": "src",
+            "elementimagestwo": "#readerarea img.ts-main-image",
+            "elementchaptertwo": ".entry-title",
+            "elementimagetagtwo": "src"
         }
     ]
 }
