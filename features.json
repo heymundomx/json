@@ -2,8 +2,6 @@
     "version": 20240930,
     "versiontwo": 20240130,
     "status": false,
-    "code": "TMundoBL+18",
-    "coupon": "T-24",
     "duration": 604800000,
     "countries": [
         "AR",
@@ -30,8 +28,6 @@
         "UY",
         "VE"
     ],
-    "adone": "https://pagead2.googleadservices.com",
-    "adtwo": "https://ad.doubleclick.net",
     "ads": [
         "https://zr.mimicvrows.com",
         "https://zr.mimicvrows.com/f54fMTMtJzjYrPqr/45651",
