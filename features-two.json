@@ -2,6 +2,7 @@
     "version": 20241001,
     "versiontwo": 20240130,
     "status": true,
+    "duration": 604800000,
     "countries": [
         "AR",
         "BZ",
