@@ -1,0 +1,32 @@
+{
+    "version": 20240801,
+    "status": true,
+    "duration": 604800000,
+    "countries": [
+        "AR",
+        "BZ",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "US",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "DO",
+        "UY",
+        "VE"
+    ],
+    "okru": ".*//ok\\.ru/.*",
+    "tape": ".*//streamtape\\.com/.*"
+}
