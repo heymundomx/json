@@ -82,7 +82,9 @@
                 "#commentsSection",
                 ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
                 ".col-md-4.col-xs-12.p0.visible-xs",
-                "#suggestGenere"
+                "#suggestGenere",
+                ".blue.bolder",
+                ".bigger-120"
             ],
             "searchmainmenu": ".navbar-form",
             "searchmainmenuactive": "open",
@@ -91,9 +93,6 @@
                 "Renuncia de responsabilidad h1"
             ],
             "activity": [
-                ".topnavbar-wrapper",
-                "#commentsSection",
-                ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
                 ".blue.ellipsed-text.mb0"
             ]
         }
