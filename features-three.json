@@ -121,10 +121,6 @@
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
-            "searchmainmenutwo": ".navbar-toggle",
-            "searchmainmenuactivetwo": "collapsed",
-            "searchmainmenutwoattribute": "aria-expanded",
-            "searchmainmenutwoid": "navbar",
             "disableelements": [
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0"
@@ -165,9 +161,6 @@
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
             "elementimagetag": "data-src",
-            "elementimagestwo": ".tab-content img",
-            "elementchaptertwo": "#chapter-heading",
-            "elementimagetagtwo": "data-src"
         }
     ]
 }
