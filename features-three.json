@@ -1,0 +1,106 @@
+{
+    "version": 20241020,
+    "versiontwo": 20240610,
+    "status": true,
+    "duration": 2592000000,
+    "countries": [
+        "AR",
+        "BZ",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "US",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "DO",
+        "UY",
+        "VE"
+    ],
+    "ads": [
+        "https://possibilityfoundationwallpaper.com",
+        "https://possibilityfoundationwallpaper.com/25/22/75/252275940ee12987a0cfcaed81850f0e.js",
+        "https://possibilityfoundationwallpaper.com/b7/15/78/b715780da6e4fb34259c5749c1c90a98.js",
+        "https://gnashesfanfare.com",
+        "https://gnashesfanfare.com/tbVBP3f7x6oMJbRy/69622",
+        "https://inmanga.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+        "https://pack-yak.intomanga.com/Content/img/OnMangaLogo.png",
+        "https://www.google-analytics.com",
+        "https://www.google-analytics.com/analytics.js",
+        "https://disqus.com",
+        "https://tempest.services.disqus.com",
+        "https://apis.google.com",
+        "https://apis.google.com/js/api.js",
+        "https://connect.facebook.net/en_US/sdk.js",
+        "https://www.facebook.com/v10.0/plugins/page.php",
+        "https://static.cloudflareinsights.com",
+        "https://static.cloudflareinsights.com/beacon.min.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-67Y2KRCYWB",
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-42",
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-53",
+        "https://www.googletagmanager.com/gtag/js?id=G-V1FZBSFSKC",
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-54",
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-49",
+        "https://www.googletagmanager.com/gtag/js?id=UA-40545214-32",
+        "https://www.googletagmanager.com/gtag/js?id=G-458WRMRQWG"
+    ],
+    "content": [
+        {
+            "domains": [
+                "aHR0cHM6Ly9pbm1hbmdhLmNvbS8="
+            ],
+            "url": [
+                "img/logo.png",
+                "img/bg-search.jpg",
+                "ver/.*"
+            ],
+            "domainimages": [
+                "aHR0cHM6Ly9wYWNrLXlhay5pbnRvbWFuZ2EuY29tLw=="
+            ],
+            "urlimage": [
+                "thumbnails/.*"
+            ],
+            "subs": [
+                "ver"
+            ]
+        }
+    ],
+    "css": [
+        {
+            "fragment": [
+                ".topnavbar-wrapper",
+                "#commentsSection",
+                ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
+                "#suggestGenere",
+                ".input-group.mb"
+            ],
+            "searchmainmenu": ".navbar-form",
+            "searchmainmenuactive": "open",
+            "disableelements": [
+                "col-md-4 col-xs-12 p0 visible-xs 0",
+                "resCarousel postersizes ResHover special 0"
+            ],
+            "disabletext": [
+                "Política de privacidad h1",
+                "Renuncia de responsabilidad h1"
+            ],
+            "activity": [
+                ".topnavbar-wrapper",
+                "#commentsSection",
+                ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
+                ".blue.ellipsed-text.mb0"
+            ]
+        }
+    ]
+}
