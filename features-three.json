@@ -106,6 +106,8 @@
                 "#manga-recent-4",
                 ".content_disqus",
                 "#manga-discussion",
+                ".manga-discussion wrapper",
+                "#disqus_recommendations",
                 ".notification-manga",
                 ".ads_article",
                 ".adsbygoogle.adsbygoogle-noablate",
