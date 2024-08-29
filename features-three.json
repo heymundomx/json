@@ -84,7 +84,8 @@
                 ".col-md-4.col-xs-12.p0.visible-xs",
                 "#suggestGenere",
                 ".blue.bolder",
-                ".bigger-120"
+                ".bigger-120",
+                ".scroll-top-wrapper.show"
             ],
             "searchmainmenu": ".navbar-form",
             "searchmainmenuactive": "open",
