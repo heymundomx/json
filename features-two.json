@@ -92,7 +92,9 @@
                 ".go-to-top.active"
             ],
             "disabletext": [
-                "MangaTV - lee tus mangas gratis y de forma online h1"
+                "MangaTV - lee tus mangas gratis y de forma online h1",
+                "Política de privacidad h1",
+                "Renuncia de responsabilidad h1"
             ],
             "activity": [
                 ".th.top-header",
