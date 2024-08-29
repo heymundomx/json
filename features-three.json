@@ -35,7 +35,6 @@
         "https://gnashesfanfare.com",
         "https://gnashesfanfare.com/tbVBP3f7x6oMJbRy/69622",
         "https://inmanga.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
-        "https://pack-yak.intomanga.com/Content/img/OnMangaLogo.png",
         "https://www.google-analytics.com",
         "https://www.google-analytics.com/analytics.js",
         "https://disqus.com",
@@ -58,11 +57,11 @@
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly9pbm1hbmdhLmNvbS8="
+                "aHR0cHM6Ly9pbm1hbmdhLmNvbS8=",
+                "aHR0cHM6Ly9wYWNrLXlhay5pbnRvbWFuZ2EuY29tLw=="
             ],
             "url": [
-                "img/logo.png",
-                "img/bg-search.jpg",
+                "Content/img/OnMangaLogo.png",
                 "ver/.*"
             ],
             "domainimages": [
@@ -82,14 +81,11 @@
                 ".topnavbar-wrapper",
                 "#commentsSection",
                 ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
+                ".col-md-4.col-xs-12.p0.visible-xs",
                 "#suggestGenere"
             ],
             "searchmainmenu": ".navbar-form",
             "searchmainmenuactive": "open",
-            "disableelements": [
-                "col-md-4 col-xs-12 p0 visible-xs 0",
-                "resCarousel postersizes ResHover special 0"
-            ],
             "disabletext": [
                 "Política de privacidad h1",
                 "Renuncia de responsabilidad h1"
