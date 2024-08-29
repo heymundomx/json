@@ -80,8 +80,6 @@
                 ".bigger-120",
                 ".scroll-top-wrapper.show"
             ],
-            "searchmainmenu": ".navbar-form",
-            "searchmainmenuactive": "open",
             "disabletext": [
                 "Política de privacidad h1",
                 "Renuncia de responsabilidad h1"
