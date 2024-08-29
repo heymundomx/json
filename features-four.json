@@ -118,7 +118,6 @@
                 ".topnavbar-wrapper",
                 ".manga-action",
                 ".go-to-top",
-                ".go-to-top active"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
