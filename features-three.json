@@ -117,7 +117,7 @@
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
                 ".manga-action",
-                ".go-to-top",
+                ".go-to-top"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -160,7 +160,7 @@
             ],
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
-            "elementimagetag": "data-src",
+            "elementimagetag": "data-src"
         }
     ]
 }
