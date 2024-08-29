@@ -28,21 +28,12 @@
         "VE"
     ],
     "ads": [
-        "https://js.juicyads.com",
-        "https://js.juicyads.com/jp.php",
-        "https://js.juicyads.com/jp.php?c=34b4v2y2s254u4q2w27423b4a4&u=https%3A%2F%2Ftumanhwas.com",
-        "https://exdynsrv.com",
-        "https://a.exdynsrv.com",
-        "https://a.exdynsrv.com/video-slider.js",
-        "https://a.exdynsrv.com/ad-provider.js",
-        "https://poweredby.jads.co",
-        "https://poweredby.jads.co/js/jads.js",
-        "https://arc.io",
-        "https://arc.io/widget.min.js",
-        "https://core.arc.io",
-        "https://core.arc.io/broker.html",
-        "https://cdn.viglink.com",
-        "https://cdn.viglink.com/images/pixel.gif",
+        "https://gnashesfanfare.com",
+        "https://gnashesfanfare.com/tbVBP3f7x6oMJbRy/69622",
+        "https://possibilityfoundationwallpaper.com",
+        "https://possibilityfoundationwallpaper.com/b7/15/78/b715780da6e4fb34259c5749c1c90a98.js",
+        "https://possibilityfoundationwallpaper.com/25/22/75/252275940ee12987a0cfcaed81850f0e.js",
+        "https://inmanga.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
         "https://www.google-analytics.com",
         "https://www.google-analytics.com/analytics.js",
         "https://disqus.com",
@@ -50,124 +41,52 @@
         "https://apis.google.com",
         "https://apis.google.com/js/api.js",
         "https://connect.facebook.net/en_US/sdk.js",
+        "https://www.facebook.com/v10.0/plugins/page.php",
         "https://static.cloudflareinsights.com",
         "https://static.cloudflareinsights.com/beacon.min.js",
-        "https://www.googletagmanager.com/gtag/js?id=G-458WRMRQWG"
+        "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+        "https://www.googletagmanager.com/gtag/js?id=UA-81620765-1"
     ],
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly93d3cuZHJhZ29udHJhbnNsYXRpb24ubmV0Lw=="
+                "aHR0cHM6Ly9pbm1hbmdhLmNvbS8=",
+                "aHR0cHM6Ly9wYWNrLXlhay5pbnRvbWFuZ2EuY29tLw=="
             ],
             "url": [
-                "logo.png",
-                "img/bg-search.jpg",
-                "manga/.*",
-                "leer/.*"
+                "Content/img/OnMangaLogo.png",
+                "ver/.*"
             ],
             "domainimages": [
-                "aHR0cHM6Ly9tYW5od2FzLm5ldC8="
+                "aHR0cHM6Ly9wYWNrLXlhay5pbnRvbWFuZ2EuY29tLw=="
             ],
             "urlimage": [
-                "assets_m/.*"
+                "thumbnails/.*"
             ],
             "subs": [
-                "manga",
-                "leer"
+                "ver/manga"
             ]
         }
     ],
     "css": [
         {
             "fragment": [
-                ".chapter-item",
-                ".list-chapter",
-                ".slick-prev.slick-arrow",
-                ".slick-next.slick-arrow",
-                "#arc-broker",
-                "#arc-widget-container",
-                ".col-lg-12.col-md-12.col-sm-12.content-ads",
-                ".col-md-4.col-sm-12.col-xs-12",
-                ".adsfooter",
-                "#pushcontent-slidedown-dialog",
-                "#pushcontent-slidedown-container",
-                "#notification-push",
-                "#button-notification-active",
-                ".main-navigation_wrap",
-                "#discord-button",
-                "#init-links",
-                "#main-sidebar",
-                "#manga-history-id-4",
-                ".disqus_commend",
-                "#notification-button",
-                ".c-breadcrumb",
-                ".adsbygoogle",
-                ".interest",
-                "#manga-recent-4",
-                ".content_disqus",
-                "#manga-discussion",
-                ".notification-manga",
-                ".ads_article",
-                ".adsbygoogle.adsbygoogle-noablate",
-                ".p_patrocinado",
-                ".notranslate",
-                ".arc-iframe-app",
-                ".site-footer",
-                ".nav.navbar-nav.menuprincipal",
-                ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
-                ".manga-action",
-                ".go-to-top",
-            ],
-            "searchmainmenu": ".search-main-menu",
-            "searchmainmenuactive": "active",
-            "searchmainmenutwo": ".navbar-toggle",
-            "searchmainmenuactivetwo": "collapsed",
-            "searchmainmenutwoattribute": "aria-expanded",
-            "searchmainmenutwoid": "navbar",
-            "disableelements": [
-                "main-col-inner c-page 0",
-                "resCarousel postersizes ResHover special 0"
+                "#commentsSection",
+                ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
+                ".col-md-4.col-xs-12.p0.visible-xs",
+                "#suggestGenere",
+                ".blue.bolder",
+                ".bigger-120",
+                ".scroll-top-wrapper.show"
             ],
             "disabletext": [
                 "Política de privacidad h1",
-                "Renuncia de responsabilidad h1",
-                "Lee mangas y manhwas en español online h1"
+                "Renuncia de responsabilidad h1"
             ],
             "activity": [
-                ".breadcrumbs",
-                "#preloader-active",
-                ".header.sticky-bar",
-                ".navigation.paging-navigation",
-                ".tab-wrap",
-                ".row.row-eq-height",
-                ".c-genres-block.archive-page",
-                ".main-col-inner.c-page",
-                ".c-sidebar.c-top-second-sidebar",
-                ".summary_content_wrap",
-                ".dcddkoOverlay",
-                ".c-sidebar.c-bottom-sidebar",
-                ".notice_report",
-                ".darkmode"
-            ],
-            "borderexclude": [
-                ".manga-title-recommend",
-                ".manga-title-updated",
-                ".manga-episode-title",
-                ".c-image-hover img",
-                ".page-link",
-                ".card",
-                ".btn",
-                ".list-group",
-                ".form-control",
-                ".code-display"
-            ],
-            "elementimages": ".entry-content img",
-            "elementchapter": "#chapter-heading",
-            "elementimagetag": "data-src",
-            "elementimagestwo": ".tab-content img",
-            "elementchaptertwo": "#chapter-heading",
-            "elementimagetagtwo": "data-src"
+                "#commentsSection"
+            ]
         }
     ]
 }
