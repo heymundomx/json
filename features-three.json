@@ -82,8 +82,7 @@
                 ".topnavbar-wrapper",
                 "#commentsSection",
                 ".form-group.col-sm-12.col-xs-12.ChapterDescriptionContainer.pull-left",
-                "#suggestGenere",
-                ".input-group.mb"
+                "#suggestGenere"
             ],
             "searchmainmenu": ".navbar-form",
             "searchmainmenuactive": "open",
