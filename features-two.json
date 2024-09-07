@@ -32,13 +32,6 @@
         "https://blazonstowel.com/twmTuZeyVVAio/76415",
         "https://illiterate-finance.com",
         "https://illiterate-finance.com/ciDE9M6Hb.2e5El/SXWeQA9/NNDeY-wIMOTJY/zLNTCH0/0/NijMAMxkNCjMMz1S",
-        "https://ads.sportslocalmedia.com",
-        "https://ads.sportslocalmedia.com/slm.prebid.lectormiau.js",
-        "https://seedtag.com",
-        "https://t.seedtag.com/t/0365-5895-01.js",
-        "https://kirteexe.tv",
-        "https://kirteexe.tv/5/7864794",
-        "https://widgetbot.io",
         "https://cdn.viglink.com",
         "https://cdn.viglink.com/images/pixel.gif",
         "https://www.google-analytics.com",
@@ -57,15 +50,13 @@
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
-                "aHR0cHM6Ly9sZWN0b3JtaWF1LmNvbS8="
+                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8="
             ],
             "url": [
                 "assets/images/logo_blanco.png",
                 "assets/images/logo_negro.png",
                 "manga/.*",
-                "leer/.*",
-                "capitulo-.*"
+                "leer/.*"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9pbWcubWFuZ2F0di5uZXQv",
@@ -73,12 +64,10 @@
                 "aHR0cHM6Ly9pbWcyLm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWczLm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWc0Lm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9sZWN0b3JtaWF1LmNvbS8="
+                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw=="
             ],
             "urlimage": [
-                "library/.*",
-                "wp-content/uploads/.*"
+                "library/.*"
             ],
             "subs": [
                 "manga",
@@ -102,13 +91,7 @@
                 ".blox.mlb.kln",
                 ".readingnav.rnavbot",
                 ".Manga",
-                ".go-to-top.active",
-                ".n2-section-smartslider.fitvidsignore.n2_clear",
-                ".home-genres",
-                ".promo-banner",
-                ".releases.blog",
-                ".bloglist",
-                "#sidebar"
+                ".go-to-top.active"
             ],
             "disabletext": [
                 "MangaTV - lee tus mangas gratis y de forma online h1",
