@@ -101,7 +101,8 @@
                 ".alignnone.size-medium.wp-image-240349",
                 ".srcmob.srccls",
                 ".chdesc",
-                ".bmc"
+                ".bmc",
+                ".rating.bixbox"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
