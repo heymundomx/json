@@ -112,7 +112,8 @@
                 ".teaser2",
                 ".teaser3",
                 ".ctrx",
-                ".close-teaser"
+                ".close-teaser",
+                ".logos"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
