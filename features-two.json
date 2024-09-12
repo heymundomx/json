@@ -84,7 +84,7 @@
             ],
             "subs": [
                 "series",
-                "capitulo"
+                "capitulo-.*"
             ]
         }
     ],
