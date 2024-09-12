@@ -52,7 +52,6 @@
         "https://fundingchoicesmessages.google.com/b/pub-4381890326403119",
         "https://fundingchoicesmessages.google.com/i/pub-4381890326403119?ers=1",
         "https://fundingchoicesmessages.google.com/el/AGSKWxU6-x0Jfm8OyPl9lPgqdkCZv639KSXk6P6RVQYvKolTu8NHV1yl6RUg6ax7pAPTmdH4N6JNquty_KaS4g45fLw2_g==?ab=1&sbf=1",
-        "https://carteldemanhwas.com/wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
         "https://www.googletagmanager.com/gtag/js?id=UA-200507601-1",
         "https://www.googletagmanager.com/gtag/js?id=GT-PHGNQN5"
     ],
@@ -65,6 +64,7 @@
             "url": [
                 "assets/images/logo_blanco.png",
                 "assets/images/logo_negro.png",
+                "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
                 "manga/.*",
                 "leer/.*",
                 "series/.*"
