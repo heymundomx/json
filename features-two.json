@@ -1,7 +1,7 @@
 {
     "version": 20241110,
     "versiontwo": 20240610,
-    "status": false,
+    "status": true,
     "countries": [
         "AR",
         "BZ",
@@ -28,23 +28,6 @@
         "VE"
     ],
     "ads": [
-        "https://blazonstowel.com",
-        "https://blazonstowel.com/twmTuZeyVVAio/76415",
-        "https://illiterate-finance.com",
-        "https://illiterate-finance.com/ciDE9M6Hb.2e5El/SXWeQA9/NNDeY-wIMOTJY/zLNTCH0/0/NijMAMxkNCjMMz1S",
-        "https://cdn.viglink.com",
-        "https://cdn.viglink.com/images/pixel.gif",
-        "https://www.google-analytics.com",
-        "https://www.google-analytics.com/analytics.js",
-        "https://disqus.com",
-        "https://tempest.services.disqus.com",
-        "https://links.services.disqus.com/api/ping",
-        "https://mangatv-1.disqus.com/embed.js",
-        "https://apis.google.com",
-        "https://apis.google.com/js/api.js",
-        "https://connect.facebook.net/en_US/sdk.js",
-        "https://static.cloudflareinsights.com",
-        "https://static.cloudflareinsights.com/beacon.min.js",
         "https://pagead2.googlesyndication.com",
         "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4381890326403119",
         "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4381890326403119&host=ca-host-pub-2644536267352236",
@@ -52,34 +35,34 @@
         "https://fundingchoicesmessages.google.com/b/pub-4381890326403119",
         "https://fundingchoicesmessages.google.com/i/pub-4381890326403119?ers=1",
         "https://fundingchoicesmessages.google.com/el/AGSKWxU6-x0Jfm8OyPl9lPgqdkCZv639KSXk6P6RVQYvKolTu8NHV1yl6RUg6ax7pAPTmdH4N6JNquty_KaS4g45fLw2_g==?ab=1&sbf=1",
-        "https://www.googletagmanager.com/gtag/js?id=UA-200507601-1",
+        "https://cdn.viglink.com",
+        "https://cdn.viglink.com/images/pixel.gif",
+        "https://www.google-analytics.com",
+        "https://www.google-analytics.com/analytics.js",
+        "https://disqus.com",
+        "https://tempest.services.disqus.com",
+        "https://links.services.disqus.com/api/ping",
+        "https://apis.google.com",
+        "https://apis.google.com/js/api.js",
+        "https://connect.facebook.net/en_US/sdk.js",
+        "https://static.cloudflareinsights.com",
+        "https://static.cloudflareinsights.com/beacon.min.js",
         "https://www.googletagmanager.com/gtag/js?id=GT-PHGNQN5"
     ],
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
                 "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw=="
             ],
             "url": [
-                "assets/images/logo_blanco.png",
-                "assets/images/logo_negro.png",
                 "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
-                "manga/.*",
-                "leer/.*",
-                "series/.*"
+                "series/.*",
+                "capitulo-.*"
             ],
             "domainimages": [
-                "aHR0cHM6Ly9pbWcubWFuZ2F0di5uZXQv",
-                "aHR0cHM6Ly9pbWcxLm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9pbWcyLm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9pbWczLm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9pbWc0Lm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw=="
             ],
             "urlimage": [
-                "library/.*",
                 "wp-content/.*"
             ],
             "subs": [
@@ -121,7 +104,6 @@
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
             "disabletext": [
-                "MangaTV - lee tus mangas gratis y de forma online h1",
                 "Política de privacidad h1",
                 "Renuncia de responsabilidad h1"
             ],
