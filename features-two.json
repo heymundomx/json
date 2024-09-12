@@ -103,7 +103,8 @@
                 ".chdesc",
                 ".bmc",
                 ".rating.bixbox",
-                ".bixbox.image-list"
+                ".bixbox.image-list",
+                ".chaptertags"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
