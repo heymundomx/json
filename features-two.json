@@ -57,7 +57,9 @@
             "url": [
                 "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
                 "series/.*",
-                "capitulo-.*"
+                "proyectos/.*",
+                "capitulo-.*",
+                "genres/.*"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw=="
@@ -95,6 +97,7 @@
                 "#teaser2",
                 "#teaser3",
                 ".ctrx",
+                ".age-gate__heading",
                 "#close-teaser",
                 ".logos",
                 ".image.wp-image-87194.attachment-5000x2817.size-5000x2817",
