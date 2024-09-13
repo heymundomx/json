@@ -104,8 +104,7 @@
                 ".bmc",
                 ".rating.bixbox",
                 ".bixbox.image-list",
-                ".chaptertags",
-                ".seriestugenre"
+                ".chaptertags"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
@@ -120,6 +119,7 @@
                 ".page.manga-page.mobile",
                 ".page.reading-manga.mobile",
                 ".th",
+                ".seriestugenre",
                 ".bixbox"
             ]
         }
