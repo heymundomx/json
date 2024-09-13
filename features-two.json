@@ -57,7 +57,6 @@
             "url": [
                 "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
                 "series/.*",
-                "proyectos/.*",
                 "capitulo-.*",
                 "genres/.*"
             ],
