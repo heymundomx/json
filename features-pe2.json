@@ -1,0 +1,135 @@
+{
+    "version": 20241110,
+    "versiontwo": 20240610,
+    "status": true,
+    "countries": [
+        "AR",
+        "BZ",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "US",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "DO",
+        "UY",
+        "VE"
+    ],
+    "ads": [
+        "https://blazonstowel.com",
+        "https://blazonstowel.com/twmTuZeyVVAio/76415",
+        "https://illiterate-finance.com",
+        "https://illiterate-finance.com/ciDE9M6Hb.2e5El/SXWeQA9/NNDeY-wIMOTJY/zLNTCH0/0/NijMAMxkNCjMMz1S",
+        "https://pagead2.googlesyndication.com",
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4381890326403119",
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4381890326403119&host=ca-host-pub-2644536267352236",
+        "https://fundingchoicesmessages.google.com",
+        "https://fundingchoicesmessages.google.com/b/pub-4381890326403119",
+        "https://fundingchoicesmessages.google.com/i/pub-4381890326403119?ers=1",
+        "https://fundingchoicesmessages.google.com/el/AGSKWxU6-x0Jfm8OyPl9lPgqdkCZv639KSXk6P6RVQYvKolTu8NHV1yl6RUg6ax7pAPTmdH4N6JNquty_KaS4g45fLw2_g==?ab=1&sbf=1",
+        "https://cdn.viglink.com",
+        "https://cdn.viglink.com/images/pixel.gif",
+        "https://www.google-analytics.com",
+        "https://www.google-analytics.com/analytics.js",
+        "https://disqus.com",
+        "https://tempest.services.disqus.com",
+        "https://https-carteldemanhwas-com.disqus.com/embed.js",
+        "https://mangatv-1.disqus.com/embed.js",
+        "https://links.services.disqus.com/api/ping",
+        "https://apis.google.com",
+        "https://apis.google.com/js/api.js",
+        "https://connect.facebook.net/en_US/sdk.js",
+        "https://static.cloudflareinsights.com",
+        "https://static.cloudflareinsights.com/beacon.min.js",
+        "https://www.googletagmanager.com/gtag/js?id=GT-PHGNQN5"
+    ],
+    "content": [
+        {
+            "domains": [
+                "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw=="
+            ],
+            "url": [
+                "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
+                "series/.*",
+                "capitulo-.*",
+                "genres/.*"
+            ],
+            "domainimages": [
+                "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw=="
+            ],
+            "urlimage": [
+                "wp-content/.*"
+            ],
+            "subs": [
+                "series",
+                "capitulo-.*"
+            ]
+        }
+    ],
+    "css": [
+        {
+            "fragment": [
+                "#thememode",
+                ".topmobile",
+                ".shme",
+                ".scrollToTop",
+                ".bigcover",
+                ".ts-breadcrumb.bixbox",
+                ".bookmark",
+                ".socialts",
+                "#comments",
+                "#colophon",
+                ".blox.mlb.kln",
+                ".readingnav.rnavbot",
+                ".Manga",
+                ".go-to-top.active",
+                "#floatcenter",
+                ".footercopyright",
+                ".adsbygoogle",
+                "#teaser1",
+                "#teaser2",
+                "#teaser3",
+                ".ctrx",
+                ".age-gate__heading",
+                "#close-teaser",
+                ".logos",
+                ".image.wp-image-87194.attachment-5000x2817.size-5000x2817",
+                ".alignnone.size-medium.wp-image-240349",
+                ".srcmob.srccls",
+                ".chdesc",
+                ".bmc",
+                ".rating.bixbox",
+                ".bixbox.image-list",
+                ".chaptertags"
+            ],
+            "searchmainmenu": ".searchx.minmb",
+            "searchmainmenuactive": "minmbx",
+            "disabletext": [
+                "Política de privacidad h1",
+                "Renuncia de responsabilidad h1"
+            ],
+            "activity": [
+                ".th.top-header",
+                ".infox",
+                "#sidebar",
+                ".page.manga-page.mobile",
+                ".page.reading-manga.mobile",
+                ".th",
+                ".seriestugenre",
+                ".bixbox"
+            ]
+        }
+    ]
+}
