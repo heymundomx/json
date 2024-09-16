@@ -67,6 +67,7 @@
                 "wp-content/uploads/2017/10/lectormanga-1.png",
                 "manga/.*",
                 "biblioteca/.*",
+                "capitulo-.*",
                 "manga-genre/.*",
                 "comics-genero/.*",
                 "adulto"
