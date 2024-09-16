@@ -80,7 +80,7 @@
             ],
             "subs": [
                 "manga",
-                "capitulo"
+                "capitulo-.*"
             ]
         }
     ],
