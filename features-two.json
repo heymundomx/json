@@ -134,7 +134,7 @@
                 ".c-content-readmore",
                 ".action_list_icon.list-inline",
                 ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
-                ".go-to-top.active"
+                ".go-to-top"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
