@@ -178,10 +178,7 @@
             ],
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
-            "elementimagetag": "data-src",
-            "elementimagestwo": ".tab-content img",
-            "elementchaptertwo": "#chapter-heading",
-            "elementimagetagtwo": "data-src"
+            "elementimagetag": "data-src"
         }
     ]
 }
