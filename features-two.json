@@ -77,7 +77,7 @@
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8="
             ],
             "urlimage": [
-                "wp-content/.*"
+                "wp-content/uploads/.*"
             ],
             "subs": [
                 "manga",
