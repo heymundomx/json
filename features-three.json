@@ -68,7 +68,7 @@
                 "aHR0cHM6Ly9tYW5od2FzLm5ldC8="
             ],
             "urlimage": [
-                "assets_m/.*"
+                "assets_m/series/.*"
             ],
             "subs": [
                 "manga",
