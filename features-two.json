@@ -52,6 +52,7 @@
         "https://connect.facebook.net/en_US/sdk.js",
         "https://static.cloudflareinsights.com",
         "https://static.cloudflareinsights.com/beacon.min.js",
+        "https://manhwa-online.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://www.googletagmanager.com/gtag/js?id=G-GB06XVDSD0",
         "https://www.googletagmanager.com/gtag/js?id=G-F63C387S7T",
         "https://www.googletagmanager.com/gtag/js?id=GT-5N57WWF"
