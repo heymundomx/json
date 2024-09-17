@@ -140,10 +140,6 @@
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
-            "searchmainmenutwo": ".navbar-toggle",
-            "searchmainmenuactivetwo": "collapsed",
-            "searchmainmenutwoattribute": "aria-expanded",
-            "searchmainmenutwoid": "navbar",
             "disableelements": [
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0"
