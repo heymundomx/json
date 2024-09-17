@@ -61,6 +61,7 @@
                 "logo.png",
                 "img/bg-search.jpg",
                 "manga/.*",
+                "mangas/.*",
                 "leer/.*"
             ],
             "domainimages": [
