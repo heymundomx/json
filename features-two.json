@@ -90,7 +90,7 @@
                 "wp-content/uploads/.*"
             ],
             "subs": [
-                "manga",
+                "biblioteca",
                 "capitulo-"
             ]
         }
