@@ -38,6 +38,7 @@
         "https://poweredby.jads.co",
         "https://poweredby.jads.co/js/jads.js",
         "https://hosted.muses.org",
+        "https://hosted.muses.org/mrp.js",
         "https://radio-live-ads.org",
         "https://cdn.viglink.com",
         "https://cdn.viglink.com/images/pixel.gif",
@@ -133,7 +134,8 @@
                 ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
                 ".go-to-top",
                 "#iframe-flotante",
-                ".btn-search-adv.collapsed"
+                ".btn-search-adv.collapsed",
+                "#MusesRadioPlayer-HTML5-player-0"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
