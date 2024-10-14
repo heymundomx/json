@@ -1,6 +1,6 @@
 {
-    "version": 20250101,
-    "versiontwo": 20241005,
+    "version": 20241110,
+    "versiontwo": 20240610,
     "status": true,
     "countries": [
         "AR",
@@ -28,18 +28,17 @@
         "VE"
     ],
     "ads": [
-        "https://js.juicyads.com",
-        "https://js.juicyads.com/jp.php",
-        "https://js.juicyads.com/jp.php?c=34b4v2y2s254u4q2w27423b4a4&u=https%3A%2F%2Ftumanhwas.com",
-        "https://exdynsrv.com",
-        "https://a.exdynsrv.com",
-        "https://a.exdynsrv.com/video-slider.js",
-        "https://a.exdynsrv.com/ad-provider.js",
-        "https://poweredby.jads.co",
-        "https://poweredby.jads.co/js/jads.js",
-        "https://hosted.muses.org",
-        "https://hosted.muses.org/mrp.js",
-        "https://radio-live-ads.org",
+        "https://blazonstowel.com",
+        "https://blazonstowel.com/twmTuZeyVVAio/76415",
+        "https://illiterate-finance.com",
+        "https://illiterate-finance.com/ciDE9M6Hb.2e5El/SXWeQA9/NNDeY-wIMOTJY/zLNTCH0/0/NijMAMxkNCjMMz1S",
+        "https://pagead2.googlesyndication.com",
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4381890326403119",
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4381890326403119&host=ca-host-pub-2644536267352236",
+        "https://fundingchoicesmessages.google.com",
+        "https://fundingchoicesmessages.google.com/b/pub-4381890326403119",
+        "https://fundingchoicesmessages.google.com/i/pub-4381890326403119?ers=1",
+        "https://fundingchoicesmessages.google.com/el/AGSKWxU6-x0Jfm8OyPl9lPgqdkCZv639KSXk6P6RVQYvKolTu8NHV1yl6RUg6ax7pAPTmdH4N6JNquty_KaS4g45fLw2_g==?ab=1&sbf=1",
         "https://cdn.viglink.com",
         "https://cdn.viglink.com/images/pixel.gif",
         "https://www.google-analytics.com",
@@ -47,138 +46,108 @@
         "https://disqus.com",
         "https://tempest.services.disqus.com",
         "https://links.services.disqus.com/api/ping",
-        "https://tumanhwas-com.disqus.com/embed.js",
+        "https://https-carteldemanhwas-com.disqus.com/embed.js",
+        "https://mangatv-1.disqus.com/embed.js",
         "https://apis.google.com",
         "https://apis.google.com/js/api.js",
         "https://connect.facebook.net/en_US/sdk.js",
-        "https://www.dragontranslation.net/wp-content/themes/madara/app/lib/fontawesome/web-fonts-with-css/webfonts/fa-solid-900.woff2",
-        "https://www.dragontranslation.net/wp-content/plugins/madara-shortcodes/shortcodes/js/ct-shortcodes.js",
         "https://static.cloudflareinsights.com",
         "https://static.cloudflareinsights.com/beacon.min.js",
-        "https://www.googletagmanager.com/gtag/js?id=G-458WRMRQWG"
+        "https://www.googletagmanager.com/gtag/js?id=UA-200507601-1",
+        "https://www.googletagmanager.com/gtag/js?id=GT-PHGNQN5"
     ],
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly93d3cuZHJhZ29udHJhbnNsYXRpb24ubmV0Lw=="
+                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
+                "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw=="
             ],
             "url": [
-                "logo.png",
-                "img/bg-search.jpg",
+                "assets/images/logo_blanco.png",
+                "assets/images/logo_negro.png",
+                "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
                 "manga/.*",
-                "mangas/.*",
-                "leer/.*"
+                "leer/.*",
+                "series/.*",
+                "capitulo-.*",
+                "genres/.*"
             ],
             "domainimages": [
-                "aHR0cHM6Ly9tYW5od2FzLm5ldC8="
+                "aHR0cHM6Ly9pbWcubWFuZ2F0di5uZXQv",
+                "aHR0cHM6Ly9pbWcxLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWcyLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWczLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWc0Lm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw=="
             ],
             "urlimage": [
-                "assets_m/series/.*"
+                "library/.*",
+                "wp-content/.*"
             ],
             "subs": [
                 "manga",
                 "leer"
+            ],
+            "subs-link-two": [
+                "series",
+                "capitulo-.*"
             ]
         }
     ],
     "css": [
         {
             "fragment": [
-                ".chapter-item",
-                ".list-chapter",
-                ".slick-prev.slick-arrow",
-                ".slick-next.slick-arrow",
-                "#arc-broker",
-                "#arc-widget-container",
-                ".col-lg-12.col-md-12.col-sm-12.content-ads",
-                ".col-md-4.col-sm-12.col-xs-12",
-                ".adsfooter",
-                "#pushcontent-slidedown-dialog",
-                "#pushcontent-slidedown-container",
-                "#notification-push",
-                "#button-notification-active",
-                ".main-navigation_wrap",
-                "#discord-button",
-                "#init-links",
-                "#main-sidebar",
-                "#manga-history-id-4",
-                ".disqus_commend",
-                "#notification-button",
-                ".c-breadcrumb",
+                "#thememode",
+                ".topmobile",
+                ".shme",
+                ".scrollToTop",
+                ".bigcover",
+                ".ts-breadcrumb.bixbox",
+                ".bookmark",
+                ".socialts",
+                "#comments",
+                "#colophon",
+                ".blox.mlb.kln",
+                ".readingnav.rnavbot",
+                ".Manga",
+                ".go-to-top.active",
+                "#floatcenter",
+                ".footercopyright",
                 ".adsbygoogle",
-                ".interest",
-                "#manga-recent-4",
-                ".content_disqus",
-                "#manga-discussion",
-                ".manga-discussion.wrapper",
-                "#disqus_thread",
-                ".notification-manga",
-                ".ads_article",
-                ".adsbygoogle.adsbygoogle-noablate",
-                ".p_patrocinado",
-                ".notranslate",
-                ".arc-iframe-app",
-                ".site-footer",
-                ".nav.navbar-nav.menuprincipal",
-                ".new-link.navbar-brand",
-                ".topnavbar-wrapper",
-                ".link-adv-search",
-                ".c-modal_sign-in",
-                ".c-modal_sign-up",
-                ".c-sidebar.c-top-sidebar.wp-manga",
-                ".ad.c-ads.custom-code.body-top-ads",
-                ".c-nav-tabs",
-                ".manga-action",
-                ".c-content-readmore",
-                ".action_list_icon.list-inline",
-                ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
-                ".go-to-top",
-                "#iframe-flotante",
-                ".btn-search-adv.collapsed",
-                "#MusesRadioPlayer-HTML5-player-0"
+                "#teaser1",
+                "#teaser2",
+                "#teaser3",
+                ".ctrx",
+                ".age-gate__heading",
+                "#close-teaser",
+                ".logos",
+                ".image.wp-image-87194.attachment-5000x2817.size-5000x2817",
+                ".alignnone.size-medium.wp-image-240349",
+                ".alignnone.size-full.wp-image-817870",
+                ".srcmob.srccls",
+                ".chdesc",
+                ".bmc",
+                ".rating.bixbox",
+                ".bixbox.image-list",
+                ".chaptertags"
             ],
-            "searchmainmenu": ".search-main-menu",
-            "searchmainmenuactive": "active",
-            "disableelements": [
-                "main-col-inner c-page 0",
-                "resCarousel postersizes ResHover special 0"
-            ],
+            "searchmainmenu": ".searchx.minmb",
+            "searchmainmenuactive": "minmbx",
             "disabletext": [
+                "MangaTV - lee tus mangas gratis y de forma online h1",
                 "Política de privacidad h1",
-                "Renuncia de responsabilidad h1",
-                "Lee mangas y manhwas en español online h1"
+                "Renuncia de responsabilidad h1"
             ],
             "activity": [
-                ".breadcrumbs",
-                "#preloader-active",
-                ".header.sticky-bar",
-                ".navigation.paging-navigation",
-                ".tab-wrap",
-                ".row.row-eq-height",
-                ".c-genres-block.archive-page",
-                ".main-col-inner.c-page",
-                ".c-sidebar.c-top-second-sidebar",
-                ".summary_content_wrap",
-                ".dcddkoOverlay",
-                ".c-sidebar.c-bottom-sidebar",
-                ".notice_report",
-                ".darkmode"
-            ],
-            "borderexclude": [
-                ".manga-title-recommend",
-                ".manga-title-updated",
-                ".manga-episode-title",
-                ".c-image-hover img",
-                ".page-link",
-                ".card",
-                ".btn",
-                ".list-group",
-                ".form-control",
-                ".code-display"
-            ],
-            "elementimages": ".entry-content img",
-            "elementchapter": "#chapter-heading",
-            "elementimagetag": "data-src"
+                ".th.top-header",
+                ".infox",
+                "#sidebar",
+                ".page.manga-page.mobile",
+                ".page.reading-manga.mobile",
+                ".th",
+                ".seriestugenre",
+                ".bixbox"
+            ]
         }
     ]
 }
