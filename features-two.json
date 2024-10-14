@@ -36,6 +36,18 @@
         "https://uncalmgermane.top",
         "https://c.adsco.re",
         "https://t.me/+f6daub5aQRA1N2Ix",
+        "https://js.juicyads.com",
+        "https://js.juicyads.com/jp.php",
+        "https://js.juicyads.com/jp.php?c=34b4v2y2s254u4q2w27423b4a4&u=https%3A%2F%2Ftumanhwas.com",
+        "https://exdynsrv.com",
+        "https://a.exdynsrv.com",
+        "https://a.exdynsrv.com/video-slider.js",
+        "https://a.exdynsrv.com/ad-provider.js",
+        "https://poweredby.jads.co",
+        "https://poweredby.jads.co/js/jads.js",
+        "https://hosted.muses.org",
+        "https://hosted.muses.org/mrp.js",
+        "https://radio-live-ads.org",
         "https://arc.io",
         "https://arc.io/widget.min.js",
         "https://core.arc.io",
@@ -55,22 +67,30 @@
         "https://connect.facebook.net/en_US/sdk.js",
         "https://static.cloudflareinsights.com",
         "https://static.cloudflareinsights.com/beacon.min.js",
+        "https://www.dragontranslation.net/wp-content/themes/madara/app/lib/fontawesome/web-fonts-with-css/webfonts/fa-solid-900.woff2",
+        "https://www.dragontranslation.net/wp-content/plugins/madara-shortcodes/shortcodes/js/ct-shortcodes.js",
         "https://manhwa-online.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://lectormangaa.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://www.googletagmanager.com/gtag/js?id=G-GB06XVDSD0",
         "https://www.googletagmanager.com/gtag/js?id=G-F63C387S7T",
-        "https://www.googletagmanager.com/gtag/js?id=GT-5N57WWF"
+        "https://www.googletagmanager.com/gtag/js?id=GT-5N57WWF",
+        "https://www.googletagmanager.com/gtag/js?id=G-458WRMRQWG"
     ],
     "content": [
         {
             "domains": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
-                "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8="
+                "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
+                "aHR0cHM6Ly93d3cuZHJhZ29udHJhbnNsYXRpb24ubmV0Lw=="
             ],
             "url": [
                 "wp-content/uploads/2024/03/Manhwa-Online_.png",
                 "wp-content/uploads/2017/10/lectormanga-1.png",
+                "logo.png",
+                "img/bg-search.jpg",
                 "manga/.*",
+                "mangas/.*",
+                "leer/.*",
                 "biblioteca/.*",
                 "capitulo-.*",
                 "manga-genre/.*",
@@ -79,10 +99,12 @@
             ],
             "domainimages": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
-                "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8="
+                "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
+                "aHR0cHM6Ly9tYW5od2FzLm5ldC8="
             ],
             "urlimage": [
-                "wp-content/uploads/.*"
+                "wp-content/uploads/.*",
+                "assets_m/series/.*"
             ],
             "subs": [
                 "biblioteca",
@@ -140,7 +162,10 @@
                 ".action_list_icon.list-inline",
                 ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
                 ".go-to-top",
-                ".btn-search-adv.collapsed"
+                ".btn-search-adv.collapsed",
+                "#iframe-flotante",
+                ".btn-search-adv.collapsed",
+                "#MusesRadioPlayer-HTML5-player-0"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -150,7 +175,8 @@
             ],
             "disabletext": [
                 "Política de privacidad h1",
-                "Renuncia de responsabilidad h1"
+                "Renuncia de responsabilidad h1",
+                "Lee mangas y manhwas en español online h1"
             ],
             "activity": [
                 ".breadcrumbs",
