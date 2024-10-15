@@ -121,6 +121,8 @@
                 "#init-links",
                 "#main-sidebar",
                 "#manga-history-id-4",
+                "#manga-history-id-3",
+                ".row.c-row.related-manga",
                 ".disqus_commend",
                 "#notification-button",
                 ".c-breadcrumb",
