@@ -64,6 +64,9 @@
         "https://harimanga.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://kunmanga.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://yaoiscan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://harimanga.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+        "https://kunmanga.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+        "https://yaoiscan.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
         "https://www.googletagmanager.com/gtag/js?id=G-ZCYK1VVKHB",
         "https://www.googletagmanager.com/gtag/js?id=G-HX7VRHTVF2",
         "https://www.googletagmanager.com/gtag/js?id=GT-5N57WWF"
