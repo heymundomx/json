@@ -29,6 +29,7 @@
     ],
     "ads": [
         "https://platform.bidgear.com",
+        "https://platform.bidgear.com/ads.php",
         "https://platform.bidgear.com/ads.php?domainid=7420&sizeid=29&zoneid=8499",
         "https://platform.bidgear.com/ads.php?domainid=7420&sizeid=2&zoneid=8572",
         "https://platform.bidgear.com/ads.php?domainid=7387&sizeid=29&zoneid=8410",
