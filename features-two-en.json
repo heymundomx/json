@@ -61,6 +61,7 @@
         "https://links.services.disqus.com/api/ping",
         "https://yaoiscan-com.disqus.com/embed.js",
         "https://yaoiscan-com.disqus.com/count.js",
+        "https://yaoiscan.com/wp-content/cache/min/1/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js",
         "https://apis.google.com",
         "https://apis.google.com/js/api.js",
         "https://connect.facebook.net/en_US/sdk.js",
