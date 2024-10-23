@@ -53,6 +53,10 @@
         "https://hosted.muses.org",
         "https://hosted.muses.org/mrp.js",
         "https://radio-live-ads.org",
+        "https://acscdn.com",
+        "https://acscdn.com/script/aclib.js",
+        "https://a.realsrvcdn.com",
+        "https://a.realsrvcdn.com/load",
         "https://arc.io",
         "https://arc.io/widget.min.js",
         "https://core.arc.io",
@@ -81,14 +85,16 @@
         "https://www.googletagmanager.com/gtag/js?id=G-GB06XVDSD0",
         "https://www.googletagmanager.com/gtag/js?id=G-F63C387S7T",
         "https://www.googletagmanager.com/gtag/js?id=GT-5N57WWF",
-        "https://www.googletagmanager.com/gtag/js?id=G-458WRMRQWG"
+        "https://www.googletagmanager.com/gtag/js?id=G-458WRMRQWG",
+        "https://www.googletagmanager.com/gtag/js?id=GT-WP4TXLH"
     ],
     "content": [
         {
             "domains": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
-                "aHR0cHM6Ly93d3cuZHJhZ29udHJhbnNsYXRpb24ubmV0Lw=="
+                "aHR0cHM6Ly93d3cuZHJhZ29udHJhbnNsYXRpb24ubmV0Lw==",
+                "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v"
             ],
             "url": [
                 "wp-content/uploads/2024/03/Manhwa-Online_.png",
@@ -107,7 +113,9 @@
             "domainimages": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
-                "aHR0cHM6Ly9tYW5od2FzLm5ldC8="
+                "aHR0cHM6Ly9tYW5od2FzLm5ldC8=",
+                "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v",
+                "aHR0cHM6Ly9udHJnb2QuY29tLw=="
             ],
             "urlimage": [
                 "wp-content/uploads/.*",
@@ -149,6 +157,8 @@
                 ".content_disqus",
                 ".notice_report",
                 "#manga-discussion",
+                ".manga-discussion.wrapper",
+                ".wp-manga-tags-wrapper",
                 ".notification-manga",
                 ".ads_article",
                 ".adsbygoogle.adsbygoogle-noablate",
@@ -156,6 +166,7 @@
                 ".notranslate",
                 ".arc-iframe-app",
                 ".site-footer",
+                "#simple-banner",
                 ".nav.navbar-nav.menuprincipal",
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
@@ -174,7 +185,10 @@
                 ".btn-search-adv.collapsed",
                 "#iframe-flotante",
                 ".btn-search-adv.collapsed",
-                "#MusesRadioPlayer-HTML5-player-0"
+                "#MusesRadioPlayer-HTML5-player-0",
+                ".manga-history-id-2",
+                ".custom_html-5",
+                ".c-sub-nav_wrap"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
