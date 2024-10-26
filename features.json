@@ -61,6 +61,8 @@
         "https://tempest.services.disqus.com",
         "https://links.services.disqus.com/api/ping",
         "https://tmo-manga.disqus.com/embed.js",
+        "https://leermanga.disqus.com/embed.js",
+        "https://mangalandia-1.disqus.com/embed.js",
         "https://apis.google.com",
         "https://apis.google.com/js/api.js",
         "https://connect.facebook.net/en_US/sdk.js",
