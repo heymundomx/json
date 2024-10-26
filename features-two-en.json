@@ -137,6 +137,8 @@
                 ".content_disqus",
                 ".notice_report",
                 "#manga-discussion",
+                ".manga-discussion.wrapper",
+                ".wp-manga-tags-wrapper",
                 ".notification-manga",
                 ".ads_article",
                 ".adsbygoogle.adsbygoogle-noablate",
@@ -159,7 +161,11 @@
                 ".action_list_icon.list-inline",
                 ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
                 ".go-to-top",
-                ".btn-search-adv.collapsed"
+                ".btn-search-adv.collapsed",
+                ".btn-search-adv.collapsed",
+                ".manga-history-id-2",
+                ".custom_html-5",
+                ".c-sub-nav_wrap"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
