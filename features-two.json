@@ -125,7 +125,7 @@
             ],
             "subs": [
                 "biblioteca",
-                "capitulo-.*"
+                "capitulo"
             ]
         }
     ],
