@@ -32,6 +32,13 @@
         "https://illiterate-finance.com",
         "https://pagead2.googlesyndication.com",
         "https://fundingchoicesmessages.google.com",
+        "https://a.exdynsrv.com",
+        "https://a.magsrv.com",
+        "https://a.pemsrv.com",
+        "https://s.pemsrv.com",
+        "https://kirteexe.tv",
+        "https://e.widgetbot.io",
+        "https://discord.com",
         "https://arc.io",
         "https://core.arc.io",
         "https://disqus.com",
@@ -46,22 +53,31 @@
         "https://mangatv-1.disqus.com/count.js",
         "https://https-carteldemanhwas-com.disqus.com/embed.js",
         "https://https-carteldemanhwas-com.disqus.com/count.js",
+        "https://tumanhwas.disqus.com/embed.js",
+        "https://tumanhwas.disqus.com/count.js",
+        "https://miauscan-com.disqus.com/embed.js",
+        "https://miauscan-com.disqus.com/count.js",
         "https://www.googletagmanager.com"
     ],
     "content": [
         {
             "domains": [
                 "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
-                "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw=="
+                "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw==",
+                "aHR0cHM6Ly90dW1hbmh3YXMuY29tLw==",
+                "aHR0cHM6Ly96b25hbWlhdS5jb20v"
             ],
             "url": [
                 "assets/images/logo_blanco.png",
                 "assets/images/logo_negro.png",
                 "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
+                "logo3.png",
+                "wp-content/uploads/2022/02/cropped-gatita.png",
                 "manga/.*",
                 "leer/.*",
                 "series/.*",
                 "capitulo-.*",
+                "news/.*",
                 "genres/.*"
             ],
             "domainimages": [
@@ -70,11 +86,15 @@
                 "aHR0cHM6Ly9pbWcyLm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWczLm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWc0Lm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw=="
+                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw==",
+                "aHR0cHM6Ly90dW1hbmh3YXMuY29tLw==",
+                "aHR0cHM6Ly96b25hbWlhdS5jb20v"
             ],
             "urlimage": [
                 "library/.*",
-                "wp-content/.*"
+                "wp-content/.*",
+                "assets_m/.*"
             ],
             "subs": [
                 "manga",
@@ -83,6 +103,10 @@
             "subs-link-two": [
                 "series",
                 "capitulo-.*"
+            ],
+            "subs-link-three": [
+                "manga",
+                "news"
             ]
         }
     ],
@@ -97,6 +121,7 @@
                 ".ts-breadcrumb.bixbox",
                 ".bookmark",
                 ".socialts",
+                "#discord",
                 "#comments",
                 "#colophon",
                 ".blox.mlb.kln",
@@ -113,6 +138,9 @@
                 ".age-gate__heading",
                 "#close-teaser",
                 ".logos",
+                ".image.wp-image-13769.attachment-full.size-full.lazy.loaded",
+                ".image.wp-image-13768.attachment-full.size-full.lazy.loaded",
+                ".image.wp-image-16897.attachment-full.size-full.lazy.loaded",
                 ".image.wp-image-87194.attachment-5000x2817.size-5000x2817",
                 ".alignnone.size-medium.wp-image-240349",
                 ".alignnone.size-full.wp-image-817870",
