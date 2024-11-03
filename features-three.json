@@ -37,11 +37,13 @@
         "https://disqus.com",
         "https://tempest.services.disqus.com",
         "https://links.services.disqus.com",
-        "https://https-carteldemanhwas-com.disqus.com/embed.js",
-        "https://mangatv-1.disqus.com/embed.js",
         "https://apis.google.com",
         "https://connect.facebook.net",
         "https://static.cloudflareinsights.com",
+        "https://mangatv-1.disqus.com/embed.js",
+        "https://mangatv-1.disqus.com/count.js",
+        "https://https-carteldemanhwas-com.disqus.com/embed.js",
+        "https://https-carteldemanhwas-com.disqus.com/count.js",
         "https://www.googletagmanager.com"
     ],
     "content": [
