@@ -171,6 +171,9 @@
                 ".th",
                 ".seriestugenre",
                 ".bixbox"
+            ],
+            "borderexclude": [
+                ".play-button"
             ]
         }
     ]
