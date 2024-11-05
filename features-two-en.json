@@ -191,7 +191,8 @@
                 ".btn",
                 ".list-group",
                 ".form-control",
-                ".code-display"
+                ".code-display",
+                ".play-button"
             ],
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
