@@ -81,11 +81,14 @@
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
                 "aHR0cHM6Ly93d3cuZHJhZ29udHJhbnNsYXRpb24ubmV0Lw==",
-                "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v"
+                "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v",
+                "aHR0cHM6Ly9taTJtYW5nYS5sYXQv",
+                "aHR0cHM6Ly9sZWVybWFuaHdhLmNvbS8="
             ],
             "url": [
                 "wp-content/uploads/2024/03/Manhwa-Online_.png",
                 "wp-content/uploads/2017/10/lectormanga-1.png",
+                "wp-content/uploads/2024/11/logo.png",
                 "logo.png",
                 "img/bg-search.jpg",
                 "manga/.*",
@@ -102,7 +105,9 @@
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
                 "aHR0cHM6Ly9tYW5od2FzLm5ldC8=",
                 "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v",
-                "aHR0cHM6Ly9udHJnb2QuY29tLw=="
+                "aHR0cHM6Ly9udHJnb2QuY29tLw==",
+                "aHR0cHM6Ly9taTJtYW5nYS5sYXQv",
+                "aHR0cHM6Ly9sZWVybWFuaHdhLmNvbS8="
             ],
             "urlimage": [
                 "wp-content/uploads/.*",
@@ -141,6 +146,8 @@
                 ".adsbygoogle",
                 ".interest",
                 "#manga-recent-4",
+                "#manga-recent-5",
+                ".action-icon",
                 ".content_disqus",
                 ".notice_report",
                 "#manga-discussion",
@@ -173,7 +180,13 @@
                 "#iframe-flotante",
                 "#MusesRadioPlayer-HTML5-player-0",
                 ".manga-history-id-2",
-                ".custom_html-5",
+                "#custom_html-4",
+                "#custom_html-5",
+                "#custom_html-9",
+                "#custom_html-10",
+                "#custom_html-11",
+                "#custom_html-12",
+                "#custom_html-13",
                 ".c-sub-nav_wrap"
             ],
             "searchmainmenu": ".search-main-menu",
