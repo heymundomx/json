@@ -159,7 +159,7 @@
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
             "disableelements": [
-                "releases 3"
+                "releases 1"
             ],
             "disabletext": [
                 "Política de privacidad h1",
