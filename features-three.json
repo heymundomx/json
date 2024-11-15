@@ -173,6 +173,8 @@
                 ".bixbox"
             ],
             "borderexclude": [
+                ".card",
+                ".btn",
                 ".play-button"
             ]
         }
