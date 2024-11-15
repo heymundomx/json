@@ -155,13 +155,11 @@
                 ".bmc",
                 ".rating.bixbox",
                 ".bixbox.image-list",
-                ".chaptertags"
+                ".chaptertags",
+                "#theHISTORY"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
-            "disableelements": [
-                "releases 1"
-            ],
             "disabletext": [
                 "Política de privacidad h1",
                 "Renuncia de responsabilidad h1",
