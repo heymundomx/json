@@ -165,7 +165,8 @@
                 "Renuncia de responsabilidad h1",
                 "Privacy Policy h1",
                 "Disclaimer h1",
-                "MangaTV - lee tus mangas gratis y de forma online h1"
+                "MangaTV - lee tus mangas gratis y de forma online h1",
+                "Tus últimas lecturas h3"
             ],
             "activity": [
                 ".th.top-header",
