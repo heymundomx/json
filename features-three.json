@@ -158,6 +158,9 @@
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
+            "disableelements": [
+                "releases 3"
+            ],
             "disabletext": [
                 "Política de privacidad h1",
                 "Renuncia de responsabilidad h1",
