@@ -152,9 +152,7 @@
                 ".rating.bixbox",
                 ".bixbox.image-list",
                 ".chaptertags",
-                "#theHISTORY",
-                ".md:block.w-full.truncate",
-                ".cf-error-footer.cf-wrapper.w-240.lg:w-full.py-10.sm:py-4.sm:px-8.mx-auto.text-center.sm:text-left.border-solid.border-0.border-t.border-gray-300"
+                "#theHISTORY"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
