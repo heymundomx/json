@@ -159,9 +159,7 @@
                 "#custom_html-11",
                 "#custom_html-12",
                 "#custom_html-13",
-                ".c-sub-nav_wrap",
-                ".md:block.w-full.truncate",
-                ".cf-error-footer.cf-wrapper.w-240.lg:w-full.py-10.sm:py-4.sm:px-8.mx-auto.text-center.sm:text-left.border-solid.border-0.border-t.border-gray-300"
+                ".c-sub-nav_wrap"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
