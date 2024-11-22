@@ -45,6 +45,7 @@
         "https://www.google-analytics.com",
         "https://cdn.viglink.com",
         "https://connect.facebook.net",
+        "https://www.cloudflare.com",
         "https://static.cloudflareinsights.com",
         "https://static.cloudflareinsights.com/beacon.min.js",
         "https://tmo-manga.disqus.com/embed.js",
@@ -170,7 +171,9 @@
                 ".site-footer",
                 ".nav.navbar-nav.menuprincipal",
                 ".new-link.navbar-brand",
-                ".topnavbar-wrapper"
+                ".topnavbar-wrapper",
+                ".md:block.w-full.truncate",
+                ".cf-error-footer.cf-wrapper.w-240.lg:w-full.py-10.sm:py-4.sm:px-8.mx-auto.text-center.sm:text-left.border-solid.border-0.border-t.border-gray-300"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
