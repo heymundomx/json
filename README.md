@@ -1,2 +1,2 @@
 # JSON
-JSON library for code apps
+JSON from code implementations
