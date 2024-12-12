@@ -1,2 +1,2 @@
 # Security Policy
-This policy applies to JSON and code implementations, our library is secure.
+This security policy is applied to JSON from code implementations, our library is secure.
