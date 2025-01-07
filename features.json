@@ -207,7 +207,8 @@
                 ".dcddkoOverlay",
                 ".c-sidebar.c-bottom-sidebar",
                 ".notice_report",
-                ".darkmode"
+                ".darkmode",
+                ".header-nav.with-border..space-botton"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
