@@ -177,7 +177,7 @@
                 ".action_list_icon.list-inline",
                 ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
                 ".go-to-top",
-                ".search-content",
+                ".c-search-header__wrapper",
                 "#iframe-flotante",
                 "#MusesRadioPlayer-HTML5-player-0",
                 ".manga-history-id-2",
