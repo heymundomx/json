@@ -45,6 +45,8 @@
         "https://radio-live-ads.org",
         "https://noticias.tumanhwas.com/embed",
         "https://holahupa.com",
+        "https://jouwaikekaivep.net",
+        "https://thoamsixaizi.net",
         "https://t.me",
         "https://discord.gg",
         "https://vk.com",
@@ -114,7 +116,7 @@
                 "assets_m/series/.*"
             ],
             "subs": [
-                "biblioteca",
+                "manga",
                 "capitulo"
             ]
         }
