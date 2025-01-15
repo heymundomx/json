@@ -219,7 +219,8 @@
                 ".c-sidebar.c-bottom-sidebar",
                 ".notice_report",
                 ".darkmode",
-                ".item-title.h4"
+                ".item-title.h4",
+                ".row.c-row.related-manga"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
