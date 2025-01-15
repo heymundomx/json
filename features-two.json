@@ -45,9 +45,6 @@
         "https://radio-live-ads.org",
         "https://noticias.tumanhwas.com/embed",
         "https://holahupa.com",
-        "https://thubanoa.com",
-        "https://zovidree.com",
-        "https://ylwpracy.xyz",
         "https://t.me",
         "https://discord.gg",
         "https://vk.com",
@@ -68,8 +65,6 @@
         "https://lectormanga-1.disqus.com/count.js",
         "https://tumanhwas-com.disqus.com/embed.js",
         "https://tumanhwas-com.disqus.com/count.js",
-        "https://pichulasjpg.disqus.com/embed.js",
-        "https://pichulasjpg.disqus.com/count.js",
         "https://lectormangaa.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=6.6.2",
         "https://dragontranslation.net/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=6.6.2",
         "https://dragontranslation.net/wp-content/themes/madara/app/lib/fontawesome/web-fonts-with-css/webfonts/fa-solid-900.woff2",
@@ -77,7 +72,6 @@
         "https://manhwa-online.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://lectormangaa.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://dragontranslation.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
-        "https://lectorjpg.com/auth/login",
         "https://www.googletagmanager.com"
     ],
     "content": [
@@ -88,8 +82,7 @@
                 "aHR0cHM6Ly93d3cuZHJhZ29udHJhbnNsYXRpb24ubmV0Lw==",
                 "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v",
                 "aHR0cHM6Ly9taTJtYW5nYS5sYXQv",
-                "aHR0cHM6Ly9sZWVybWFuaHdhLmNvbS8=",
-                "aHR0cHM6Ly9sZWN0b3JqcGcuY29tLw=="
+                "aHR0cHM6Ly9sZWVybWFuaHdhLmNvbS8="
             ],
             "url": [
                 "wp-content/uploads/2024/03/Manhwa-Online_.png",
@@ -105,9 +98,7 @@
                 "capitulo-.*",
                 "manga-genre/.*",
                 "comics-genero/.*",
-                "adulto",
-                "comics",
-                "ver/.*"
+                "adulto"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
@@ -116,15 +107,11 @@
                 "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v",
                 "aHR0cHM6Ly9udHJnb2QuY29tLw==",
                 "aHR0cHM6Ly9taTJtYW5nYS5sYXQv",
-                "aHR0cHM6Ly9sZWVybWFuaHdhLmNvbS8=",
-                "aHR0cHM6Ly9tZWRpYS5waWNodWxhc2pwZy54eXov",
-                "aHR0cHM6Ly9jZG4uc3RhdGljYWxseS5pby8="
+                "aHR0cHM6Ly9sZWVybWFuaHdhLmNvbS8="
             ],
             "urlimage": [
                 "wp-content/uploads/.*",
-                "assets_m/series/.*",
-                "file/.*",
-                "img/.*"
+                "assets_m/series/.*"
             ],
             "subs": [
                 "biblioteca",
@@ -200,25 +187,13 @@
                 "#custom_html-11",
                 "#custom_html-12",
                 "#custom_html-13",
-                ".c-sub-nav_wrap",
-                ".w-full.flex.items-center.justify-between.p-3.h-[70px].bg-black.relative",
-                ".flex.flex-row.gap-2.bg-[#1a1a1a].rounded-md",
-                ".carousel_viewsContenedor__eCUK8",
-                ".flex.flex-col.gap-1",
-                ".flex.justify-center.w-full.gap-2",
-                ".followMobile",
-                ".bottom-[20px].fixed.w-full.flex.justify-center.z-10.transition-all",
-                ".block.w-auto.max-w-full.h-full.m-auto",
-                "#dis",
-                ".navbar_footer__eULsm"
+                ".c-sub-nav_wrap"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
             "disableelements": [
                 "main-col-inner c-page 0",
-                "resCarousel postersizes ResHover special 0",
-                "w-full 0",
-                "grid-2 0"
+                "resCarousel postersizes ResHover special 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
