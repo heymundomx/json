@@ -180,7 +180,8 @@
                 ".site-footer",
                 ".nav.navbar-nav.menuprincipal",
                 ".new-link.navbar-brand",
-                ".topnavbar-wrapper"
+                ".topnavbar-wrapper",
+                "#global-announcement"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
