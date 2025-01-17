@@ -131,8 +131,8 @@
                 "pic_source/.*"
             ],
             "subs": [
-                "manga",
-                "capitulo"
+                "online",
+                "leer"
             ]
         }
     ],
@@ -211,7 +211,10 @@
                 ".logo",
                 "#bookmark",
                 "#report",
-                ".bview"
+                ".bview",
+                ".swal2-popup.swal2-modal.swal2-show",
+                ".swal2-title",
+                ".swal2-html-container"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -264,7 +267,7 @@
                 ".code-display",
                 ".play-button"
             ],
-            "elementimages": ".entry-content img",
+            "elementimages": ".lector img",
             "elementchapter": "#chapter-heading",
             "elementimagetag": "src"
         }
