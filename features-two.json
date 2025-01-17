@@ -271,7 +271,7 @@
                 ".code-display",
                 ".play-button"
             ],
-            "elementimages": ".container.reader img[data-fallback=true]",
+            "elementimages": "img[data-loaded=true]",
             "elementchapter": ".container.reader h1",
             "elementimagetag": "src"
         }
