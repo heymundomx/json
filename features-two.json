@@ -224,8 +224,7 @@
             "disableelements": [
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0",
-                "homesection 1",
-                "home_updates 0"
+                "homesection 1"
             ],
             "disabletext": [
                 "Política de privacidad h1",
