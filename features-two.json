@@ -272,7 +272,7 @@
                 ".play-button"
             ],
             "elementimages": ".container.reader img",
-            "elementchapter": "#chapter-heading",
+            "elementchapter": ".container.reader h1",
             "elementimagetag": "data-src"
         }
     ]
