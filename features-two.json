@@ -272,7 +272,7 @@
                 ".play-button"
             ],
             "elementimages": "img",
-            "elementchapter": "#chapter-heading",
+            "elementchapter": "h1",
             "elementimagetag": "data-src"
         }
     ]
