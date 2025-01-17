@@ -271,9 +271,9 @@
                 ".code-display",
                 ".play-button"
             ],
-            "elementimages": ".container.reader img",
+            "elementimages": ".container.reader img[data-fallback=true]",
             "elementchapter": ".container.reader h1",
-            "elementimagetag": "data-src"
+            "elementimagetag": "src"
         }
     ]
 }
