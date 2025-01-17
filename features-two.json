@@ -216,7 +216,8 @@
                 ".swal2-popup.swal2-modal.swal2-show",
                 ".swal2-title",
                 ".swal2-html-container",
-                "#title"
+                "#title",
+                ".icon"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -269,7 +270,7 @@
                 ".code-display",
                 ".play-button"
             ],
-            "elementimages": ".lector img",
+            "elementimages": "#lector img",
             "elementchapter": "#chapter-heading",
             "elementimagetag": "src"
         }
