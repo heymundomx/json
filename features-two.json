@@ -128,8 +128,7 @@
             "urlimage": [
                 "wp-content/uploads/.*",
                 "assets_m/series/.*",
-                "content/images/.*",
-                "pic_source/.*"
+                "content/images/.*"
             ],
             "subs": [
                 "online",
