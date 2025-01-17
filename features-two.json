@@ -273,7 +273,7 @@
             ],
             "elementimages": "#lector img",
             "elementchapter": "#chapter-heading",
-            "elementimagetag": "src"
+            "elementimagetag": "data-src"
         }
     ]
 }
