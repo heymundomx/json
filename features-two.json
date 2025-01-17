@@ -214,7 +214,8 @@
                 ".bview",
                 ".swal2-popup.swal2-modal.swal2-show",
                 ".swal2-title",
-                ".swal2-html-container"
+                ".swal2-html-container",
+                "#title"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
