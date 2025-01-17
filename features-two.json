@@ -270,7 +270,7 @@
                 ".code-display",
                 ".play-button"
             ],
-            "elementimages": "#lector img",
+            "elementimages": "#lector p img",
             "elementchapter": "#chapter-heading",
             "elementimagetag": "src"
         }
