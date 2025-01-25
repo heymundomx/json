@@ -186,7 +186,8 @@
                 ".hot",
                 ".imgu",
                 ".actor",
-                ".dt"
+                ".dt",
+                ".status.Completed"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
