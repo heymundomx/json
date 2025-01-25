@@ -182,7 +182,8 @@
             "borderexclude": [
                 ".card",
                 ".btn",
-                ".play-button"
+                ".play-button",
+                ".custom-btn"
             ]
         }
     ]
