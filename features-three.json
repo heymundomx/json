@@ -181,7 +181,8 @@
                 ".bottom",
                 ".hot",
                 ".imgu",
-                ".actor"
+                ".actor",
+                ".dt"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
