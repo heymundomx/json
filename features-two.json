@@ -268,7 +268,8 @@
                 ".list-group",
                 ".form-control",
                 ".code-display",
-                ".play-button"
+                ".play-button",
+                ".custom-btn"
             ],
             "elementimages": "#lector img",
             "elementchapter": "#chapter-heading",
