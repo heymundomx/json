@@ -188,7 +188,8 @@
                 ".imgu",
                 ".actor",
                 ".dt",
-                ".status.Completed"
+                ".status.Completed",
+                ".restrictcontainer"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
