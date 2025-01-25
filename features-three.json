@@ -82,8 +82,7 @@
                 "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
                 "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw==",
                 "aHR0cHM6Ly90dW1hbmh3YXMuY29tLw==",
-                "aHR0cHM6Ly96b25hbWlhdS5jb20v",
-                "aHR0cHM6Ly9za3ltYW5nYXMuY29tLw=="
+                "aHR0cHM6Ly96b25hbWlhdS5jb20v"
             ],
             "url": [
                 "assets/images/logo_blanco.png",
@@ -91,13 +90,7 @@
                 "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
                 "wp-content/uploads/2020/02/logo_1-1-1-e1589391154827.png",
                 "logo3.png",
-                "wp-content/uploads/2022/02/cropped-gatita.png",
-                "castle-capitulo-.*",
-                "tou-no-kanri-o-shite-miyou-.*/",
-                "sekirei-365-days-without-a-girlfriend-capitulo-.*",
-                "rosen-garten-saga-capitulo-.*",
-                "boroboro-no-elf-san-.*",
-                "estoy-criando-a-un-hombre-en-un-mundo-diferente-la-doctora-genio-jun-jiu-capitulo-.*"
+                "wp-content/uploads/2022/02/cropped-gatita.png"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9pbWcubWFuZ2F0di5uZXQv",
@@ -108,12 +101,19 @@
                 "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw==",
                 "aHR0cHM6Ly90dW1hbmh3YXMuY29tLw==",
-                "aHR0cHM6Ly96b25hbWlhdS5jb20v"
+                "aHR0cHM6Ly96b25hbWlhdS5jb20v",
+                "aHR0cHM6Ly9za3ltYW5nYXMuY29tLw=="
             ],
             "urlimage": [
                 "library/.*",
                 "wp-content/.*",
-                "assets_m/.*"
+                "assets_m/.*",
+                "castle-capitulo-.*",
+                "tou-no-kanri-o-shite-miyou-.*/",
+                "sekirei-365-days-without-a-girlfriend-capitulo-.*",
+                "rosen-garten-saga-capitulo-.*",
+                "boroboro-no-elf-san-.*",
+                "estoy-criando-a-un-hombre-en-un-mundo-diferente-la-doctora-genio-jun-jiu-capitulo-.*"
             ],
             "subs": [
                 "manga",
