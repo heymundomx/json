@@ -74,7 +74,8 @@
         "https://i3.wp.com/i.ibb.co/FDpLC9J/03-02.jpg",
         "https://i3.wp.com/i.ibb.co/Hxqt56w/03-03.jpg",
         "https://i3.wp.com/i.ibb.co/brgVhsD/03-05.jpg",
-        "https://jsc.mgid.com"
+        "https://jsc.mgid.com",
+        "https://i0.wp.com/skymangas.com/wp-content/uploads/2022/03/portada.png?resize=165,225"
     ],
     "content": [
         {
@@ -105,7 +106,6 @@
                 "aHR0cHM6Ly9za3ltYW5nYXMuY29tLw=="
             ],
             "urlimage": [
-                "wp-content/uploads/2022/03/portada.png",
                 "castle-capitulo-.*",
                 "tou-no-kanri-o-shite-miyou-.*",
                 "sekirei-365-days-without-a-girlfriend-capitulo-.*",
