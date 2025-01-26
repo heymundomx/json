@@ -231,8 +231,9 @@
                 ".dt",
                 ".status.Completed",
                 ".restrictcontainer",
-                ".hpage",
-                ".serieslist"
+                ".serieslist",
+                ".modex",
+                ".r"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
@@ -252,7 +253,8 @@
                 "utao styletwo 12",
                 "utao styletwo 13",
                 "utao styletwo 15",
-                "utao styletwo 19"
+                "utao styletwo 19",
+                "uta 19"
             ],
             "disabletext": [
                 "Política de privacidad h1",
