@@ -234,7 +234,9 @@
                 ".restrictcontainer",
                 "#sidebar",
                 ".modex",
-                ".bixbox.hothome"
+                ".bixbox.hothome",
+                ".active",
+                "#series-326"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
