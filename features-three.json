@@ -200,7 +200,8 @@
                 "[for=\"genre-harem\"]",
                 "[for=\"genre-seinen\"]",
                 "[for=\"genre-mature\"]",
-                "[for=\"anime_status-hiatus\"]"
+                "[for=\"anime_status-hiatus\"]",
+                "li.active a[href=\"#series-326\"]"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
