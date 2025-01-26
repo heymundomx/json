@@ -236,7 +236,8 @@
                 ".modex",
                 ".bixbox.hothome",
                 ".active",
-                "#series-326"
+                "#series-326",
+                "#series-328"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
