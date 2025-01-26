@@ -237,7 +237,8 @@
                 ".bixbox.hothome",
                 "#series-326",
                 "#series-328",
-                "#genre-adult"
+                "#genre-adult",
+                "[for=\"genre-adult\"]"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
