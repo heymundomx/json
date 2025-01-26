@@ -201,14 +201,14 @@
                 "[for=\"genre-seinen\"]",
                 "[for=\"genre-mature\"]",
                 "[for=\"anime_status-hiatus\"]",
-                "li.active a[href=\"#series-326\"]"
+                "li.active a[href=\"#series-326\"]",
+                 ".listupd .bsx a[title=\"Boroboro no Elf-san\"]"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
             "disableelements": [
                 "filter dropdown 3",
                 "bs 2",
-                "bs 3",
                 "bs 6",
                 "bs 9",
                 "bs 12",
