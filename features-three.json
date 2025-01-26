@@ -234,7 +234,8 @@
                 ".restrictcontainer",
                 "#sidebar",
                 ".modex",
-                ".bixbox.hothome"
+                ".bixbox.hothome",
+                "listupd"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
@@ -254,8 +255,7 @@
                 "utao styletwo 12",
                 "utao styletwo 13",
                 "utao styletwo 15",
-                "utao styletwo 19",
-                "bixbox 0"
+                "utao styletwo 19"
             ],
             "disabletext": [
                 "Política de privacidad h1",
@@ -263,7 +263,8 @@
                 "Privacy Policy h1",
                 "Disclaimer h1",
                 "MangaTV - lee tus mangas gratis y de forma online h1",
-                "Tus últimas lecturas h3"
+                "Tus últimas lecturas h3",
+                "Latest Update h2"
             ],
             "activity": [
                 ".th.top-header",
