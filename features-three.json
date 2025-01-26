@@ -238,7 +238,7 @@
                 "#series-326",
                 "#series-328",
                 "#genre-adult",
-                "[for=\"genre-adult\"]"
+                "[for=\"genre-ecchi\"]"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
