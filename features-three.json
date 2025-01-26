@@ -231,9 +231,8 @@
                 ".dt",
                 ".status.Completed",
                 ".restrictcontainer",
-                ".serieslist",
-                ".modex",
-                ".r"
+                "#sidebar",
+                ".modex"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
@@ -267,7 +266,6 @@
             "activity": [
                 ".th.top-header",
                 ".infox",
-                "#sidebar",
                 ".page.manga-page.mobile",
                 ".page.reading-manga.mobile",
                 ".th",
