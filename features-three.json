@@ -237,8 +237,12 @@
                 ".bixbox.hothome",
                 "#series-326",
                 "#series-328",
-                "#genre-adult",
-                "[for=\"genre-ecchi\"]"
+                "[for=\"genre-adult\"]",
+                "[for=\"genre-ecchi\"]",
+                "[for=\"genre-harem\"]",
+                "[for=\"genre-seinen\"]",
+                "[for=\"genre-mature\"]",
+                "[for=\"anime_status-hiatus\"]"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
@@ -267,8 +271,7 @@
                 "Privacy Policy h1",
                 "Disclaimer h1",
                 "MangaTV - lee tus mangas gratis y de forma online h1",
-                "Tus últimas lecturas h3",
-                "Adulto label"
+                "Tus últimas lecturas h3"
             ],
             "activity": [
                 ".th.top-header",
