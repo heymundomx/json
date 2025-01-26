@@ -203,25 +203,16 @@
                 "[for=\"anime_status-hiatus\"]",
                 "li.active a[href=\"#series-326\"]",
                  ".listupd .bsx a[title=\"Boroboro no Elf-san\"]",
-                ".listupd .bsx a[title=\"Castle\"]"
+                ".listupd .bsx a[title=\"Castle\"]",
+                ".listupd .bsx a[title=\"Estoy criando a un hombre en un mundo diferente: la doctora genio, Jun Jiu\"]",
+                ".listupd .bsx a[title=\"Sekirei – 365 Days Without a Girlfriend\"]",
+                ".listupd .bsx a[title=\"Tou no Kanri o Shite Miyou\"]",
+                ".listupd .bsx a[title=\"Rosen Garten Saga\"]"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
             "disableelements": [
                 "filter dropdown 3",
-                "bs 6",
-                "bs 9",
-                "bs 12",
-                "bs 13",
-                "bs 14",
-                "bs 15",
-                "bs 17",
-                "bs 18",
-                "bs 19",
-                "utao styletwo 12",
-                "utao styletwo 13",
-                "utao styletwo 15",
-                "utao styletwo 19",
                 "wd-full 0"
             ],
             "disabletext": [
