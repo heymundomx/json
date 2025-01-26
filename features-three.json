@@ -233,7 +233,9 @@
                 ".status.Completed",
                 ".restrictcontainer",
                 "#sidebar",
-                ".modex"
+                ".modex",
+                ".bixbox.hothome",
+                ".listupd"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
@@ -253,8 +255,7 @@
                 "utao styletwo 12",
                 "utao styletwo 13",
                 "utao styletwo 15",
-                "utao styletwo 19",
-                "uta 19"
+                "utao styletwo 19"
             ],
             "disabletext": [
                 "Política de privacidad h1",
