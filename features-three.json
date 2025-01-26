@@ -234,8 +234,7 @@
                 ".restrictcontainer",
                 "#sidebar",
                 ".modex",
-                ".bixbox.hothome",
-                ".listupd"
+                ".bixbox.hothome"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
@@ -255,7 +254,8 @@
                 "utao styletwo 12",
                 "utao styletwo 13",
                 "utao styletwo 15",
-                "utao styletwo 19"
+                "utao styletwo 19",
+                "bixbox 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
