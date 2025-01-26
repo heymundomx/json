@@ -235,8 +235,7 @@
                 "#sidebar",
                 ".modex",
                 ".bixbox.hothome",
-                ".utao.styletwo",
-                ".r"
+                ".utao.styletwo"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
