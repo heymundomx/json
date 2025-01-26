@@ -266,7 +266,8 @@
                 "Privacy Policy h1",
                 "Disclaimer h1",
                 "MangaTV - lee tus mangas gratis y de forma online h1",
-                "Tus últimas lecturas h3"
+                "Tus últimas lecturas h3",
+                "Adulto label"
             ],
             "activity": [
                 ".th.top-header",
