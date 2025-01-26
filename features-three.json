@@ -235,7 +235,7 @@
                 "#sidebar",
                 ".modex",
                 ".bixbox.hothome",
-                "listupd"
+                ".listupd"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
