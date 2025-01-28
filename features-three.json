@@ -1,0 +1,190 @@
+{
+    "version": 20250315,
+    "versiontwo": 20251218,
+    "status": true,
+    "countries": [
+        "AR",
+        "BZ",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "US",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "DO",
+        "UY",
+        "VE"
+    ],
+    "ads": [
+        "https://kq.outsidesubtree.com",
+        "https://blackandwhitememory.com",
+        "https://pagead2.googlesyndication.com",
+        "https://fundingchoicesmessages.google.com",
+        "https://qg.espleestrick.com",
+        "https://securepubads.g.doubleclick.net",
+        "https://imasdk.googleapis.com",
+        "https://ced.sascdn.com",
+        "https://kirteexe.tv",
+        "https://e.widgetbot.io",
+        "https://t.me",
+        "https://discord.gg",
+        "https://vk.com",
+        "https://arc.io",
+        "https://core.arc.io",
+        "https://yandex.ru",
+        "https://mc.yandex.ru",
+        "https://disqus.com",
+        "https://tempest.services.disqus.com",
+        "https://links.services.disqus.com",
+        "https://apis.google.com",
+        "https://www.google-analytics.com",
+        "https://cdn.viglink.com",
+        "https://connect.facebook.net",
+        "https://static.cloudflareinsights.com",
+        "https://static.cloudflareinsights.com/beacon.min.js",
+        "https://mangatv-1.disqus.com/embed.js",
+        "https://mangatv-1.disqus.com/count.js",
+        "https://https-carteldemanhwas-com.disqus.com/embed.js",
+        "https://https-carteldemanhwas-com.disqus.com/count.js",
+        "https://tumanhwas.disqus.com/embed.js",
+        "https://tumanhwas.disqus.com/count.js",
+        "https://miauscan-com.disqus.com/embed.js",
+        "https://miauscan-com.disqus.com/count.js",
+        "https://accounts.google.com",
+        "https://www.googletagmanager.com"
+    ],
+    "content": [
+        {
+            "domains": [
+                "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
+                "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw==",
+                "aHR0cHM6Ly90dW1hbmh3YXMuY29tLw==",
+                "aHR0cHM6Ly96b25hbWlhdS5jb20v"
+            ],
+            "url": [
+                "assets/images/logo_blanco.png",
+                "assets/images/logo_negro.png",
+                "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
+                "logo3.png",
+                "wp-content/uploads/2022/02/cropped-gatita.png",
+                "manga/.*",
+                "leer/.*",
+                "series/.*",
+                "capitulo-.*",
+                "news/.*",
+                "genres/.*"
+            ],
+            "domainimages": [
+                "aHR0cHM6Ly9pbWcubWFuZ2F0di5uZXQv",
+                "aHR0cHM6Ly9pbWcxLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWcyLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWczLm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWc0Lm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw==",
+                "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw==",
+                "aHR0cHM6Ly90dW1hbmh3YXMuY29tLw==",
+                "aHR0cHM6Ly96b25hbWlhdS5jb20v"
+            ],
+            "urlimage": [
+                "library/.*",
+                "wp-content/.*",
+                "assets_m/.*"
+            ],
+            "subs": [
+                "manga",
+                "leer"
+            ],
+            "subs-link-two": [
+                "series",
+                "capitulo-.*"
+            ],
+            "subs-link-three": [
+                "manga",
+                "news"
+            ]
+        }
+    ],
+    "css": [
+        {
+            "fragment": [
+                "#thememode",
+                ".topmobile",
+                ".shme",
+                ".scrollToTop",
+                ".bigcover",
+                ".ts-breadcrumb.bixbox",
+                ".bookmark",
+                ".socialts",
+                "#discord",
+                "#comments",
+                "#colophon",
+                ".blox.mlb.kln",
+                ".readingnav.rnavbot",
+                ".Manga",
+                ".go-to-top.active",
+                "#floatcenter",
+                ".footercopyright",
+                ".adsbygoogle",
+                "#teaser1",
+                "#teaser2",
+                "#teaser3",
+                ".ctrx",
+                ".age-gate__heading",
+                "#close-teaser",
+                ".logos",
+                ".image.wp-image-13769.attachment-full.size-full.lazy.loaded",
+                ".image.wp-image-13768.attachment-full.size-full.lazy.loaded",
+                ".image.wp-image-16897.attachment-full.size-full.lazy.loaded",
+                ".image.wp-image-87194.attachment-5000x2817.size-5000x2817",
+                ".alignnone.size-medium.wp-image-240349",
+                ".alignnone.size-full.wp-image-817870",
+                ".alignnone.size-full.wp-image-859248",
+                ".srcmob.srccls",
+                ".chdesc",
+                ".bmc",
+                ".rating.bixbox",
+                ".bixbox.image-list",
+                ".chaptertags",
+                "#theHISTORY"
+            ],
+            "searchmainmenu": ".searchx.minmb",
+            "searchmainmenuactive": "minmbx",
+            "disabletext": [
+                "Política de privacidad h1",
+                "Renuncia de responsabilidad h1",
+                "Privacy Policy h1",
+                "Disclaimer h1",
+                "MangaTV - lee tus mangas gratis y de forma online h1",
+                "Tus últimas lecturas h3"
+            ],
+            "activity": [
+                ".th.top-header",
+                ".infox",
+                "#sidebar",
+                ".page.manga-page.mobile",
+                ".page.reading-manga.mobile",
+                ".th",
+                ".seriestugenre",
+                ".bixbox"
+            ],
+            "borderexclude": [
+                ".card",
+                ".btn",
+                ".play-button",
+                ".custom-btn"
+            ]
+        }
+    ]
+}
