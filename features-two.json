@@ -264,7 +264,10 @@
                 ".form-control",
                 ".code-display",
                 ".play-button",
-                ".custom-btn"
+                ".custom-btn",
+                ".btn-text-reading-increase",
+                ".btn-text-reading-decrease",
+                ".wp-manga-action-button"
             ],
             "elementimages": "#lector img",
             "elementchapter": "#chapter-heading",
