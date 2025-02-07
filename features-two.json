@@ -186,6 +186,7 @@
                 ".ad.c-ads.custom-code.body-bottom-ads",
                 ".c-nav-tabs",
                 ".manga-action",
+                ".action-icon",
                 ".c-content-readmore",
                 ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
                 ".col-md-4.col-sm-12.col-xs-12",
@@ -264,10 +265,7 @@
                 ".form-control",
                 ".code-display",
                 ".play-button",
-                ".custom-btn",
-                ".btn-text-reading-increase",
-                ".btn-text-reading-decrease",
-                ".wp-manga-action-button"
+                ".custom-btn"
             ],
             "elementimages": "#lector img",
             "elementchapter": "#chapter-heading",
