@@ -139,8 +139,8 @@
                 ".play-button",
                 ".custom-btn"
             ],
-            "elementimages": ".entry-content img",
-            "elementchapter": "#chapter-heading",
+            "elementimages": ".comic_wraCon.text-center img",
+            "elementchapter": ".chapter-title",
             "elementimagetag": "data-src",
             "elementimagestwo": ".tab-content img",
             "elementchaptertwo": "#chapter-heading",
