@@ -1,0 +1,150 @@
+{
+    "version": 20250525,
+    "versiontwo": 20250220,
+    "status": true,
+    "countries": [
+        "AR",
+        "BZ",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "US",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "DO",
+        "UY",
+        "VE"
+    ],
+    "ads": [
+        "https://cdn.pubfuture-ad.com",
+        "https://captorbaryton.com",
+        "https://vt.frumpsyakmak.com",
+        "https://platform.pubadx.one",
+        "https://t.me",
+        "https://discord.gg",
+        "https://vk.com",
+        "https://arc.io",
+        "https://core.arc.io",
+        "https://yandex.ru",
+        "https://mc.yandex.ru",
+        "https://disqus.com",
+        "https://tempest.services.disqus.com",
+        "https://links.services.disqus.com",
+        "https://apis.google.com",
+        "https://www.google-analytics.com",
+        "https://cdn.viglink.com",
+        "https://connect.facebook.net",
+        "https://static.cloudflareinsights.com",
+        "https://static.cloudflareinsights.com/beacon.min.js",
+        "https://www.leercapitulo.co/contact",
+        "https://www.leercapitulo.co/privacy",
+        "https://tmo-manga.disqus.com/embed.js",
+        "https://tmo-manga.disqus.com/count.js",
+        "https://accounts.google.com",
+        "https://www.googletagmanager.com"
+    ],
+    "content": [
+        {
+            "domains": [
+                "aHR0cHM6Ly93d3cubGVlcmNhcGl0dWxvLmNvLw=="
+            ],
+            "url": [
+                "assets/12434c43/ogCmcx/93m3.png?time=1738141376444",
+                "assets/12434c43/ogCmcx/93m3.png",
+                "manga",
+                "leer",
+                "adulto"
+            ],
+            "domainimages": [
+                "aHR0cHM6Ly93d3cubGVlcmNhcGl0dWxvLmNvLw=="
+            ],
+            "urlimage": [
+                "covers/.*"
+            ],
+            "subs": [
+                "manga",
+                "leer"
+            ]
+        }
+    ],
+    "css": [
+        {
+            "fragment": [
+                ".hotup-list",
+                "#back-top",
+                ".breadcrumb-contain",
+                ".container_title",
+                "#page_select",
+                "#page_select_top",
+                ".tip",
+                ".row.des",
+                ".nav.navbar-nav",
+                ".navbar-header"
+            ],
+            "searchmainmenu": ".navbar-collapse.collapse",
+            "searchmainmenuactive": "in",
+            "searchmainmenutwo": ".navbar-toggle",
+            "searchmainmenuactivetwo": "collapsed",
+            "searchmainmenutwoattribute": "aria-expanded",
+            "searchmainmenutwoid": "navbar",
+            "disableelements": [
+                "update-list slider-fixtop 0",
+                "resCarousel postersizes ResHover special 0"
+            ],
+            "disabletext": [
+                "Política de privacidad h1",
+                "Renuncia de responsabilidad h1",
+                "Privacy Policy h1",
+                "Disclaimer h1"
+            ],
+            "activity": [
+                ".breadcrumbs",
+                "#preloader-active",
+                ".header.sticky-bar",
+                ".navigation.paging-navigation",
+                ".tab-wrap",
+                ".row.row-eq-height",
+                ".c-genres-block.archive-page",
+                ".main-col-inner.c-page",
+                ".c-sidebar.c-top-second-sidebar",
+                ".summary_content_wrap",
+                ".dcddkoOverlay",
+                ".c-sidebar.c-bottom-sidebar",
+                ".notice_report",
+                ".darkmode"
+            ],
+            "borderexclude": [
+                ".manga-title-recommend",
+                ".manga-title-updated",
+                ".manga-episode-title",
+                ".c-image-hover img",
+                ".page-link",
+                ".card",
+                ".btn",
+                ".list-group",
+                ".form-control",
+                ".code-display",
+                ".play-button",
+                ".custom-btn"
+            ],
+            "elementimages": ".entry-content img",
+            "elementchapter": "#chapter-heading",
+            "elementimagetag": "data-src",
+            "elementimagestwo": ".tab-content img",
+            "elementchaptertwo": "#chapter-heading",
+            "elementimagetagtwo": "data-src"
+        }
+    ]
+}
