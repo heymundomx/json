@@ -204,7 +204,7 @@
                 "Disclaimer h1"
             ],
             "activity": [
-                ".header-nav.with-border.space-botton".
+                ".header-nav.with-border.space-botton",
                 ".breadcrumbs",
                 "#preloader-active",
                 ".header.sticky-bar",
