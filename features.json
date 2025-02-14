@@ -185,7 +185,8 @@
                 ".nav.navbar-nav.menuprincipal",
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
-                "#global-announcement"
+                "#global-announcement",
+                ".header-nav.with-border.space-botton"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
