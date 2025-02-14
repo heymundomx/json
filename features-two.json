@@ -83,10 +83,6 @@
             "domains": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
-                "aHR0cHM6Ly93d3cuZHJhZ29udHJhbnNsYXRpb24ubmV0Lw==",
-                "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v",
-                "aHR0cHM6Ly9taTJtYW5nYS5sYXQv",
-                "aHR0cHM6Ly9sZWVybWFuaHdhLmNvbS8=",
                 "aHR0cHM6Ly9sZWN0b3ItbWFuZ2EuY29tLw==",
                 "aHR0cHM6Ly9taWF1djJjb21pY3Mub3JnLw==",
                 "aHR0cHM6Ly90dW1hbmdhLm9yZy8="
@@ -114,11 +110,7 @@
             "domainimages": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
-                "aHR0cHM6Ly9tYW5od2FzLm5ldC8=",
-                "aHR0cHM6Ly9lcy5taTJtYW5nYS5jb20v",
-                "aHR0cHM6Ly9udHJnb2QuY29tLw==",
-                "aHR0cHM6Ly9taTJtYW5nYS5sYXQv",
-                "aHR0cHM6Ly9sZWVybWFuaHdhLmNvbS8=",
+                "aHR0cHM6Ly9sZWN0b3ItbWFuZ2EuY29tLw==",
                 "aHR0cHM6Ly9taWF1djJjb21pY3Mub3JnLw==",
                 "aHR0cHM6Ly90dW1hbmdhLm9yZy8="
             ],
