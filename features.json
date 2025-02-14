@@ -185,8 +185,7 @@
                 ".nav.navbar-nav.menuprincipal",
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
-                "#global-announcement",
-                ".header-nav.with-border.space-botton"
+                "#global-announcement"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -205,6 +204,7 @@
                 "Disclaimer h1"
             ],
             "activity": [
+                ".header-nav.with-border.space-botton".
                 ".breadcrumbs",
                 "#preloader-active",
                 ".header.sticky-bar",
