@@ -187,7 +187,8 @@
                 ".nav.navbar-nav.menuprincipal",
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
-                "#global-announcement"
+                "#global-announcement",
+                "#manga-genres-id-8"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
