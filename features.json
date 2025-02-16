@@ -161,6 +161,7 @@
                 ".adsfooter",
                 "#pushcontent-slidedown-dialog",
                 "#pushcontent-slidedown-container",
+                "#manga-genres-id-8",
                 "#notification-push",
                 "#button-notification-active",
                 ".main-navigation_wrap",
@@ -187,8 +188,7 @@
                 ".nav.navbar-nav.menuprincipal",
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
-                "#global-announcement",
-                "#manga-genres-id-8"
+                "#global-announcement"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
