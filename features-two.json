@@ -32,7 +32,9 @@
         "https://jouwaikekaivep.net",
         "https://thoamsixaizi.net",
         "https://d-code.liadm.com",
-        "https://naupsithizeekee.com",
+        "https://analytics.ahrefs.com",
+        "https://jsc.adskeeper.com",
+        "https://fluidallobar.com",
         "https://blockadsnot.com",
         "https://dnhfi5nn2dt67.cloudfront.net",
         "https://zyniozxt.com",
@@ -40,6 +42,7 @@
         "https://t.seedtag.com",
         "https://stats.wp.com",
         "https://fstatic.netpub.media",
+        "https://flatjeep.com",
         "https://cloudfront.net",
         "https://t.me",
         "https://discord.gg",
@@ -54,6 +57,7 @@
         "https://apis.google.com",
         "https://www.google-analytics.com",
         "https://cdn.viglink.com",
+        "https://www.facebook.com",
         "https://connect.facebook.net",
         "https://static.cloudflareinsights.com",
         "https://lectormanga-1.disqus.com",
@@ -72,18 +76,19 @@
             "domains": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
-                "aHR0cHM6Ly9taWF1djJjb21pY3Mub3JnLw==",
+                "aHR0cHM6Ly9tYW5nYWxlY3Rvci5jb20v",
                 "aHR0cHM6Ly9vbHltcHVzc2Nhbi5vcmcv",
-                "aHR0cHM6Ly90dW1hbmdhLm9yZy8="
+                "aHR0cHM6Ly90dW1hbmdhLm9yZy8=",
+                "aHR0cHM6Ly9sZWVyLW1hbmdhLmNvbS8="
             ],
             "url": [
                 "wp-content/uploads/2017/10/lectormanga-1.png",
                 "wp-content/uploads/2024/03/Manhwa-Online_.png",
-                "wp-content/uploads/2024/08/miaucat3-1.png",
+                "frontend/images/logo.png",
                 "wp-content/uploads/2017/10/olympus-logo-96.webp",
                 "assets/img/logo.png",
                 "assets/img/logo_mini.png",
-                "logo.png",
+                "build/leermanga.5fa6c8cd.webp",
                 "img/bg-search.jpg",
                 "manga/.*",
                 "mangas/.*",
@@ -98,14 +103,16 @@
             "domainimages": [
                 "aHR0cHM6Ly9sZWN0b3JtYW5nYWEuY29tLw==",
                 "aHR0cHM6Ly9tYW5od2Etb25saW5lLmNvbS8=",
-                "aHR0cHM6Ly9taWF1djJjb21pY3Mub3JnLw==",
+                "aHR0cHM6Ly9tYW5nYWxlY3Rvci5jb20v",
                 "aHR0cHM6Ly9vbHltcHVzc2Nhbi5vcmcv",
-                "aHR0cHM6Ly90dW1hbmdhLm9yZy8="
+                "aHR0cHM6Ly90dW1hbmdhLm9yZy8=",
+                "aHR0cHM6Ly9sZWVybWFuZ2EtcC5iLWNkbi5uZXQv"
             ],
             "urlimage": [
                 "wp-content/uploads/.*",
                 "assets_m/series/.*",
-                "content/images/.*"
+                "content/images/.*",
+                "imgs/.*"
             ],
             "subs": [
                 "manga",
@@ -173,7 +180,6 @@
                 ".go-to-top",
                 ".c-search-header__wrapper",
                 "#iframe-flotante",
-                "#MusesRadioPlayer-HTML5-player-0",
                 ".manga-history-id-2",
                 "#custom_html-4",
                 "#custom_html-5",
@@ -194,7 +200,10 @@
                 ".swal2-html-container",
                 ".swal2-container.swal2-center.swal2-backdrop-show",
                 "#title",
-                ".icon"
+                ".icon",
+                ".container-fluid.py-2.mt-auto",
+                ".d-none",
+                ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -231,7 +240,12 @@
                 ".row.c-row.related-manga",
                 ".nav_search",
                 ".categories",
-                ".similar_manga"
+                ".similar_manga",
+                ".btn.btn-dark.manga-bookmark.align-self-baseline",
+                ".col-6.col-md-12.mb-4",
+                ".col-12.d-flex.gap-3.flex-wrap",
+                ".col-12.col-lg-3.mt-4.mt-lg-0",
+                ".w-100.d-flex.justify-content-center.my-5.my-md-3"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
