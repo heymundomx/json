@@ -62,12 +62,12 @@
         "https://static.cloudflareinsights.com",
         "https://lectormanga-1.disqus.com",
         "https://https-www-manhwa-online-com.disqus.com",
-        "https://miauv2comics-org.disqus.com",
         "https://olympus-scan.disqus.com",
         "https://lectormangaa.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=6.6.2",
-        "https://miauv2comics.org/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=6.7.2",
+        "https://olympusscan.org/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=6.7.2",
         "https://lectormangaa.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://manhwa-online.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://olympusscan.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://accounts.google.com",
         "https://www.googletagmanager.com"
     ],
@@ -245,7 +245,9 @@
                 ".col-6.col-md-12.mb-4",
                 ".col-12.d-flex.gap-3.flex-wrap",
                 ".col-12.col-lg-3.mt-4.mt-lg-0",
-                ".w-100.d-flex.justify-content-center.my-5.my-md-3"
+                ".w-100.d-flex.justify-content-center.my-5.my-md-3",
+                ".container-fluid.container-homepage",
+                ".card.bg-white"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
