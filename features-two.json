@@ -69,6 +69,7 @@
         "https://manhwa-online.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://olympusscan.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://accounts.google.com",
+        "https://pagead2.googlesyndication.com",
         "https://www.googletagmanager.com"
     ],
     "content": [
