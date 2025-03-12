@@ -177,7 +177,8 @@
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
                 "#global-announcement",
-                ".commend_post"
+                ".commend_post",
+                ".content-ads"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
