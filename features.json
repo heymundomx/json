@@ -52,6 +52,8 @@
         "https://apis.google.com",
         "https://www.google-analytics.com",
         "https://cdn.viglink.com",
+        "https://r-login.wordpress.com",
+        "https://www.intensedebate.com",
         "https://connect.facebook.net",
         "https://static.cloudflareinsights.com",
         "https://static.cloudflareinsights.com/beacon.min.js",
@@ -174,7 +176,8 @@
                 ".nav.navbar-nav.menuprincipal",
                 ".new-link.navbar-brand",
                 ".topnavbar-wrapper",
-                "#global-announcement"
+                "#global-announcement",
+                ".commend_post"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
