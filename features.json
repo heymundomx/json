@@ -193,6 +193,8 @@
                 "#global-announcement",
                 ".commend_post",
                 ".content-ads",
+                ".c-blog-listing a[title=\"Ofertas Prohibidas\"]",
+                ".c-blog-listing a[title=\"Esposa Fugitiva\"]",
                 ".tab-content-wrap a[title=\"Ofertas Prohibidas\"]",
                 ".tab-content-wrap a[title=\"Un genio del futbol\"]",
                 ".tab-content-wrap a[title=\"Esposa Fugitiva\"]",
