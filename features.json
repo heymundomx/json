@@ -66,7 +66,13 @@
         "https://manhwas-1.disqus.com",
         "https://https-mangamovil-net.disqus.com",
         "https://accounts.google.com",
-        "https://www.googletagmanager.com"
+        "https://www.googletagmanager.com",
+        "https://images.tmomanga.com/cover/que-le-sucede-a-esta-familia.jpg",
+        "https://images.tmomanga.com/cover/instituto-de-investigacion-de-cultura-sexual.jpg",
+        "https://images.tmomanga.com/cover/las-amigas-de-mi-madre.jpg",
+        "https://images.tmomanga.com/cover/esposa-fugitiva.jpg",
+        "https://images.tmomanga.com/cover/un-genio-del-futbol.jpg",
+        "https://images.tmomanga.com/cover/ofertas-prohibidas.jpg" 
     ],
     "content": [
         {
@@ -83,6 +89,8 @@
             "url": [
                 "img/logo.png",
                 "img/bg-search.jpg",
+                "manga/ofertas-prohibidas",
+                "manga/esposa-fugitiva",
                 "manga/el-ingrediente-secreto-es-un-motivo-oculto-ligeramente-dulce",
                 "manga/cigarrillo-y-chocolate",
                 "manga/sasha-chan-to-classmate-otaku-kun",
@@ -93,8 +101,11 @@
                 "manga/etiqueta-de-dulce-noche",
                 "manga/yo-un-ganster-soy-alfa-en-otro-mundo",
                 "manga/piedad",
-                "manga/el-pasatiempo-secreto-del-estudiante-perfecto",
-                "manga/dado-de-la-suerte",
+                "manga/un-genio-del-futbol",
+                "manga/las-amigas-de-mi-madre",
+                "manga/instituto-de-investigacion-de-cultura-sexual",
+                "manga/que-le-sucede-a-esta-familia",
+                "manga/dudes-so-pretty-magical",
                 "manga/desafortunado-cupido-mensajero",
                 "manga/ease-una-vez",
                 "manga/mi-querido-y-joven-maestro",
@@ -181,7 +192,13 @@
                 ".topnavbar-wrapper",
                 "#global-announcement",
                 ".commend_post",
-                ".content-ads"
+                ".content-ads",
+                ".row-eq-height .manga_portada a[title=\"Ofertas Prohibidas\"]",
+                ".row-eq-height .manga_portada a[title=\"Un genio del futbol\"]",
+                ".row-eq-height .manga_portada a[title=\"Esposa Fugitiva\"]",
+                ".row-eq-height .manga_portada a[title=\"Las amigas de mi madre\"]",
+                ".row-eq-height .manga_portada a[title=\"Instituto de Investigación De Cultura Sexual\"]",
+                ".row-eq-height .manga_portada a[title=\"¿Qué le sucede a esta familia?\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
