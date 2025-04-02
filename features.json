@@ -57,6 +57,8 @@
         "https://connect.facebook.net",
         "https://static.cloudflareinsights.com",
         "https://static.cloudflareinsights.com/beacon.min.js",
+        "https://www.gstatic.com/firebasejs/9.6.8/firebase-messaging-compat.js",
+        "https://www.gstatic.com/firebasejs/9.6.8/firebase-app-compat.js",
         "https://tmo-manga.disqus.com",
         "https://mangalandia-1.disqus.com",
         "https://leermanga.disqus.com",
