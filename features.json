@@ -69,6 +69,8 @@
         "https://https-mangamovil-net.disqus.com",
         "https://accounts.google.com",
         "https://www.googletagmanager.com",
+        "https://images.tmomanga.com/cover/el-joven-maestro-esconde-su-pecho.jpg",
+        "https://img.leermanga.net/cover/el-joven-maestro-esconde-su-pecho.jpg",
         "https://images.tmomanga.com/cover/king-of-delusion.jpg",
         "https://img.leermanga.net/cover/king-of-delusion.jpg",
         "https://images.tmomanga.com/cover/jefas-implacables.jpg",
@@ -84,11 +86,7 @@
         "https://images.tmomanga.com/cover/no-la-hija-sino-la-madre.jpg",
         "https://img.leermanga.net/cover/no-la-hija-sino-la-madre.jpg",
         "https://images.tmomanga.com/cover/intercambio-de-madres.jpg",
-        "https://img.leermanga.net/cover/intercambio-de-madres.jpg",
-        "https://images.tmomanga.com/cover/ofertas-prohibidas.jpg",
-        "https://img.leermanga.net/cover/ofertas-prohibidas.jpg",
-        "https://images.tmomanga.com/cover/esposa-fugitiva.jpg",
-        "https://img.leermanga.net/cover/esposa-fugitiva.jpg"
+        "https://img.leermanga.net/cover/intercambio-de-madres.jpg"
     ],
     "content": [
         {
@@ -105,6 +103,11 @@
             "url": [
                 "img/logo.png",
                 "img/bg-search.jpg",
+                "manga/el-joven-maestro-esconde-su-pecho",
+                "manga/di-mi-nombre",
+                "manga/como-villana-debo-cuidar-a-la-heroina-cierto",
+                "manga/las-flores-son-cebo",
+                "manga/siete-domingos",
                 "manga/king-of-delusion",
                 "manga/el-maullido-del-amor",
                 "manga/como-triunfar-en-el-mundo-del-comic",
@@ -112,11 +115,9 @@
                 "manga/todas-son-mias",
                 "manga/el-sueno-de-un-sacerdote-es-montar-un-dragon",
                 "manga/intercambio-de-madres",
-                "manga/puedes-rechazar-el-pan-recien-horneado",
-                "manga/tesoro-de-la-guia",
-                "manga/pecera",
-                "manga/ofertas-prohibidas",
-                "manga/esposa-fugitiva",
+                "manga/modernist",
+                "manga/frustraciones-de-una-mujer-joven",
+                "manga/oleo-sobre-lienzo",
                 "manga/jefas-implacables",
                 "manga/loteria-sexual",
                 "manga/me-encanta-la-gacha",
@@ -199,6 +200,7 @@
                 "#global-announcement",
                 ".commend_post",
                 ".content-ads",
+                ".page-item-detail a[title=\"El joven maestro esconde su pecho\"]",
                 ".page-item-detail a[title=\"King of delusion (rey de las ilusiones)\"]",
                 ".page-item-detail a[title=\"Jefas implacables\"]",
                 ".page-item-detail a[title=\"Lotería sexual\"]",
@@ -206,9 +208,7 @@
                 ".page-item-detail a[title=\"¡Subí como la espuma en el mundo de las criptomonedas!\"]",
                 ".page-item-detail a[title=\"Cómo triunfar en el mundo del cómic\"]",
                 ".page-item-detail a[title=\"No la hija, sino la madre\"]",
-                ".page-item-detail a[title=\"Intercambio de Madres\"]",
-                ".page-item-detail a[title=\"Ofertas Prohibidas\"]",
-                ".page-item-detail a[title=\"Esposa Fugitiva\"]"
+                ".page-item-detail a[title=\"Intercambio de Madres\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -225,6 +225,7 @@
                 "Renuncia de responsabilidad h1",
                 "Privacy Policy h1",
                 "Disclaimer h1",
+                "El joven maestro esconde su pecho h3",
                 "King of delusion (rey de las ilusiones) h3",
                 "Jefas implacables h3",
                 "Lotería sexual h3",
@@ -232,9 +233,7 @@
                 "¡Subí como la espuma en el mundo de las criptomonedas! h3",
                 "Cómo triunfar en el mundo del cómic h3",
                 "No la hija, sino la madre h3",
-                "Intercambio de Madres h3",
-                "Ofertas Prohibidas h3",
-                "Esposa Fugitiva h3"
+                "Intercambio de Madres h3"
             ],
             "activity": [
                 ".header-nav.with-border.space-botton",
