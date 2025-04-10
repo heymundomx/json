@@ -84,9 +84,7 @@
         "https://images.tmomanga.com/cover/como-triunfar-en-el-mundo-del-comic.jpg",
         "https://img.leermanga.net/cover/como-triunfar-en-el-mundo-del-comic.jpg",
         "https://images.tmomanga.com/cover/no-la-hija-sino-la-madre.jpg",
-        "https://img.leermanga.net/cover/no-la-hija-sino-la-madre.jpg",
-        "https://images.tmomanga.com/cover/intercambio-de-madres.jpg",
-        "https://img.leermanga.net/cover/intercambio-de-madres.jpg"
+        "https://img.leermanga.net/cover/no-la-hija-sino-la-madre.jpg"
     ],
     "content": [
         {
@@ -103,6 +101,7 @@
             "url": [
                 "img/logo.png",
                 "img/bg-search.jpg",
+                "manga/cuidado-detras-de-ti",
                 "manga/el-joven-maestro-esconde-su-pecho",
                 "manga/di-mi-nombre",
                 "manga/como-villana-debo-cuidar-a-la-heroina-cierto",
@@ -114,7 +113,6 @@
                 "manga/no-la-hija-sino-la-madre",
                 "manga/todas-son-mias",
                 "manga/el-sueno-de-un-sacerdote-es-montar-un-dragon",
-                "manga/intercambio-de-madres",
                 "manga/modernist",
                 "manga/frustraciones-de-una-mujer-joven",
                 "manga/oleo-sobre-lienzo",
@@ -208,8 +206,7 @@
                 ".page-item-detail a[title=\"¡Me Encanta La Gacha!\"]",
                 ".page-item-detail a[title=\"¡Subí como la espuma en el mundo de las criptomonedas!\"]",
                 ".page-item-detail a[title=\"Cómo triunfar en el mundo del cómic\"]",
-                ".page-item-detail a[title=\"No la hija, sino la madre\"]",
-                ".page-item-detail a[title=\"Intercambio de Madres\"]"
+                ".page-item-detail a[title=\"No la hija, sino la madre\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -233,8 +230,7 @@
                 "¡Me Encanta La Gacha! h3",
                 "¡Subí como la espuma en el mundo de las criptomonedas! h3",
                 "Cómo triunfar en el mundo del cómic h3",
-                "No la hija, sino la madre h3",
-                "Intercambio de Madres h3"
+                "No la hija, sino la madre h3"
             ],
             "activity": [
                 ".header-nav.with-border.space-botton",
