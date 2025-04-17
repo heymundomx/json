@@ -40,6 +40,10 @@
         "https://qg.espleestrick.com",
         "https://cdn.adschill.com",
         "https://cdn.jsdelivr.net/npm/@widgetbot/crate@3",
+        "https://foomaque.net",
+        "https://mutcheng.net",
+        "https://tzegilo.com",
+        "https://my.rtmark.net",
         "https://d-code.liadm.com",
         "https://t.me",
         "https://www.paypal.com",
@@ -63,6 +67,7 @@
         "https://https-carteldemanhwas-com.disqus.com",
         "https://tumanhwas.disqus.com",
         "https://miauscan-com.disqus.com",
+        "https://uchuujinprojects.disqus.com",
         "https://miauv2comics.org",
         "https://zonamiau.com/wp-content/uploads/2021/12/paypal-ajjashndhas.png",
         "https://zonamiau.com/wp-content/uploads/2021/12/discordaskjdjasidjjais.png",
@@ -76,7 +81,8 @@
                 "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
                 "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw==",
                 "aHR0cHM6Ly90dW1hbmh3YXMuY29tLw==",
-                "aHR0cHM6Ly96b25hbWlhdS5jb20v"
+                "aHR0cHM6Ly96b25hbWlhdS5jb20v",
+                "aHR0cHM6Ly91Y2h1dWppbm1hbmdhcy5jb20v"
             ],
             "url": [
                 "assets/images/logo_blanco.png",
@@ -84,6 +90,7 @@
                 "wp-content/uploads/2024/05/Logo-Luna-Final.png.webp",
                 "logo3.png",
                 "wp-content/uploads/2022/02/cropped-gatita.png",
+                "wp-content/uploads/2024/12/logo2.png",
                 "manga/.*",
                 "leer/.*",
                 "series/.*",
@@ -100,7 +107,8 @@
                 "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9jYXJ0ZWxkZW1hbmh3YXMuY29tLw==",
                 "aHR0cHM6Ly90dW1hbmh3YXMuY29tLw==",
-                "aHR0cHM6Ly96b25hbWlhdS5jb20v"
+                "aHR0cHM6Ly96b25hbWlhdS5jb20v",
+                "aHR0cHM6Ly91Y2h1dWppbm1hbmdhcy5jb20v"
             ],
             "urlimage": [
                 "library/.*",
