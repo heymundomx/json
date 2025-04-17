@@ -42,7 +42,9 @@
         "https://widgetbot.io",
         "https://d-code.liadm.com",
         "https://t.me",
+        "https://www.paypal.com",
         "https://discord.gg",
+        "https://www.facebook.com",
         "https://vk.com",
         "https://arc.io",
         "https://core.arc.io",
@@ -61,6 +63,10 @@
         "https://https-carteldemanhwas-com.disqus.com",
         "https://tumanhwas.disqus.com",
         "https://miauscan-com.disqus.com",
+        "https://miauv2comics.org",
+        "https://zonamiau.com/wp-content/uploads/2021/12/paypal-ajjashndhas.png",
+        "https://zonamiau.com/wp-content/uploads/2021/12/discordaskjdjasidjjais.png",
+        "https://zonamiau.com/wp-content/uploads/2021/12/facweboo.png",
         "https://accounts.google.com",
         "https://www.googletagmanager.com"
     ],
@@ -156,7 +162,13 @@
                 ".rating.bixbox",
                 ".bixbox.image-list",
                 ".chaptertags",
-                "#theHISTORY"
+                "#theHISTORY",
+                "#n2-ss-3",
+                ".promo-banner",
+                ".releases.blog",
+                ".series-gen",
+                ".bloglist",
+                "#fixedban"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
@@ -166,7 +178,8 @@
                 "Privacy Policy h1",
                 "Disclaimer h1",
                 "MangaTV - lee tus mangas gratis y de forma online h1",
-                "Tus últimas lecturas h3"
+                "Tus últimas lecturas h3",
+                "Recomendación h2"
             ],
             "activity": [
                 ".th.top-header",
