@@ -111,8 +111,8 @@
             ],
             "urlimage": [
                 "library/.*",
-                "wp-content/.*",
-                "assets_m/.*"
+                "wp-content/uploads/.*",
+                "assets_m/series/.*"
             ],
             "subs": [
                 "manga",
