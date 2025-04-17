@@ -117,11 +117,11 @@
             ],
             "subs": [
                 "manga",
-                "leer"
+                "capitulo-.*"
             ],
             "subs-link-two": [
-                "series",
-                "capitulo-.*"
+                "manga",
+                "leer"
             ],
             "subs-link-three": [
                 "manga",
