@@ -75,20 +75,12 @@
         "https://img.leermanga.net/cover/mision-hongshil.jpg",
         "https://images.tmomanga.com/cover/el-joven-maestro-esconde-su-pecho.jpg",
         "https://img.leermanga.net/cover/el-joven-maestro-esconde-su-pecho.jpg",
-        "https://images.tmomanga.com/cover/king-of-delusion.jpg",
-        "https://img.leermanga.net/cover/king-of-delusion.jpg",
         "https://images.tmomanga.com/cover/itoshii-kimi-to-no-shoya-jijou.jpg",
         "https://img.leermanga.net/cover/itoshii-kimi-to-no-shoya-jijou.jpg",
         "https://images.tmomanga.com/cover/necesitas-practicar-el-sexo.jpg",
         "https://img.leermanga.net/cover/necesitas-practicar-el-sexo.jpg",
         "https://images.tmomanga.com/cover/a-twin-yuri-anthology.jpg",
-        "https://img.leermanga.net/cover/a-twin-yuri-anthology.jpg",
-        "https://images.tmomanga.com/cover/jefas-implacables.jpg",
-        "https://img.leermanga.net/cover/jefas-implacables.jpg",
-        "https://images.tmomanga.com/cover/loteria-sexual.jpg",
-        "https://img.leermanga.net/cover/loteria-sexual.jpg",
-        "https://images.tmomanga.com/cover/me-encanta-la-gacha.jpg",
-        "https://img.leermanga.net/cover/me-encanta-la-gacha.jpg"
+        "https://img.leermanga.net/cover/a-twin-yuri-anthology.jpg"
     ],
     "content": [
         {
@@ -105,6 +97,7 @@
             "url": [
                 "img/logo.png",
                 "img/bg-search.jpg",
+                "manga/aprendi-xx-a-traves-de-un-fanfic",
                 "manga/te-arrestare",
                 "manga/shell-boy-ignition",
                 "manga/vamos-a-encontrarnos-vivos",
@@ -116,7 +109,10 @@
                 "manga/como-villana-debo-cuidar-a-la-heroina-cierto",
                 "manga/las-flores-son-cebo",
                 "manga/siete-domingos",
-                "manga/king-of-delusion",
+                "manga/mi-novia-tomboy-es-demasiado-linda",
+                "manga/tres-mentiras-y-un-beso",
+                "manga/not-so-prince-charming",
+                "manga/no-tengo-que-elegir-solo-uno-verdad",
                 "manga/after-a-meal",
                 "manga/mi-padre-se-convirtio-en-un-bien-publico",
                 "manga/mesa-del-maestro",
@@ -130,10 +126,6 @@
                 "manga/modernist",
                 "manga/frustraciones-de-una-mujer-joven",
                 "manga/oleo-sobre-lienzo",
-                "manga/jefas-implacables",
-                "manga/loteria-sexual",
-                "manga/me-encanta-la-gacha",
-                "manga/el-maullido-del-amor",
                 "manga/no-es-mucho-mejor-ser-una-mujer-malvada",
                 "genero/ecchi",
                 "genero/girls-love",
@@ -207,13 +199,9 @@
                 ".page-item-detail a[title=\"El Carnicero\"]",
                 ".page-item-detail a[title=\"Misión Hongshil\"]",
                 ".page-item-detail a[title=\"El joven maestro esconde su pecho\"]",
-                ".page-item-detail a[title=\"King of delusion (rey de las ilusiones)\"]",
                 ".page-item-detail a[title=\"Itoshii Kimi to no Shoya Jijou\"]",
                 ".page-item-detail a[title=\"Necesitas practicar el sexo (Sex. Yeon. Pil!)\"]",
-                ".page-item-detail a[title=\"A Twin Yuri Anthology\"]",
-                ".page-item-detail a[title=\"Jefas implacables\"]",
-                ".page-item-detail a[title=\"Lotería sexual\"]",
-                ".page-item-detail a[title=\"¡Me Encanta La Gacha!\"]"
+                ".page-item-detail a[title=\"A Twin Yuri Anthology\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -233,13 +221,9 @@
                 "El Carnicero h3",
                 "Misión Hongshil h3",
                 "El joven maestro esconde su pecho h3",
-                "King of delusion (rey de las ilusiones) h3",
                 "Itoshii Kimi to no Shoya Jijou h3",
                 "Necesitas practicar el sexo (Sex. Yeon. Pil!) h3",
-                "A Twin Yuri Anthology h3",
-                "Jefas implacables h3",
-                "Lotería sexual h3",
-                "¡Me Encanta La Gacha! h3"
+                "A Twin Yuri Anthology h3"
             ],
             "activity": [
                 ".header-nav.with-border.space-botton",
