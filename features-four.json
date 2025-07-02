@@ -1,0 +1,118 @@
+{
+    "version": 20250902,
+    "versiontwo": 1,
+    "status": true,
+    "countries": [
+        "AR",
+        "BZ",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "US",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "DO",
+        "UY",
+        "VE"
+    ],
+    "ads": [
+        "https://madurird.com",
+        "https://vemtoutcheeg.com",
+        "https://shebudriftaiter.net",
+        "https://euwaqndyjyp.xyz",
+        "https://d-code.liadm.com",
+        "https://t.me",
+        "https://discord.gg",
+        "https://vk.com",
+        "https://arc.io",
+        "https://core.arc.io",
+        "https://yandex.ru",
+        "https://mc.yandex.ru",
+        "https://disqus.com",
+        "https://tempest.services.disqus.com",
+        "https://links.services.disqus.com",
+        "https://apis.google.com",
+        "https://www.google-analytics.com",
+        "https://cdn.viglink.com",
+        "https://connect.facebook.net",
+        "https://static.cloudflareinsights.com",
+        "https://static.cloudflareinsights.com/beacon.min.js",
+        "https://tumanhwas.disqus.com",
+        "https://accounts.google.com",
+        "https://www.googletagmanager.com"
+    ],
+    "content": [
+        {
+            "domains": [
+                "aHR0cHM6Ly9sZWN0b3JqcGcuY29tLw=="
+            ],
+            "url": [
+                "wp-content/uploads/2025/04/cropped-0e75d8c9-17a9-4b47-9d4c-a5f8ea90466e.png",
+                "serie/.*",
+                "capitulo-.*"
+            ],
+            "domainimages": [
+                "aHR0cHM6Ly9sZWN0b3JqcGcuY29tLw=="
+            ],
+            "urlimage": [
+                "wp-content/uploads/.*"
+            ],
+            "subs": [
+                "serie",
+                "capitulo-.*"
+            ]
+        }
+    ],
+    "css": [
+        {
+            "fragment": [
+                ".widget-content",
+                "a.has-thumb",
+                ".flex.flex-wrap.gap-1.5.mt-0.5",
+                "footer.bg-\\[--footer\\]",
+                "#manga-bookmark",
+                "div.bg-white\\/10.flex.flex-col.items-center.justify-center",
+                "div.bg-white\\/10.p-8"
+            ],
+            "searchmainmenu": ".searchx.minmb",
+            "searchmainmenuactive": "minmbx",
+            "disabletext": [
+                "Política de privacidad h1",
+                "Renuncia de responsabilidad h1",
+                "Privacy Policy h1",
+                "Disclaimer h1",
+                "MangaTV - lee tus mangas gratis y de forma online h1",
+                "Tus últimas lecturas h3",
+                "Recomendación h2"
+            ],
+            "activity": [
+                ".th.top-header",
+                ".infox",
+                "#sidebar",
+                ".page.manga-page.mobile",
+                ".page.reading-manga.mobile",
+                ".th",
+                ".seriestugenre",
+                ".bixbox"
+            ],
+            "borderexclude": [
+                ".card",
+                ".btn",
+                ".play-button",
+                ".custom-btn"
+            ]
+        }
+    ]
+}
