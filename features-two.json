@@ -133,7 +133,7 @@
                 "imgs/.*"
             ],
             "subs": [
-                "mangas",
+                "manga",
                 "capitulo"
             ]
         }
