@@ -75,6 +75,10 @@
         "https://manhwabl.com/wp-includes/js/dist/hooks.min.js",
         "https://manhwabl.com/wp-includes/js/dist/i18n.min.js",
         "https://manhwabl.com/wp-includes/js/dist/a11y.min.js",
+        "https://lectormanga.tv/frontend/js/jquery-migrate.min.js?ver=3.3.2",
+        "https://lectormanga.tv/frontend/js/hooks.min.js",
+        "https://lectormanga.tv/frontend/js/i18n.min.js",
+        "https://lectormanga.tv/frontend/js/a11y.min.js",
         "https://leer-manga.com/login",
         "https://accounts.google.com",
         "https://pagead2.googlesyndication.com",
@@ -89,6 +93,7 @@
                 "aHR0cHM6Ly9vbHltcHVzc2Nhbi5vcmcv",
                 "aHR0cHM6Ly90dW1hbmdhLm9yZy8=",
                 "aHR0cHM6Ly9sZWVyLW1hbmdhLmNvbS8=",
+                "aHR0cHM6Ly9sZWN0b3JtYW5nYS50di8=",
                 "aHR0cHM6Ly9tYW5od2FibC5jb20v"
             ],
             "url": [
@@ -98,6 +103,7 @@
                 "wp-content/uploads/2017/10/olympus-logo-96.webp",
                 "assets/img/logo.png",
                 "assets/img/logo_mini.png",
+                "frontend/images/logo.png",
                 "build/leermanga.5fa6c8cd.webp",
                 "wp-content/uploads/2024/09/logo-1.png",
                 "img/bg-search.jpg",
@@ -106,6 +112,7 @@
                 "leer/.*",
                 "online/.*",
                 "biblioteca/.*",
+                "capitulo/.*",
                 "capitulo-.*",
                 "manga-genre/.*",
                 "comics-genero/.*",
@@ -118,6 +125,7 @@
                 "aHR0cHM6Ly9vbHltcHVzc2Nhbi5vcmcv",
                 "aHR0cHM6Ly90dW1hbmdhLm9yZy8=",
                 "aHR0cHM6Ly9sZWVybWFuZ2EtcC5iLWNkbi5uZXQv",
+                "aHR0cHM6Ly9sZWN0b3JtYW5nYS50di8=",
                 "aHR0cHM6Ly9tYW5od2FibC5jb20v"
             ],
             "urlimage": [
@@ -128,7 +136,7 @@
             ],
             "subs": [
                 "manga",
-                "leer"
+                "capitulo"
             ]
         }
     ],
