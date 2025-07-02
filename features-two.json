@@ -263,7 +263,16 @@
                 ".dcddkoOverlay",
                 ".darkmode",
                 ".item-title.h4",
-                ".nav_search"
+                ".nav_search",
+                ".categories",
+                ".similar_manga",
+                ".btn.btn-dark.manga-bookmark.align-self-baseline",
+                ".col-6.col-md-12.mb-4",
+                ".col-12.d-flex.gap-3.flex-wrap",
+                ".col-12.col-lg-3.mt-4.mt-lg-0",
+                ".w-100.d-flex.justify-content-center.my-5.my-md-3",
+                ".container-fluid.container-homepage",
+                ".card.bg-white"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
