@@ -31,6 +31,7 @@
         "https://cdn.pubfuture-ad.com",
         "https://platform.pubadx.one",
         "https://source.pubadx.one",
+        "https://a.pemsrv.com",
         "https://ccg90.com",
         "https://oosougirdaigh.net",
         "https://ad.a-ads.com",
@@ -95,8 +96,8 @@
                 "wp-content/uploads/.*"
             ],
             "subs": [
-                "manga",
-                "chapter-"
+                "read",
+                "chapter"
             ]
         }
     ],
