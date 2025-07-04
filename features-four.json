@@ -1,0 +1,30 @@
+{
+    "version": 20250902,
+    "versiontwo": 1,
+    "status": true,
+    "countries": [
+        "AR",
+        "BZ",
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "SV",
+        "ES",
+        "US",
+        "GT",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PY",
+        "PE",
+        "PR",
+        "DO",
+        "UY",
+        "VE"
+    ]
+}
