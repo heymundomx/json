@@ -152,6 +152,7 @@
                 ".slick-prev.slick-arrow",
                 ".slick-next.slick-arrow",
                 ".c-blog-listing.shortcode-blog",
+                "#manga-popular-slider-3",
                 "#arc-broker",
                 "#arc-widget-container",
                 "#text-chapter-toolbar",
