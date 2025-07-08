@@ -152,6 +152,7 @@
                 ".slick-prev.slick-arrow",
                 ".slick-next.slick-arrow",
                 ".c-blog-listing.shortcode-blog",
+                "#text-chapter-toolbar",
                 "#arc-broker",
                 "#arc-widget-container",
                 ".col-lg-12.col-md-12.col-sm-12.content-ads",
