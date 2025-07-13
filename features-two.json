@@ -81,6 +81,8 @@
         "https://lectormanga.tv/frontend/js/hooks.min.js",
         "https://lectormanga.tv/frontend/js/i18n.min.js",
         "https://lectormanga.tv/frontend/js/a11y.min.js",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
         "https://leer-manga.com/login",
         "https://accounts.google.com",
         "https://pagead2.googlesyndication.com",
