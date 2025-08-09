@@ -273,6 +273,7 @@
                 ".item-title.h4",
                 ".nav_search",
                 ".categories",
+                "#prueba-test",
                 ".similar_manga",
                 ".btn.btn-dark.manga-bookmark.align-self-baseline",
                 ".col-6.col-md-12.mb-4",
