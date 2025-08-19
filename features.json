@@ -102,11 +102,7 @@
         "https://images.tmomanga.com/cover/mi-hija-adoptiva.jpg",
         "https://img.leermanga.net/cover/mi-hija-adoptiva.jpg",
         "https://images.tmomanga.com/cover/entre-estaciones.jpg",
-        "https://img.leermanga.net/cover/entre-estaciones.jpg",
-        "https://images.tmomanga.com/cover/atrapado-por-una-zorra.jpg",
-        "https://img.leermanga.net/cover/atrapado-por-una-zorra.jpg",
-        "https://images.tmomanga.com/cover/guias-basicas-de-bdsm.jpg",
-        "https://img.leermanga.net/cover/guias-basicas-de-bdsm.jpg"
+        "https://img.leermanga.net/cover/entre-estaciones.jpg"
     ],
     "content": [
         {
@@ -157,11 +153,6 @@
                 "manga/esta-historia-es-real",
                 "manga/mi-hija-adoptiva",
                 "manga/entre-estaciones",
-                "manga/atrapado-por-una-zorra",
-                "manga/deep-pivot",
-                "manga/stop-fight-go-to-bed",
-                "manga/guias-basicas-de-bdsm",
-                "manga/omega-no-kashoku",
                 "manga/no-es-mucho-mejor-ser-una-mujer-malvada",
                 "genero/ecchi",
                 "genero/girls-love",
@@ -250,9 +241,7 @@
                 ".page-item-detail a[title=\"No Caere por Segunda Vez\"]",
                 ".page-item-detail a[title=\"Esta historia es real\"]",
                 ".page-item-detail a[title=\"Mi hija Adoptiva\"]",
-                ".page-item-detail a[title=\"Entre estaciones\"]",
-                ".page-item-detail a[title=\"Atrapado por una Zorra\"]",
-                ".page-item-detail a[title=\"Guías básicas de BDSM\"]"
+                ".page-item-detail a[title=\"Entre estaciones\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -286,9 +275,7 @@
                 "No Caere por Segunda Vez h3",
                 "Esta historia es real h3",
                 "Mi hija Adoptiva h3",
-                "Entre estaciones h3",
-                "Atrapado por una Zorra h3",
-                "Guías básicas de BDSM h3"
+                "Entre estaciones h3"
             ],
             "activity": [
                 ".header-nav.with-border.space-botton",
