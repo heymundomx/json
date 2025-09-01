@@ -69,6 +69,8 @@
         "https://https-mangamovil-net.disqus.com",
         "https://accounts.google.com",
         "https://www.googletagmanager.com",
+        "https://images.tmomanga.com/cover/la-primera-noche-del-senor.jpg",
+        "https://img.leermanga.net/cover/la-primera-noche-del-senor.jpg",
         "https://images.tmomanga.com/cover/las-chicas-interespecies-y-sus-vidas-cotidianas.jpg",
         "https://img.leermanga.net/cover/las-chicas-interespecies-y-sus-vidas-cotidianas.jpg",
         "https://images.tmomanga.com/cover/el-carnicero.jpg",
@@ -99,10 +101,7 @@
         "https://img.leermanga.net/cover/un-mundo-sin-hombres.jpg",
         "https://images.tmomanga.com/cover/no-caere-por-segunda-vez.jpg",
         "https://img.leermanga.net/cover/no-caere-por-segunda-vez.jpg",
-        "https://images.tmomanga.com/cover/mi-hija-adoptiva.jpg",
-        "https://img.leermanga.net/cover/mi-hija-adoptiva.jpg",
-        "https://images.tmomanga.com/cover/entre-estaciones.jpg",
-        "https://img.leermanga.net/cover/entre-estaciones.jpg"
+        "https://images.tmomanga.com/cover/mi-hija-adoptiva.jpg"
     ],
     "content": [
         {
@@ -131,6 +130,8 @@
                 "manga/cuidado-detras-de-ti",
                 "manga/el-joven-maestro-esconde-su-pecho",
                 "manga/di-mi-nombre",
+                "manga/la-primera-noche-del-senor",
+                "manga/la-estrella-de-mi-cosmo",
                 "manga/el-punto-que-rozan-mis-dedos",
                 "manga/blazing",
                 "manga/la-vida-escolar-del-lider-de-la-tierra",
@@ -151,8 +152,6 @@
                 "manga/un-mundo-sin-hombres",
                 "manga/no-caere-por-segunda-vez",
                 "manga/esta-historia-es-real",
-                "manga/mi-hija-adoptiva",
-                "manga/entre-estaciones",
                 "manga/no-es-mucho-mejor-ser-una-mujer-malvada",
                 "genero/ecchi",
                 "genero/girls-love",
@@ -224,6 +223,7 @@
                 "#global-announcement",
                 ".commend_post",
                 ".content-ads",
+                ".page-item-detail a[title=\"La primera noche del señor\"]",
                 ".page-item-detail a[title=\"Las chicas interespecies y sus vidas cotidianas\"]",
                 ".page-item-detail a[title=\"El Carnicero\"]",
                 ".page-item-detail a[title=\"Misión Hongshil\"]",
@@ -239,9 +239,7 @@
                 ".page-item-detail a[title=\"Noonas\"]",
                 ".page-item-detail a[title=\"Un mundo sin hombres\"]",
                 ".page-item-detail a[title=\"No Caere por Segunda Vez\"]",
-                ".page-item-detail a[title=\"Esta historia es real\"]",
-                ".page-item-detail a[title=\"Mi hija Adoptiva\"]",
-                ".page-item-detail a[title=\"Entre estaciones\"]"
+                ".page-item-detail a[title=\"Esta historia es real\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -258,6 +256,7 @@
                 "Renuncia de responsabilidad h1",
                 "Privacy Policy h1",
                 "Disclaimer h1",
+                "La primera noche del señor h3",
                 "Las chicas interespecies y sus vidas cotidianas h3",
                 "El Carnicero h3",
                 "Misión Hongshil h3",
@@ -273,9 +272,7 @@
                 "Noonas h3",
                 "Un mundo sin hombres h3",
                 "No Caere por Segunda Vez h3",
-                "Esta historia es real h3",
-                "Mi hija Adoptiva h3",
-                "Entre estaciones h3"
+                "Esta historia es real h3"
             ],
             "activity": [
                 ".header-nav.with-border.space-botton",
