@@ -69,6 +69,8 @@
         "https://https-mangamovil-net.disqus.com",
         "https://accounts.google.com",
         "https://www.googletagmanager.com",
+        "https://images.tmomanga.com/cover/combustion-incompleta.jpg",
+        "https://img.leermanga.net/cover/combustion-incompleta.jpg",
         "https://images.tmomanga.com/cover/la-primera-noche-del-senor.jpg",
         "https://img.leermanga.net/cover/la-primera-noche-del-senor.jpg",
         "https://images.tmomanga.com/cover/las-chicas-interespecies-y-sus-vidas-cotidianas.jpg",
@@ -94,14 +96,7 @@
         "https://images.tmomanga.com/cover/dios-te-bendiga.jpg",
         "https://img.leermanga.net/cover/dios-te-bendiga.jpg",
         "https://images.tmomanga.com/cover/mi-hermana-casada.jpg",
-        "https://img.leermanga.net/cover/mi-hermana-casada.jpg",
-        "https://images.tmomanga.com/cover/noonas.jpg",
-        "https://img.leermanga.net/cover/noonas.jpg",
-        "https://images.tmomanga.com/cover/un-mundo-sin-hombres.jpg",
-        "https://img.leermanga.net/cover/un-mundo-sin-hombres.jpg",
-        "https://images.tmomanga.com/cover/no-caere-por-segunda-vez.jpg",
-        "https://img.leermanga.net/cover/no-caere-por-segunda-vez.jpg",
-        "https://images.tmomanga.com/cover/mi-hija-adoptiva.jpg"
+        "https://img.leermanga.net/cover/mi-hermana-casada.jpg"
     ],
     "content": [
         {
@@ -130,6 +125,10 @@
                 "manga/cuidado-detras-de-ti",
                 "manga/el-joven-maestro-esconde-su-pecho",
                 "manga/di-mi-nombre",
+                "manga/hosik-story",
+                "manga/tus-deseos-son-ordenes",
+                "manga/cuddle-juujin-omegaverse",
+                "manga/combustion-incompleta",
                 "manga/la-primera-noche-del-senor",
                 "manga/la-estrella-de-mi-cosmo",
                 "manga/el-punto-que-rozan-mis-dedos",
@@ -223,6 +222,7 @@
                 "#global-announcement",
                 ".commend_post",
                 ".content-ads",
+                ".page-item-detail a[title=\"Combustión incompleta\"]",
                 ".page-item-detail a[title=\"La primera noche del señor\"]",
                 ".page-item-detail a[title=\"Las chicas interespecies y sus vidas cotidianas\"]",
                 ".page-item-detail a[title=\"El Carnicero\"]",
@@ -235,11 +235,7 @@
                 ".page-item-detail a[title=\"Manipulación Extrema\"]",
                 ".page-item-detail a[title=\"Divorciado de mi mujer\"]",
                 ".page-item-detail a[title=\"Dios te bendiga (God bless)\"]",
-                ".page-item-detail a[title=\"Mi hermana Casada\"]",
-                ".page-item-detail a[title=\"Noonas\"]",
-                ".page-item-detail a[title=\"Un mundo sin hombres\"]",
-                ".page-item-detail a[title=\"No Caere por Segunda Vez\"]",
-                ".page-item-detail a[title=\"Esta historia es real\"]"
+                ".page-item-detail a[title=\"Mi hermana Casada\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -256,6 +252,7 @@
                 "Renuncia de responsabilidad h1",
                 "Privacy Policy h1",
                 "Disclaimer h1",
+                "Combustión incompleta h3",
                 "La primera noche del señor h3",
                 "Las chicas interespecies y sus vidas cotidianas h3",
                 "El Carnicero h3",
@@ -268,11 +265,7 @@
                 "Manipulación Extrema h3",
                 "Divorciado de mi mujer h3",
                 "Dios te bendiga (God bless) h3",
-                "Mi hermana Casada h3",
-                "Noonas h3",
-                "Un mundo sin hombres h3",
-                "No Caere por Segunda Vez h3",
-                "Esta historia es real h3"
+                "Mi hermana Casada h3"
             ],
             "activity": [
                 ".header-nav.with-border.space-botton",
