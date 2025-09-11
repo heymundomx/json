@@ -62,7 +62,10 @@
         "https://mangalector.com/imgs/dios-te-bendiga-god-bless.jpg",
         "https://img1.lectortmo.org/cover/combustion-incompleta.jpg",
         "https://mangalector.com/imgs/guias-basicas-de-bdsm.jpg",
-        "https://lectormanga.tv/imgs/aHR0cHM6Ly9pbWcxLmxlY3RvcnRtby5vcmcvY292ZXIvZ3VpYXMtYmFzaWNhcy1kZS1iZHNtLmpwZw=="
+        "https://lectormanga.tv/imgs/aHR0cHM6Ly9pbWcxLmxlY3RvcnRtby5vcmcvY292ZXIvZ3VpYXMtYmFzaWNhcy1kZS1iZHNtLmpwZw==",
+        "https://lectormanga.tv/imgs/aHR0cHM6Ly9pbWcxLmxlY3RvcnRtby5vcmcvY292ZXIvZW50cmUtZXN0YWNpb25lcy5qcGc=",
+        "https://lectormanga.tv/imgs/aHR0cHM6Ly9pbWcxLmxlY3RvcnRtby5vcmcvY292ZXIvNjVmOGVmODliNjNhNi5qcGc=",
+        "https://lectormanga.tv/imgs/aHR0cHM6Ly9pbWcxLmxlY3RvcnRtby5vcmcvY292ZXIvNjI5NjUxNzM1YmQ1YS5qcGc="
     ],
     "content": [
         {
@@ -162,13 +165,18 @@
                 ".commend_post",
                 ".content-ads",
                 ".navigation-ajax",
+                ".meta-item.rating",
+                ".c-sub-header-nav.with-border",
                 ".page-item-detail a[title=\"Jinx Manhwa\"]",
                 ".page-item-detail a[title=\"Codename: ANASTASIA\"]",
                 ".page-item-detail a[title=\"La ex villana quiere escapar del príncipe sádico\"]",
                 ".page-item-detail a[title=\"Las chicas interespecies y sus vidas cotidianas\"]",
                 ".page-item-detail a[title=\"Cazador de milfs en otro mundo\"]",
                 ".page-item-detail a[title=\"Dios te bendiga (God bless)\"]",
-                ".page-item-detail a[title=\"Guías básicas de BDSM\"]"
+                ".page-item-detail a[title=\"Guías básicas de BDSM\"]",
+                ".page-item-detail a[title=\"Entre estaciones\"]",
+                ".page-item-detail a[title=\"Toxina\"]",
+                ".page-item-detail a[title=\"La novia del rey de los titanes (Kyojinzoku no Hanayome)\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -191,7 +199,12 @@
                 "Las chicas interespecies y sus vidas cotidianas h3",
                 "Cazador de milfs en otro mundo h3",
                 "Dios te bendiga (God bless) h3",
-                "Guías básicas de BDSM h3"
+                "Guías básicas de BDSM h3",
+                "Entre estaciones h3",
+                "Toxina h3",
+                "La novia del rey de los titanes (Kyojinzoku no Hanayome) h3",
+                "LectorManga - Tendencias h1",
+                "LectorManga - Últimos Capitulos Agregados h2"
             ],
             "activity": [
                 ".header-nav.with-border.space-botton",
