@@ -228,7 +228,8 @@
                 "Otra vez, Una Señal (Again Signal) h3",
                 "derrape h3",
                 "LectorManga - Tendencias h1",
-                "LectorManga - Últimos Capitulos Agregados h2"
+                "LectorManga - Últimos Capitulos Agregados h2",
+                "You have not read any manga p"
             ],
             "activity": [
                 ".header-nav.with-border.space-botton",
@@ -261,7 +262,7 @@
             ],
             "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
-            "elementimagetag": "src",
+            "elementimagetag": "data-src",
             "elementimagestwo": ".tab-content img",
             "elementchaptertwo": "#chapter-heading",
             "elementimagetagtwo": "data-src"
