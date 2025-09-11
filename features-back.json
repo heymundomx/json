@@ -227,19 +227,7 @@
                 "LectorManga - Últimos Capitulos Agregados h2"
             ],
             "activity": [
-                ".header-nav.with-border.space-botton",
-                ".breadcrumbs",
-                "#preloader-active",
-                ".header.sticky-bar",
-                ".navigation.paging-navigation",
-                ".tab-wrap",
-                ".row.row-eq-height",
-                ".c-genres-block.archive-page",
-                ".main-col-inner.c-page",
-                ".c-sidebar.c-top-second-sidebar",
-                ".summary_content_wrap",
-                ".dcddkoOverlay",
-                ".darkmode"
+                ".header-nav.with-border.space-botton"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
