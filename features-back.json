@@ -178,7 +178,6 @@
                 ".wp-manga-tags-wrapper",
                 ".go-to-top.active",
                 ".action-icon",
-                ".mobile-nav-btn.icon.ion-md-menu",
                 ".post-rating",
                 ".page-item-detail a[title=\"Jinx Manhwa\"]",
                 ".page-item-detail a[title=\"Codename: ANASTASIA\"]",
@@ -227,7 +226,19 @@
                 "LectorManga - Últimos Capitulos Agregados h2"
             ],
             "activity": [
-                ".header-nav.with-border.space-botton"
+                ".header-nav.with-border.space-botton",
+                ".breadcrumbs",
+                "#preloader-active",
+                ".header.sticky-bar",
+                ".navigation.paging-navigation",
+                ".tab-wrap",
+                ".row.row-eq-height",
+                ".c-genres-block.archive-page",
+                ".main-col-inner.c-page",
+                ".c-sidebar.c-top-second-sidebar",
+                ".summary_content_wrap",
+                ".dcddkoOverlay",
+                ".darkmode"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
