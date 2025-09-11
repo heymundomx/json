@@ -99,6 +99,12 @@
                 "manga/la-seduccion-de-la-serpiente-sagrada",
                 "manga/love-among-pear-blossoms",
                 "manga/pregnancy-counterattack",
+                "manga/sensei-punch",
+                "manga/sofure-buka",
+                "manga/okubyoumono-ni-i-love-you",
+                "manga/otra-vez-una-senal-again-signal",
+                "manga/derrape",
+                "manga/el-primer-amor-de-zhou-chengyi-fue-demasiado-duro",
                 "genero/ecchi",
                 "genero/girls-love",
                 "genero/boys-love",
@@ -167,6 +173,13 @@
                 ".navigation-ajax",
                 ".meta-item.rating",
                 ".c-sub-header-nav.with-border",
+                ".manga-action",
+                ".row.c-row.related-manga",
+                ".wp-manga-tags-wrapper",
+                ".go-to-top.active",
+                ".action-icon",
+                ".mobile-nav-btn.icon.ion-md-menu",
+                ".post-rating",
                 ".page-item-detail a[title=\"Jinx Manhwa\"]",
                 ".page-item-detail a[title=\"Codename: ANASTASIA\"]",
                 ".page-item-detail a[title=\"La ex villana quiere escapar del príncipe sádico\"]",
@@ -176,7 +189,9 @@
                 ".page-item-detail a[title=\"Guías básicas de BDSM\"]",
                 ".page-item-detail a[title=\"Entre estaciones\"]",
                 ".page-item-detail a[title=\"Toxina\"]",
-                ".page-item-detail a[title=\"La novia del rey de los titanes (Kyojinzoku no Hanayome)\"]"
+                ".page-item-detail a[title=\"La novia del rey de los titanes (Kyojinzoku no Hanayome)\"]",
+                ".page-item-detail a[title=\"Otra vez, Una Señal (Again Signal)\"]",
+                ".page-item-detail a[title=\"derrape\"]"
             ],
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
@@ -186,7 +201,8 @@
             "searchmainmenutwoid": "navbar",
             "disableelements": [
                 "main-col-inner c-page 0",
-                "resCarousel postersizes ResHover special 0"
+                "resCarousel postersizes ResHover special 0",
+                "entry-content_wrap 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
@@ -203,6 +219,8 @@
                 "Entre estaciones h3",
                 "Toxina h3",
                 "La novia del rey de los titanes (Kyojinzoku no Hanayome) h3",
+                "Otra vez, Una Señal (Again Signal) h3",
+                "derrape h3",
                 "LectorManga - Tendencias h1",
                 "LectorManga - Últimos Capitulos Agregados h2"
             ],
