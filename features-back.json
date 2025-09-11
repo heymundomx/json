@@ -198,7 +198,6 @@
             "searchmainmenutwoattribute": "aria-expanded",
             "searchmainmenutwoid": "navbar",
             "disableelements": [
-                "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0",
                 "entry-content_wrap 0"
             ],
