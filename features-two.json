@@ -299,9 +299,9 @@
                 ".play-button",
                 ".custom-btn"
             ],
-            "elementimages": "#lector img",
-            "elementchapter": "#chapter-heading",
-            "elementimagetag": "data-src"
+            "elementimages": ".reading-content img",
+            "elementchapter": "[id*=chapter-heading]",
+            "elementimagetag": "src"
         }
     ]
 }
