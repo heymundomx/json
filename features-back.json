@@ -175,7 +175,7 @@
                 "#global-announcement",
                 ".commend_post",
                 ".content-ads",
-                ".navigation-ajax",
+                "#navigation-ajax",
                 ".meta-item.rating",
                 ".c-sub-header-nav.with-border",
                 ".manga-action",
