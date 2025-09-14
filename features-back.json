@@ -110,11 +110,11 @@
                 "manga/otra-vez-una-senal-again-signal",
                 "manga/derrape",
                 "manga/el-primer-amor-de-zhou-chengyi-fue-demasiado-duro",
-                "genero/ecchi",
-                "genero/girls-love",
-                "genero/boys-love",
-                "genero/harem",
-                "genero/gore",
+                "genre/ecchi",
+                "genre/girls-love",
+                "genre/boys-love",
+                "genre/harem",
+                "genre/gore",
                 "adulto"
             ],
             "domainimages": [
