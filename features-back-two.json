@@ -187,7 +187,8 @@
             "searchmainmenutwoattribute": "aria-expanded",
             "searchmainmenutwoid": "navbar",
             "disableelements": [
-                "main-col col-lg-9 col-md-12 col-sm-12 0",
+                "last-chapters-content 0",
+                "last-chapters 0",
                 "resCarousel postersizes ResHover special 0"
             ],
             "disabletext": [
