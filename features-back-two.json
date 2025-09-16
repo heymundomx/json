@@ -119,6 +119,9 @@
     "css": [
         {
             "fragment": [
+                ".navbar-brand",
+                ".navbar-toggler",
+                ".breadcrumb",
                 ".see-doujins",
                 ".genres.box-large",
                 ".navbar-nav.mr-auto",
