@@ -168,6 +168,7 @@
                 "#global-announcement",
                 ".commend_post",
                 ".content-ads",
+                ".manga_portada a[title=\"Shell Boy: Ignition (Shell Boy: Explicación)\"]",
                 ".page-item-detail a[title=\"Papa datte shitai\"]",
                 ".page-item-detail a[title=\"Combustión incompleta\"]",
                 ".page-item-detail a[title=\"La primera noche del señor\"]",
