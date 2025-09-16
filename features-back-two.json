@@ -159,20 +159,6 @@
     "css": [
         {
             "fragment": [
-                ".see-doujins",
-                ".sidebar-col.col-lg-3.col-md-12.col-sm-12.float_widget",
-                ".genres.box-large",
-                ".share",
-                ".share.row",
-                ".share.space-chapters-bottom",
-                ".fa-solid.fa-book.book-chapter",
-                ".ads-content.container",
-                ".ads-content",
-                ".popular-10",
-                ".breadcrumb",
-                ".disqus-content",
-                "#disqus_thread",
-                ".owl-carousel.owl-theme",
                 ".manga_portada a[title=\"Shell Boy: Ignition (Shell Boy: Explicación)\"]",
                 ".manga_portada a[title=\"I'll Arrest You! (Te arrestare!)\"]",
                 ".manga_portada a[title=\"Las chicas interespecies y sus vidas cotidianas\"]",
@@ -215,34 +201,10 @@
                 "Shell Boy: Ignition (Shell Boy: Explicación) span",
                 "I'll Arrest You! (Te arrestare!) span",
                 "Las chicas interespecies y sus vidas cotidianas span",
-                "Aprendí XX a través de un fanfic span",
-                "El Carnicero h3",
-                "Misión Hongshil h3",
-                "El joven maestro esconde su pecho h3",
-                "Dorm Fantasies With My Resident Advisor h3",
-                "kiite, Ore no Hazukashii Oto h3",
-                "Comeré por usted, joven amo h3",
-                "La esposa del jefe h3",
-                "Manipulación Extrema h3",
-                "Divorciado de mi mujer h3",
-                "Dios te bendiga (God bless) h3"
+                "Aprendí XX a través de un fanfic span"
             ],
             "activity": [
-                ".navbar-menu",
-                ".genres-manga-content.noselect",
-                ".header-nav.with-border.space-botton",
-                ".breadcrumbs",
-                "#preloader-active",
-                ".header.sticky-bar",
-                ".navigation.paging-navigation",
-                ".tab-wrap",
-                ".row.row-eq-height",
-                ".c-genres-block.archive-page",
-                ".main-col-inner.c-page",
-                ".c-sidebar.c-top-second-sidebar",
-                ".summary_content_wrap",
-                ".dcddkoOverlay",
-                ".darkmode"
+                ".navbar-menu"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
