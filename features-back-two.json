@@ -53,7 +53,6 @@
         "https://static.cloudflareinsights.com/beacon.min.js",
         "https://www.gstatic.com/firebasejs/9.6.8/firebase-messaging-compat.js",
         "https://www.gstatic.com/firebasejs/9.6.8/firebase-app-compat.js",
-        "https://code.jquery.com/jquery-3.6.0.js",
         "https://zonetmo.disqus.com",
         "https://accounts.google.com",
         "https://www.googletagmanager.com",
@@ -159,6 +158,20 @@
     "css": [
         {
             "fragment": [
+                ".see-doujins",
+                ".sidebar-col.col-lg-3.col-md-12.col-sm-12.float_widget",
+                ".genres.box-large",
+                ".share",
+                ".share.row",
+                ".share.space-chapters-bottom",
+                ".fa-solid.fa-book.book-chapter",
+                ".ads-content.container",
+                ".ads-content",
+                ".popular-10",
+                ".breadcrumb",
+                ".disqus-content",
+                "#disqus_thread",
+                ".owl-carousel.owl-theme",
                 ".manga_portada a[title=\"Shell Boy: Ignition (Shell Boy: Explicación)\"]",
                 ".manga_portada a[title=\"I'll Arrest You! (Te arrestare!)\"]",
                 ".manga_portada a[title=\"Las chicas interespecies y sus vidas cotidianas\"]",
