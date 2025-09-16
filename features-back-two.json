@@ -123,6 +123,7 @@
                 ".genres.box-large",
                 ".navbar-nav.mr-auto",
                 ".share",
+                ".share.row",
                 ".share.space-chapters-bottom",
                 ".fa-solid.fa-book.book-chapter",
                 ".navbar-brand",
