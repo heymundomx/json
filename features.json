@@ -243,13 +243,16 @@
                 "Disclaimer h1",
                 "COMENTARIOS <3 p",
                 "MANGAS RELACIONADOS p",
-                "Servidores p"
+                "Servidores p",
+                "Ultimos manhwas agregados h4",
+                "Mangas y Manhwas Favoritos h4"
             ],
             "activity": [
                 ".navbar-menu",
                 ".genres-manga-content.noselect",
                 ".header-nav.with-border.space-botton",
-                ".breadcrumbs"
+                ".breadcrumbs",
+                ".btn.main"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
