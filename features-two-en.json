@@ -39,6 +39,8 @@
         "https://caroakitab.com",
         "https://yaoiscan.com/wp-content/cache/min/1/pubadx-ad.js?ver=1741360339",
         "https://fu.abdalminhag.com",
+        "https://shumpeltooz.net",
+        "https://ravoompaimpe.com",
         "https://a.pemsrv.com",
         "https://s.pemsrv.com",
         "https://d-code.liadm.com",
@@ -67,9 +69,9 @@
         "https://yaoiscan.com/wp-includes/js/dist/hooks.min.js",
         "https://yaoiscan.com/wp-includes/js/dist/i18n.min.js",
         "https://yaoiscan.com/wp-includes/js/dist/a11y.min.js",
-        "https://harimanga.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://harimanga.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
         "https://kunmanga.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
-        "https://harimanga.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+        "https://harimanga.me/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
         "https://kunmanga.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
         "https://yaoiscan.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
         "https://accounts.google.com",
@@ -78,7 +80,7 @@
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly9oYXJpbWFuZ2EuY29tLw==",
+                "aHR0cHM6Ly9oYXJpbWFuZ2EubWUv",
                 "aHR0cHM6Ly9rdW5tYW5nYS5jb20v",
                 "aHR0cHM6Ly95YW9pc2Nhbi5jb20v"
             ],
@@ -92,7 +94,7 @@
                 "manga-genre/.*"
             ],
             "domainimages": [
-                "aHR0cHM6Ly9oYXJpbWFuZ2EuY29tLw==",
+                "aHR0cHM6Ly9oYXJpbWFuZ2EubWUv",
                 "aHR0cHM6Ly9rdW5tYW5nYS5jb20v",
                 "aHR0cHM6Ly95YW9pc2Nhbi5jb20v"
             ],
