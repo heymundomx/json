@@ -238,7 +238,9 @@
                 ".manga_portada a[title=\"Mi hermana Casada\"]",
                 ".manga_portada a[title=\"Noonas\"]",
                 ".manga_portada a[title=\"Un mundo sin hombres\"]",
-                ".manga_portada a[title=\"No Caere por Segunda Vez\"]"
+                ".manga_portada a[title=\"No Caere por Segunda Vez\"]",
+                ".manga_portada a[title=\"Camino a matar dioses en otro mundo\"]",
+                ".manga_portada a[title=\"¡Muerte a la pequeña comadreja!\"]"
             ],
             "searchmainmenu": ".navbar-collapse.collapse",
             "searchmainmenuactive": "show",
