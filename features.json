@@ -93,7 +93,8 @@
         "https://images.zonetmo.com/cover/mi-hermana-casada.jpg",
         "https://images.zonetmo.com/cover/noonas.jpg",
         "https://images.zonetmo.com/cover/un-mundo-sin-hombres.jpg",
-        "https://images.zonetmo.com/cover/no-caere-por-segunda-vez.jpg"
+        "https://images.zonetmo.com/cover/no-caere-por-segunda-vez.jpg",
+        "https://images.zonetmo.com/cover/627e0ecf1ede2.jpg"
     ],
     "content": [
         {
@@ -239,6 +240,7 @@
                 ".manga_portada a[title=\"Noonas\"]",
                 ".manga_portada a[title=\"Un mundo sin hombres\"]",
                 ".manga_portada a[title=\"No Caere por Segunda Vez\"]",
+                ".manga_portada a[title=\"Otra Vez\"]",
                 ".manga_portada a[title=\"Camino a matar dioses en otro mundo\"]",
                 ".manga_portada a[title=\"¡Muerte a la pequeña comadreja!\"]"
             ],
