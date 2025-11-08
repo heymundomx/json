@@ -67,6 +67,7 @@
         "https://www.facebook.com",
         "https://connect.facebook.net",
         "https://static.cloudflareinsights.com",
+        "https://static.cloudflareinsights.com/beacon.min.js",
         "https://lectormanga-1.disqus.com",
         "https://amaam.disqus.com",
         "https://lectormangaa.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=6.6.2",
