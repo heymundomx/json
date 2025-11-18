@@ -179,6 +179,7 @@
                 ".releases.blog",
                 ".series-gen",
                 ".bloglist",
+                ".text-13",
                 "#fixedban"
             ],
             "searchmainmenu": ".searchx.minmb",
