@@ -248,6 +248,7 @@
                 ".icon",
                 ".container-fluid.py-2.mt-auto",
                 ".d-none",
+                ".text-13",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
