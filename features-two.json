@@ -300,6 +300,7 @@
                 ".manga-title-recommend",
                 ".manga-title-updated",
                 ".manga-episode-title",
+                ".wp-manga-chapter-img",
                 ".c-image-hover img",
                 ".page-link",
                 ".card",
