@@ -191,6 +191,7 @@
                 ".c-sub-nav_wrap",
                 ".c-sub-nav_wrap",
                 ".text-13",
+                "#cf-host-status",
                 "#global-announcement"
             ],
             "searchmainmenu": ".search-main-menu",
@@ -204,6 +205,7 @@
                 "Renuncia de responsabilidad h1",
                 "Privacy Policy h1",
                 "Disclaimer h1",
+                "Additional troubleshooting information here. a",
                 "Cloudflare a",
                 "cloudflare.com a"
             ],
