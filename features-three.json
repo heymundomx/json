@@ -180,6 +180,7 @@
                 ".series-gen",
                 ".bloglist",
                 ".text-13",
+                "#cf-host-status",
                 "#fixedban"
             ],
             "searchmainmenu": ".searchx.minmb",
@@ -195,8 +196,7 @@
                 "Recomendación h2",
                 "Additional troubleshooting information here. a",
                 "Cloudflare a",
-                "cloudflare.com a",
-                "mangatv.net span"
+                "cloudflare.com a"
             ],
             "activity": [
                 ".th.top-header",
