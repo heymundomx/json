@@ -193,8 +193,10 @@
                 "TusMangas - lee tus mangas h1",
                 "Tus últimas lecturas h3",
                 "Recomendación h2",
+                "Additional troubleshooting information here. a",
                 "Cloudflare a",
-                "cloudflare.com a"
+                "cloudflare.com a",
+                "mangatv.net span"
             ],
             "activity": [
                 ".th.top-header",
