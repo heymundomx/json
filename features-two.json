@@ -215,6 +215,7 @@
                 ".c-content-readmore",
                 ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
                 ".col-md-4.col-sm-12.col-xs-12",
+                ".main-col.col-12.col-sm-8",
                 ".go-to-top",
                 ".c-search-header__wrapper",
                 "#iframe-flotante",
@@ -256,6 +257,7 @@
                 ".container-fluid.py-2.mt-auto",
                 ".d-none",
                 ".text-13",
+                ".author.meta",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
