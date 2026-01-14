@@ -242,7 +242,7 @@
                 "#block-6",
                 "#block-10",
                 "#block-13",
-                "#block-15",
+                "#block-16",
                 "#block-20",
                 ".c-sub-nav_wrap",
                 "#global-announcement",
@@ -261,7 +261,7 @@
                 ".d-none",
                 ".text-13",
                 ".author.meta",
-                ".navigation-ajaxo",
+                ".navigation-ajax",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
