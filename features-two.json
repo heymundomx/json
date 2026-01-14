@@ -261,7 +261,7 @@
                 ".d-none",
                 ".text-13",
                 ".author.meta",
-                ".navigation-ajax",
+                ".navigation-ajaxo",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
