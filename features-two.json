@@ -330,7 +330,7 @@
                 ".play-button",
                 ".custom-btn"
             ],
-            "elementimages": ".image-alls img",
+            "elementimages": ".entry-content img",
             "elementchapter": "#chapter-heading",
             "elementimagetag": "data-src"
         }
