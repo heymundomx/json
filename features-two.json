@@ -324,6 +324,7 @@
                 ".page-link",
                 ".card",
                 ".btn",
+                ".slider__item",
                 ".list-group",
                 ".form-control",
                 ".code-display",
