@@ -110,10 +110,7 @@
             "url": [
                 "uploads/logo.png",
                 "img/bg-search.jpg",
-                "biblioteca?search=desbloqueo",
-                "biblioteca?search=Desbloqueo",
-                "biblioteca?search=desbloquear",
-                "biblioteca?search=Desbloquear",
+                "biblioteca?search=.*",
                 "mangak/shell-boy-ignition",
                 "mangak/sal-de-mi-casa",
                 "mangak/te-arrestare",
