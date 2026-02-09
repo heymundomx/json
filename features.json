@@ -110,8 +110,6 @@
             "url": [
                 "uploads/logo.png",
                 "img/bg-search.jpg",
-                "search=.*",
-                "?search=.*",
                 "mangak/shell-boy-ignition",
                 "mangak/sal-de-mi-casa",
                 "mangak/te-arrestare",
