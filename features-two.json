@@ -320,6 +320,7 @@
                 ".card",
                 ".btn",
                 ".wrap",
+                ".body-wrap",
                 ".list-group",
                 ".form-control",
                 ".code-display",
