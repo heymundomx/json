@@ -329,8 +329,7 @@
                 ".play-button",
                 ".mgw-tab",
                 ".mgw-view-more",
-                ".mgw-item-detail",
-                ".mgws-item-thumb",
+                ".mgw-item-thumb",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
