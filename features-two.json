@@ -267,7 +267,7 @@
             "disableelements": [
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0",
-                "mgw-wrapper 0",
+                "mgws-wrapper 0",
                 "homesection 1"
             ],
             "disabletext": [
@@ -327,8 +327,8 @@
                 ".form-control",
                 ".code-display",
                 ".play-button",
-                ".mgwss-tab",
-                ".mgwss-view-more",
+                ".mgw-tab",
+                ".mgw-view-more",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
