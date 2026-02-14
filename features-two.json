@@ -327,9 +327,6 @@
                 ".form-control",
                 ".code-display",
                 ".play-button",
-                ".slider__item",
-                ".slider__thumb",
-                ".manga-slider",
                 ".mgw-tab",
                 ".mgw-view-more",
                 ".custom-btn"
