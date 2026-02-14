@@ -327,6 +327,7 @@
                 ".play-button",
                 ".item-thumb",
                 ".manga-type",
+                ".item__wrap",
                 ".mgw-tab",
                 ".mgw-view-more",
                 ".mgw-item-thumb",
