@@ -326,6 +326,7 @@
                 ".form-control",
                 ".code-display",
                 ".play-button",
+                ".item-thumb",
                 ".manga-type",
                 ".mgw-tab",
                 ".mgw-view-more",
