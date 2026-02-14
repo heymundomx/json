@@ -331,6 +331,7 @@
                 ".mgw-view-more",
                 ".mgw-item-detail",
                 ".mgw-item-thumb",
+                "#mgw-dynamic-wrapper",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
