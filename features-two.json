@@ -330,8 +330,7 @@
                 ".mgw-tab",
                 ".mgw-view-more",
                 ".mgw-item-detail",
-                ".mgw-item-thumb",
-                "#mgw-dynamic-wrapper",
+                ".mgws-item-thumb",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
