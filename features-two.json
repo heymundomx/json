@@ -327,9 +327,8 @@
                 ".form-control",
                 ".code-display",
                 ".play-button",
-                ".mgw-tab",
-                ".mgw-view-more",
-                ".mgw-item-thumb img",
+                ".mgwss-tab",
+                ".mgwss-view-more",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
