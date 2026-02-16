@@ -212,7 +212,6 @@
                 ".fa-solid.fa-book.book-chapter",
                 ".navbar-brand",
                 ".navbar-toggler",
-                ".ads-content.container",
                 ".ads-content",
                 ".popular-10",
                 ".breadcrumb",
@@ -317,6 +316,7 @@
                 ".form-control",
                 ".code-display",
                 ".play-button",
+                ".navbar-menu",
                 ".custom-btn"
             ],
             "elementimages": ".image-alls img",
