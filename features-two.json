@@ -258,7 +258,7 @@
                 ".navigation-ajax",
                 ".btn-genres",
                 ".ua-overlay",
-                ".uas-alert",
+                ".ua-alert",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
