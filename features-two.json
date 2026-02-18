@@ -327,6 +327,7 @@
                 ".code-display",
                 ".play-button",
                 ".body-wrap",
+                ".site-content",
                 ".item__wrap",
                 ".item-thumb",
                 ".manga-type",
