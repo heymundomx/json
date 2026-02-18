@@ -257,6 +257,8 @@
                 ".author.meta",
                 ".navigation-ajax",
                 ".btn-genres",
+                ".ua-overlay",
+                ".ua-alert",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
