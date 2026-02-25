@@ -39,6 +39,7 @@
         "https://al5sm.com",
         "https://nap5k.com",
         "https://gizokraijaw.net",
+        "https://tmotaku.com/wp-content/plugins/madara-ua/js/uadect.js?ver=6.9.1",
         "https://groleegni.net",
         "https://pupilkang.top",
         "https://sptrachle.top",
@@ -255,6 +256,8 @@
                 ".author.meta",
                 ".navigation-ajax",
                 ".btn-genres",
+                ".ua-overlay",
+                ".ua-alert",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
