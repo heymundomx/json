@@ -197,7 +197,8 @@
             "subs": [
                 "manga",
                 "leer"
-            ]
+            ],
+            "formatoCapitulo": "plano"
         }
     ],
     "css": [
