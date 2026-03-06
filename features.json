@@ -198,7 +198,7 @@
                 "manga",
                 "leer"
             ],
-            "formatoCapitulo": "plano"
+            "form": "plano"
         }
     ],
     "css": [
