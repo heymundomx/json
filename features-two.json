@@ -145,7 +145,8 @@
             "subs": [
                 "manga",
                 "capitulo"
-            ]
+            ],
+            "form": "anidado"
         }
     ],
     "css": [
