@@ -334,9 +334,9 @@
                 ".mgw-tab",
                 ".mgw-view-more",
                 ".mgw-item-thumb",
-                "#frm-wp-manga-report",
-                ".close",
+                ".modal-backdrop",
                 ".modal-content",
+                ".close",
                 ".button",
                 ".custom-btn"
             ],
