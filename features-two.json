@@ -334,6 +334,11 @@
                 ".mgw-tab",
                 ".mgw-view-more",
                 ".mgw-item-thumb",
+                "#chapter_report_li",
+                "#frm-wp-manga-report",
+                ".close",
+                ".modal-content",
+                ".button",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
