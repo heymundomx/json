@@ -195,7 +195,8 @@
                 "coversss/.*",
                 "cover/shell-boy-ignition.jpg",
                 "cover/vamos-a-encontrarnos-vivos.jpg",
-                "cover/mangjong.jpg"
+                "cover/mangjong.jpg",
+                "cover/6233628cf021b.jpg"
             ],
             "subs": [
                 "manga",
@@ -280,7 +281,10 @@
                 "last-chapters 0",
                 "last-mangas 0",
                 "resCarousel postersizes ResHover special 0",
-                "navigation paging-navigation 0"
+                "navigation 0",
+                "col-12 col-md-12 0",
+                "justify-content-center 0",
+                "row pagination 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
