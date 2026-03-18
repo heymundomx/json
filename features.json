@@ -185,6 +185,7 @@
                 "genero/boys-love",
                 "genero/harem",
                 "genero/gore",
+                "cover/.*",
                 "adulto"
             ],
             "domainimages": [
@@ -280,11 +281,7 @@
                 "last-chapters-content 0",
                 "last-chapters 0",
                 "last-mangas 0",
-                "resCarousel postersizes ResHover special 0",
-                "navigation 0",
-                "col-12 col-md-12 0",
-                "justify-content-center 0",
-                "row pagination 0"
+                "resCarousel postersizes ResHover special 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
