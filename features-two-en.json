@@ -125,7 +125,7 @@
                 "aHR0cHM6Ly95YW9pc2Nhbi5jb20v"
             ],
             "urlimage": [
-                "wp-contentsss/uploads/.*",
+                "wp-content/uploads/.*",
                 "thumb/.*"
             ],
             "subs": [
