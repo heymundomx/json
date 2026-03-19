@@ -125,6 +125,7 @@
                 "capitulo-.*",
                 "manga-genre/.*",
                 "comics-genero/.*",
+                "wp-content/uploads/.*",
                 "adulto"
             ],
             "domainimages": [
@@ -138,7 +139,7 @@
                 "aHR0cHM6Ly9tYW5od2FibC5jb20v"
             ],
             "urlimage": [
-                "wp-content/uploads/.*",
+                "wp-contentsss/uploads/.*",
                 "assets_m/series/.*",
                 "content/images/.*",
                 "imgs/.*"
