@@ -115,6 +115,7 @@
                 "manga/.*",
                 "read/.*",
                 "chapter-.*",
+                "wp-content/uploads/.*",
                 "manga-genre/.*"
             ],
             "domainimages": [
@@ -124,7 +125,7 @@
                 "aHR0cHM6Ly95YW9pc2Nhbi5jb20v"
             ],
             "urlimage": [
-                "wp-content/uploads/.*",
+                "wp-contentsss/uploads/.*",
                 "thumb/.*"
             ],
             "subs": [
