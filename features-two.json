@@ -139,7 +139,7 @@
                 "aHR0cHM6Ly9tYW5od2FibC5jb20v"
             ],
             "urlimage": [
-                "wp-contentsss/uploads/.*",
+                "wp-content/uploads/.*",
                 "assets_m/series/.*",
                 "content/images/.*",
                 "imgs/.*"
