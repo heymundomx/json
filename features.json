@@ -186,7 +186,7 @@
                 "genero/boys-love",
                 "genero/harem",
                 "genero/gore",
-                "coversss/.*",
+                "cover/.*",
                 "adulto"
             ],
             "domainimages": [
