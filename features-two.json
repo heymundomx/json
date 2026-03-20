@@ -1,5 +1,5 @@
 {
-    "version": 20260709,
+    "version": 20260710,
     "versiontwo": 1,
     "status": true,
     "countries": [
@@ -125,7 +125,6 @@
                 "capitulo-.*",
                 "manga-genre/.*",
                 "comics-genero/.*",
-                "wp-content/uploads/.*",
                 "adulto"
             ],
             "domainimages": [
