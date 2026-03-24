@@ -338,6 +338,8 @@
                 ".modal-content",
                 ".close",
                 ".button",
+                ".list-group",
+                "#vidPlyr",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
