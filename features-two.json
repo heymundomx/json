@@ -337,7 +337,7 @@
                 ".modal-content",
                 ".close",
                 ".button",
-                ".list-group",
+                ".list-group-item",
                 "#vidPlyr",
                 ".custom-btn"
             ],
