@@ -209,9 +209,9 @@
                 ".play-button",
                 ".custom-btn"
             ],
-            "elementimages": ".entry-content img",
+            "elementimages": "#readerarea img",
             "elementchapter": ".entry-title",
-            "elementimagetag": "data-src"
+            "elementimagetag": "src"
         }
     ]
 }
