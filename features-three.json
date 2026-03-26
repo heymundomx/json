@@ -192,14 +192,14 @@
                 "cloudflare.com a"
             ],
             "activity": [
-                ".th.top-headersss",
+                ".th.top-header",
                 ".infoxsss",
                 "#sidebarsss",
                 ".page.manga-page.mobilesss",
                 ".page.reading-manga.mobilesss",
-                ".thsss",
-                ".seriestugenresss",
-                ".bixboxsss"
+                ".th",
+                ".seriestugenre",
+                ".bixbox"
             ],
             "borderexclude": [
                 ".card",
