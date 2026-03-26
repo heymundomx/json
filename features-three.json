@@ -206,7 +206,10 @@
                 ".btn",
                 ".play-button",
                 ".custom-btn"
-            ]
+            ],
+            "elementimages": ".entry-content img",
+            "elementchapter": ".entry-title",
+            "elementimagetag": "data-src"
         }
     ]
 }
