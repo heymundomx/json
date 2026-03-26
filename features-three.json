@@ -192,11 +192,11 @@
                 "cloudflare.com a"
             ],
             "activity": [
-                ".th.top-header",
+                ".th.top-headers",
                 ".centernav.bound",
                 ".mgen",
                 ".tsinfo",
-                "#sidebar",
+                "#sidebars",
                 ".page.manga-page.mobile",
                 ".page.reading-manga.mobile",
                 ".th",
