@@ -120,15 +120,7 @@
             ],
             "subs": [
                 "manga",
-                "capitulo-.*"
-            ],
-            "subs-link-two": [
-                "manga",
                 "leer"
-            ],
-            "subs-link-three": [
-                "manga",
-                "news"
             ]
         }
     ],
