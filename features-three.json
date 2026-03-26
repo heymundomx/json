@@ -201,6 +201,7 @@
                 ".page.reading-manga.mobile",
                 ".th",
                 ".seriestugenre",
+                "#version",
                 ".bixbox"
             ],
             "borderexclude": [
