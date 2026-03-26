@@ -139,6 +139,7 @@
                 "#discord",
                 "#comments",
                 "#colophon",
+                "#version",
                 ".blox.mlb.kln",
                 ".readingnav.rnavbot",
                 ".Manga",
@@ -202,7 +203,6 @@
                 ".page.reading-manga.mobile",
                 ".th",
                 ".seriestugenre",
-                "#version",
                 ".releases",
                 ".listupd"
             ],
