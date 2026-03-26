@@ -193,8 +193,8 @@
             ],
             "activity": [
                 ".th.top-header",
-                ".infoxsss",
-                "#sidebarsss",
+                ".infox",
+                "#sidebar",
                 ".page.manga-page.mobilesss",
                 ".page.reading-manga.mobilesss",
                 ".th",
