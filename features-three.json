@@ -193,7 +193,9 @@
             ],
             "activity": [
                 ".th.top-header",
-                ".infoxs",
+                ".centernav.bound",
+                ".mgen",
+                ".tsinfo",
                 "#sidebar",
                 ".page.manga-page.mobile",
                 ".page.reading-manga.mobile",
