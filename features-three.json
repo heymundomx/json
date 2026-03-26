@@ -202,7 +202,8 @@
                 ".th",
                 ".seriestugenre",
                 "#version",
-                ".bixboxs"
+                ".releases",
+                ".listupd"
             ],
             "borderexclude": [
                 ".card",
