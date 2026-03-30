@@ -258,7 +258,6 @@
                 ".btn-genres",
                 ".ua-overlay",
                 ".ua-alert",
-                "#madara-antiblock-container",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
