@@ -185,6 +185,7 @@
                 "genero/boys-love",
                 "genero/harem",
                 "genero/gore",
+                "cover/.*",
                 "adulto"
             ],
             "domainimages": [
@@ -192,7 +193,7 @@
                 "aHR0cHM6Ly90aHVtYnMudmlzb3JtYW5nYS5jb20v"
             ],
             "urlimage": [
-                "cover/.*"
+                "coversss/.*"
             ],
             "subs": [
                 "manga",
