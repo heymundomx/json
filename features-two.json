@@ -307,6 +307,7 @@
                 ".container-fluid.container-homepage",
                 ".madara-aviso",
                 "#madara-aviso-racha",
+                ".ua-bar-container",
                 ".card.bg-white"
             ],
             "borderexclude": [
