@@ -338,6 +338,11 @@
                 ".button",
                 ".list-group-item",
                 "#vidPlyr",
+                ".ua-bar-container",
+                ".ua-bar-badge",
+                ".ua-bar-f",
+                ".ua-bar-cta",
+                ".ua-bar-sec",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
