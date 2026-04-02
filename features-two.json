@@ -344,6 +344,7 @@
                 ".ua-bar-f",
                 ".ua-bar-cta",
                 ".ua-bar-sec",
+                ".ua-bar-x",
                 ".custom-btn"
             ],
             "elementimages": ".entry-content img",
