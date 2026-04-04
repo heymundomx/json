@@ -207,6 +207,7 @@
                 ".c-nav-tabs",
                 ".manga-action",
                 ".action-icons",
+                ".action-icon",
                 ".meta-item.rating",
                 ".post-rating",
                 ".c-content-readmore",
