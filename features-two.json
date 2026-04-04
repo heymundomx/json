@@ -255,6 +255,7 @@
                 ".text-13",
                 ".author.meta",
                 ".navigation-ajax",
+                ".lmcomments-container",
                 ".btn-genres",
                 ".ua-overlay",
                 ".ua-alert",
