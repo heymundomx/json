@@ -101,7 +101,7 @@
             "searchmainmenu": ".search-main-menu",
             "searchmainmenuactive": "active",
             "disableelements": [
-                "homesection 1"
+                "homesections 1"
             ],
             "disabletext": [
                 "Política de privacidad h1",
