@@ -175,6 +175,7 @@
                 "#form-sign-up",
                 "#form-reset",
                 ".disqus_commend",
+                ".lmcomments-container",
                 "#notification-button",
                 ".c-breadcrumb",
                 ".adsbygoogle",
