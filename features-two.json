@@ -341,7 +341,7 @@
                 ".modal-content",
                 ".close",
                 ".button",
-                ".list-group-item",
+                ".list-group",
                 "#vidPlyr",
                 ".ua-bar-container",
                 ".ua-bar-badge",
