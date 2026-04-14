@@ -242,6 +242,8 @@
                 ".navigation-ajax",
                 ".btn-lectura-limpia",
                 ".view-all-button-wrapper",
+                "a[href*=\"action\"]",
+                "a[href*=\"loli\"]",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
