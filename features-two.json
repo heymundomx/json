@@ -207,7 +207,6 @@
                 ".c-sidebar.c-top-sidebar.wp-manga",
                 ".c-nav-tabs",
                 ".manga-action",
-                ".action-icons",
                 ".meta-item.rating",
                 ".post-rating",
                 ".main-col.col-12.col-sm-8.col-md-8.col-lg-8",
@@ -311,6 +310,7 @@
                 ".madara-aviso",
                 "#madara-aviso-racha",
                 ".ua-bar-container",
+                ".action-icon",
                 ".card.bg-white"
             ],
             "borderexclude": [
