@@ -256,7 +256,8 @@
                 "Additional troubleshooting information here. a",
                 "Cloudflare a",
                 "cloudflare.com a",
-                "tmotaku.com span"
+                "manhwaweb.org span",
+                "manhwaonline.net span"
             ],
             "activity": [
                 ".breadcrumbs",
@@ -280,8 +281,6 @@
                 ".col-12.col-lg-3.mt-4.mt-lg-0",
                 ".w-100.d-flex.justify-content-center.my-5.my-md-3",
                 ".container-fluid.container-homepage",
-                ".madara-aviso",
-                "#madara-aviso-racha",
                 ".ua-bar-container",
                 ".card.bg-white"
             ],
