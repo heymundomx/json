@@ -66,6 +66,7 @@
     "content": [
         {
             "domains": [
+                "aHR0cHM6Ly9tYW5od2FvbmxpbmUubmV0Lw==",
                 "aHR0cHM6Ly9tYW5od2F3ZWIub3JnLw=="
             ],
             "url": [
@@ -97,6 +98,7 @@
                 "adulto"
             ],
             "domainimages": [
+                "aHR0cHM6Ly9tYW5od2FvbmxpbmUubmV0Lw==",
                 "aHR0cHM6Ly9tYW5od2F3ZWIub3JnLw=="
             ],
             "urlimage": [
@@ -166,7 +168,7 @@
                 ".c-sidebar.c-top-sidebar.wp-manga",
                 ".c-nav-tabs",
                 ".manga-action",
-                ".action-icons",
+                ".action-icon",
                 ".meta-item.rating",
                 ".post-rating",
                 ".c-content-readmore",
@@ -217,6 +219,7 @@
                 ".text-13",
                 ".author.meta",
                 ".navigation-ajax",
+                ".btn-lectura-limpia",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
@@ -226,9 +229,8 @@
                 "resCarousel postersizes ResHover special 0",
                 "mgw-wrapper 0",
                 "homesection 1",
-                "block-5 0",
-                "widget 0",
-                "col-6 col-sm-4 col-md-2 1"
+                "widget col-12 col-md-12   default  no-icon heading-style-1 widget_block 0",
+                "wp-pagenavi 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
