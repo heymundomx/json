@@ -240,6 +240,7 @@
                 ".author.meta",
                 ".navigation-ajax",
                 ".btn-lectura-limpia",
+                ".view-all-button-wrapper",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
@@ -248,8 +249,7 @@
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0",
                 "mgw-wrapper 0",
-                "homesection 1",
-                "view-all-button-wrapper 0"
+                "homesection 1"
             ],
             "disabletext": [
                 "Política de privacidad h1",
