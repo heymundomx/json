@@ -233,7 +233,7 @@
                 "resCarousel postersizes ResHover special 0",
                 "mgw-wrapper 0",
                 "homesection 1",
-                "widget col-12 col-md-12   default  no-icon heading-style-1 widget_block 0",
+                "widget-content 0",
                 "wp-pagenavi 0"
             ],
             "disabletext": [
@@ -250,7 +250,7 @@
                 "Josei a",
                 "Boys Love a",
                 "Manga a",
-                "Loli a",
+                "Loli li",
                 "(1) span",
                 "Additional troubleshooting resources. a",
                 "Additional troubleshooting information here. a",
