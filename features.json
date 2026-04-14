@@ -121,7 +121,14 @@
                 "aHR0cHM6Ly9tYW5od2F3ZWIub3JnLw=="
             ],
             "urlimage": [
-                "wp-content/uploads/.*"
+                "wp-content/uploads/2020/.*",
+                "wp-content/uploads/2021/.*",
+                "wp-content/uploads/2022/.*",
+                "wp-content/uploads/2023/.*",
+                "wp-content/uploads/2024/.*",
+                "wp-content/uploads/2025/.*",
+                "wp-content/uploads/2026/.*",
+                "wp-content/uploads/2027/.*"
             ],
             "subs": [
                 "manga",
