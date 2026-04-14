@@ -61,10 +61,6 @@
         "https://manhwaweb.org/wp-includes/js/dist/hooks.min.js",
         "https://manhwaweb.org/wp-includes/js/dist/i18n.min.js",
         "https://manhwaweb.org/wp-includes/js/dist/a11y.min.js",
-        "https://manhwaonline.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
-        "https://manhwaonline.net/wp-includes/js/dist/hooks.min.js",
-        "https://manhwaonline.net/wp-includes/js/dist/i18n.min.js",
-        "https://manhwaonline.net/wp-includes/js/dist/a11y.min.js",
         "https://accounts.google.com",
         "https://pagead2.googlesyndication.com",
         "https://www.googletagmanager.com"
@@ -206,6 +202,7 @@
                 "#manga-genres-id-5",
                 "#manga-slider-7",
                 "#tab-18",
+                "#block-5",
                 "#block-6",
                 "#block-10",
                 "#block-13",
@@ -230,7 +227,6 @@
                 ".author.meta",
                 ".navigation-ajax",
                 ".btn-lectura-limpia",
-                "#block-5",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
@@ -305,11 +301,6 @@
                 ".item__wrap",
                 ".item-thumb",
                 ".manga-type",
-                ".mgw-tab",
-                ".mgw-view-more",
-                ".mgw-item-thumb",
-                ".modal-backdrop",
-                ".modal-content",
                 ".close",
                 ".button",
                 ".custom-btn"
