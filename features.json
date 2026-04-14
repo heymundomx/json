@@ -211,7 +211,9 @@
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0",
                 "mgw-wrapper 0",
-                "homesection 1"
+                "homesection 1",
+                "block-5 0",
+                "widget 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
