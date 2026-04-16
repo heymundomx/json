@@ -246,6 +246,7 @@
                 ".navigation-ajax",
                 ".btn-lectura-limpia",
                 ".view-all-button-wrapper",
+                "a[href*=\"manga-genre/18/\"]",
                 "a[href*=\"manga-genre/action/\"]",
                 "a[href*=\"manga-genre/actor/\"]",
                 "a[href*=\"manga-genre/adult/\"]",
