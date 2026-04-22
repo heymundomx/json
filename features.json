@@ -342,6 +342,8 @@
                 "a[href*=\"manga-genre/webtoon/\"]",
                 "a[href*=\"manga-genre/yuri/\"]",
                 "a[href*=\"manga-genre/zombies/\"]",
+                "#cf-host-status",
+                "a[href*=\"discord.gg/\"]",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
