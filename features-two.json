@@ -253,6 +253,8 @@
                 "#title",
                 ".mobile-nav-btn.icon.ion-md-menu",
                 ".container-fluid.py-2.mt-auto",
+                "#cf-host-status",
+                "a[href*=\"discord.gg/\"]",
                 ".d-none",
                 ".text-13",
                 ".author.meta",
