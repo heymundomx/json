@@ -173,6 +173,7 @@
                 ".bloglist",
                 ".text-13",
                 "#cf-host-status",
+                ".textwidget.custom-html-widget",
                 "#fixedban"
             ],
             "searchmainmenu": ".searchx.minmb",
@@ -184,6 +185,7 @@
                 "Disclaimer h1",
                 "TusMangas - lee tus mangas h1",
                 "MangaTV - lee tus mangas gratis y de forma online h1",
+                "Unete a Nuestro Discord h3",
                 "Tus últimas lecturas h3",
                 "Recomendación h2",
                 "Additional troubleshooting resources. a",
