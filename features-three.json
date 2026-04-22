@@ -173,7 +173,7 @@
                 ".bloglist",
                 ".text-13",
                 "#cf-host-status",
-                ".textwidget.custom-html-widget",
+                "a[href*=\"discord.gg/\"]",
                 "#fixedban"
             ],
             "searchmainmenu": ".searchx.minmb",
