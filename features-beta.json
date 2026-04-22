@@ -264,7 +264,9 @@
                 ".manga_portada a[title=\"Mariquita (Sissy)\"]",
                 ".manga_portada a[title=\"Otra Vez\"]",
                 ".manga_portada a[title=\"Camino a matar dioses en otro mundo\"]",
-                ".manga_portada a[title=\"¡Muerte a la pequeña comadreja!\"]"
+                ".manga_portada a[title=\"¡Muerte a la pequeña comadreja!\"]",
+                "#cf-host-status",
+                "a[href*=\"discord.gg/\"]"
             ],
             "searchmainmenu": ".navbar-collapse.collapse",
             "searchmainmenuactive": "show",
