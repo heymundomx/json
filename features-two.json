@@ -38,6 +38,7 @@
         "https://nap5k.com",
         "https://n6wxm.com",
         "https://tmotaku.com/wp-content/plugins/madara-ua/js/uadect.js?ver=6.9.6",
+        "https://tmotaku.com/wp-content/plugins/social-widget/js/widget.js?ver=6.9.6",
         "https://gizokraijaw.net",
         "https://groleegni.net",
         "https://pupilkang.top",
@@ -262,6 +263,8 @@
                 ".btn-genres",
                 ".ua-overlay",
                 ".ua-alert",
+                "#social-widget",
+                ".sw-popup",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
