@@ -360,7 +360,7 @@
                 ".sw-avatar",
                 ".sw-body",
                 ".sw-msg-bubble",
-                ".sw-gender-buttons",
+                "#sw-genre-buttons",
                 ".sw-error",
                 "#sw-wa-button",
                 "#sw-ig-button",
