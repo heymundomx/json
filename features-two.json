@@ -262,6 +262,7 @@
                 ".btn-genres",
                 ".ua-overlay",
                 ".ua-alert",
+                "#social-widget",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
