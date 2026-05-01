@@ -262,7 +262,7 @@
                 ".btn-genres",
                 ".ua-overlay",
                 ".ua-alert",
-                "#social-widget",
+                "#ssocial-widget",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
@@ -315,7 +315,7 @@
                 "#madara-aviso-racha",
                 ".ua-bar-container",
                 ".action-icon",
-                "#social-widget",
+                "#ssocial-widget",
                 ".card.bg-white"
             ],
             "borderexclude": [
