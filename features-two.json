@@ -316,6 +316,7 @@
                 ".ua-bar-container",
                 ".action-icon",
                 "#social-widget",
+                "#backbtndown",
                 ".card.bg-white"
             ],
             "borderexclude": [
