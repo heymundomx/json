@@ -342,6 +342,9 @@
                 "a[href*=\"manga-genre/webtoon/\"]",
                 "a[href*=\"manga-genre/yuri/\"]",
                 "a[href*=\"manga-genre/zombies/\"]",
+                "a[href*=\"manga/el-malvado-alquimista-no-logra-controlar-a-su-propio-experimento/\"]",
+                "a[href*=\"manga/registros-de-supervivencia-del-rey-de-la-espada/\"]",
+                "a[href*=\"manga/revelando-el-secreto-del-emperador/\"]",
                 "#cf-host-status",
                 "a[href*=\"discord.gg/\"]",
                 ".cd-section"
