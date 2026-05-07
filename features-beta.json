@@ -347,6 +347,8 @@
                 "a[href*=\"manga/revelando-el-secreto-del-emperador/\"]",
                 "#cf-host-status",
                 "a[href*=\"discord.gg/\"]",
+                ".col-4.col-md-2",
+                ".summary_image",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
