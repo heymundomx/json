@@ -1,7 +1,7 @@
 {
     "version": 20260820,
     "versiontwo": 1,
-    "status": false,
+    "status": true,
     "countries": [
         "AR",
         "BZ",
@@ -195,7 +195,7 @@
                 "aHR0cHM6Ly90aHVtYnMudmlzb3JtYW5nYS5jb20v"
             ],
             "urlimage": [
-                "cover/.*"
+                "coverss/.*"
             ],
             "subs": [
                 "manga",
