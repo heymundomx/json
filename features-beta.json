@@ -352,8 +352,6 @@
                 "a[href*=\"manga/mi-cosa-resulta-ser-el-rey-demonio-mas-fuerte/\"]",
                 "#cf-host-status",
                 "a[href*=\"discord.gg/\"]",
-                ".col-4.col-md-2",
-                ".summary_image",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
