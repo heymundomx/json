@@ -77,7 +77,8 @@
     "content": [
         {
             "domains": [
-                "aHR0cHM6Ly9tYW5od2F3ZWIub3JnLw=="
+                "aHR0cHM6Ly9tYW5od2F3ZWIub3JnLw==",
+                "aHR0cHM6Ly90bW90YWt1LmNvbS8="
             ],
             "url": [
                 "wp-content/uploads/2017/10/Captura_de_pantalla_2025-09-15_114324-removebg-preview.png",
@@ -120,7 +121,8 @@
                 "adulto"
             ],
             "domainimages": [
-                "aHR0cHM6Ly9tYW5od2F3ZWIub3JnLw=="
+                "aHR0cHM6Ly9tYW5od2F3ZWIub3JnLw==",
+                "aHR0cHM6Ly90bW90YWt1LmNvbS8="
             ],
             "urlimage": [
                 "wp-content/uploads/2015/.*",
