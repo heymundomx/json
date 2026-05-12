@@ -223,7 +223,7 @@
                 "#manga-genres-id-5",
                 "#manga-slider-7",
                 "#tab-18",
-                "#block-5",
+                "#block-500",
                 "#block-6",
                 "#block-10",
                 "#block-13",
@@ -360,7 +360,8 @@
                 "main-col-inner c-page 0",
                 "resCarousel postersizes ResHover special 0",
                 "mgw-wrapper 0",
-                "homesection 1"
+                "homesection 1",
+                "new-works-slider 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
