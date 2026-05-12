@@ -248,6 +248,7 @@
                 ".author.meta",
                 ".navigation-ajax",
                 ".btn-genress",
+                ".col-4.col-md-2",
                 ".ua-overlay",
                 ".ua-alert",
                 "#social-widget",
