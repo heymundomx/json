@@ -62,7 +62,6 @@
         "https://static.cloudflareinsights.com/beacon.min.js",
         "https://amaam.disqus.com",
         "https://s.w.org/images/core/emoji/17.0.2/svg/1f4ac.svg",
-        "https://manhwaweb.org/wp-login.php",
         "https://manhwaweb.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
         "https://manhwaweb.org/wp-includes/js/dist/hooks.min.js",
         "https://manhwaweb.org/wp-includes/js/dist/i18n.min.js",
@@ -81,6 +80,7 @@
         "https://manhwaweb.org/wp-content/uploads/2026/05/WR8fDW-768x1658.jpg",
         "https://manhwaweb.org/wp-content/uploads/2026/05/WR8fDW-711x1536.jpg",
         "https://manhwaweb.org/wp-content/uploads/2026/05/WR8fDW-949x2048.jpg",
+        "https://manhwaweb.org/wp-login.php",
         "https://accounts.google.com",
         "https://pagead2.googlesyndication.com",
         "https://www.googletagmanager.com"
