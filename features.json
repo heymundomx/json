@@ -274,6 +274,8 @@
                 ".manga_portada a[title=\"¡Muerte a la pequeña comadreja!\"]",
                 "#cf-host-status",
                 ".notranslate",
+                "div[data-shb=\"1\"]",
+                "iframe[srcdoc*=\"visormanga.com\"]",
                 "a[href*=\"discord.gg/\"]"
             ],
             "searchmainmenu": ".navbar-collapse.collapse",
