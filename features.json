@@ -495,6 +495,7 @@
                 ".notranslate",
                 "div[data-shb=\"1\"]",
                 "iframe[srcdoc*=\"visormanga.com\"]",
+                "a[href*=\"webuzo.com/\"]",
                 "a[href*=\"discord.gg/\"]"
             ],
             "searchmainmenu": ".navbar-collapse.collapse",
