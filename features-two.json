@@ -388,7 +388,7 @@
                 ".mgw-rec-footer-2",
                 ".mgw-rec-dismiss",
                 ".btn-exit-fullscreen",
-                ".entry-content.manga-fullscreen-mode",
+                ".manga-fullscreen-mode",
                 ".custom-btn"
             ],
             "elementimages": ".image-alls img",
