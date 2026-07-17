@@ -222,8 +222,7 @@
                 ".c-sub-nav_wrap",
                 ".text-13",
                 "#cf-host-status",
-                "a[href*=\"google.com/\"]",
-                "a[href*=\"onesignal.com/\"]",
+                ".card-text-url",
                 "a[href*=\"discord.gg/\"]",
                 "#global-announcement"
             ],
