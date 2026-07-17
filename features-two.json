@@ -267,8 +267,7 @@
                 ".ua-overlay",
                 ".ua-alert",
                 "#social-widget",
-                "a[href*=\"google.com/\"]",
-                "a[href*=\"onesignal.com/\"]",
+                ".card-text-url",
                 ".cd-section"
             ],
             "searchmainmenu": ".search-main-menu",
