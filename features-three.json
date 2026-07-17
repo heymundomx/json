@@ -155,6 +155,8 @@
                 ".bloglist",
                 ".text-13",
                 "#cf-host-status",
+                "a[href*=\"google.com/\"]",
+                "a[href*=\"onesignal.com/\"]",
                 "a[href*=\"discord.gg/\"]",
                 "#fixedban"
             ],
