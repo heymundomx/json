@@ -427,6 +427,8 @@
                 "a[href*=\"manga-genre/zombies/\"]",
                 "a[href*=\"manga/mi-cosa-resulta-ser-el-rey-demonio-mas-fuerte/\"]",
                 "#cf-host-status",
+                "a[href*=\"google.com/\"]",
+                "a[href*=\"onesignal.com/\"]",
                 "a[href*=\"discord.gg/\"]",
                 ".page-item-detail:has(a[href*=\"jinx\"])",
                 "a[href*=\"manga/zombie-hide-sex-2018\"]",
