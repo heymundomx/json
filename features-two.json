@@ -343,6 +343,7 @@
                 ".item__wrap",
                 ".item-thumb",
                 ".summary_image",
+                ".summary_image img",
                 ".summary_content",
                 ".manga-type",
                 ".mgw-tab",
