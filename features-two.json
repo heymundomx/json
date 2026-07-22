@@ -342,7 +342,7 @@
                 ".site-content",
                 ".item__wrap",
                 ".item-thumb",
-                ".tab-summary",
+                ".post-content",
                 ".summary_image",
                 ".summary_image img",
                 ".summary_content",
