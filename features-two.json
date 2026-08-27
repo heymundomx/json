@@ -270,7 +270,6 @@
                 "Additional troubleshooting information here. a",
                 "Cloudflare a",
                 "cloudflare.com a",
-                "manhwa-online.com span",
                 "tmotaku.com span"
             ],
             "activity": [
@@ -327,6 +326,7 @@
                 ".summary_content",
                 ".manga-type",
                 ".c-new-tag",
+                ".manga-title-badges",
                 ".mgw-tab",
                 ".mgw-view-more",
                 ".mgw-item-thumb",
