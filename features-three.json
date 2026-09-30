@@ -181,7 +181,7 @@
                 ".card-text-url",
                 "a[href*=\"discord.gg/\"]",
                 "#fixedban",
-                ".bigor .tt:has-text(\"Me Gustas tú, así que Puedes tener Sexo con Cualquiera\")",
+                ".bsx a[title=\"Me Gustas tú, así que Puedes tener Sexo con Cualquiera\"] .tt",
                 "div.bixbox:has(div.releases h2 span) .bs.styletere"
             ],
             "searchmainmenu": ".searchx.minmb",
