@@ -155,8 +155,7 @@
                 "#cf-host-status",
                 ".card-text-url",
                 "a[href*=\"discord.gg/\"]",
-                "#fixedban",
-                "div.bixbox:has(> div.releases h2 span:not(:has-text)) .bs.styletere"
+                "#fixedban"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
