@@ -70,8 +70,7 @@
         {
             "domains": [
                 "aHR0cHM6Ly9tYW5nYXR2Lm5ldC8=",
-                "aHR0cHM6Ly90dXNtYW5nYXMub3JnLw==",
-                "aHR0cHM6Ly91Y2h1dWppbm1hbmdhcy5jb20v"
+                "aHR0cHM6Ly90dXNtYW5nYXMub3JnLw=="
             ],
             "url": [
                 "assets/images/logo_blanco.png",
@@ -80,7 +79,7 @@
                 "logo3.png",
                 "wp-content/uploads/2022/02/cropped-gatita.png",
                 "wp-content/uploads/2024/12/logo2.png",
-                "manga/.*",
+                "mangasss/.*",
                 "leer/.*",
                 "series/.*",
                 "capitulo-.*",
@@ -93,8 +92,7 @@
                 "aHR0cHM6Ly9pbWcyLm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWczLm1hbmdhdHYubmV0Lw==",
                 "aHR0cHM6Ly9pbWc0Lm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw==",
-                "aHR0cHM6Ly91Y2h1dWppbm1hbmdhcy5jb20v"
+                "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw=="
             ],
             "urlimage": [
                 "library/.*",
