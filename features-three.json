@@ -197,10 +197,9 @@
                 ".card-text-url",
                 "a[href*=\"discord.gg/\"]",
                 "#fixedban",
-                ".bsx a[title=\"Me Gustas tú, así que Puedes tener Sexo con Cualquiera\"]",
+                ".bsx a[title=\"Me Gustas tú, así que Puedes tener Sexo con Cualquiera\"] .tt",
                 ".ts-wpop-series-gen",
-                ".wpop-items",
-                "div.bixbox:has(div.releases h2 span) .bs.styletere"
+                ".wpop-items"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
