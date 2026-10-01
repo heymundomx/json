@@ -248,9 +248,7 @@
             "searchmainmenuactive": "minmbx",
             "disableelements": [
                 "bixbox 2",
-                "section 3",
-                "advancedsearch 0",
-                "inline-flex 0"
+                "section 3"
             ],
             "disabletext": [
                 "Política de privacidad h1",
