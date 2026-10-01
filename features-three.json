@@ -249,7 +249,8 @@
             "disableelements": [
                 "bixbox 2",
                 "section 3",
-                "advancedsearch 0"
+                "advancedsearch 0",
+                "flex gap-2 items-center justify-between 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
