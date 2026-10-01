@@ -289,7 +289,9 @@
                 ".wpop-items",
                 "#sidebar",
                 ".vl",
-                ".hot"
+                ".hot",
+                ".ts-post-image",
+                ".attachment-.size-.wp-post-image"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
