@@ -237,7 +237,8 @@
                 ".wpop-items",
                 "#sidebar",
                 ".vl",
-                ".hot"
+                ".hot",
+                "#live-search_sb"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
