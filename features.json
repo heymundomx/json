@@ -440,6 +440,7 @@
                 "body > pre",
                 ".json-formatter-container",
                 ".text-13",
+                ".flex.items-center.gap-2.px-4.text-[17px].font-extrabold.tracking-tight",
                 ".flex.h-9.w-9.flex-col.items-center.justify-center.gap-[5px].rounded-lg",
                 ".flex.flex-wrap.items-center.gap-3.rounded-xl.border.border-line-2.bg-card.px-4.py-3",
                 ".h-[57px].md:hidden",
