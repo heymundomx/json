@@ -249,9 +249,9 @@
             "disableelements": [
                 "bixbox 2",
                 "section 3",
-                "filter dropdown c20 0",
-                "filter dropdown c20 1",
-                "filter dropdown c20 3"
+                "dropdown-toggle 0",
+                "dropdown-toggle 1",
+                "dropdown-toggle 3"
             ],
             "disabletext": [
                 "Política de privacidad h1",
