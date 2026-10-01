@@ -203,6 +203,10 @@
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
+            "disableelements": [
+                "bixbox 2",
+                "section 3"
+            ],
             "disabletext": [
                 "Política de privacidad h1",
                 "Renuncia de responsabilidad h1",
