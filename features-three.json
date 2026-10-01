@@ -239,7 +239,10 @@
                 "#sidebar",
                 ".vl",
                 ".hot",
-                "#live-search_results"
+                "#live-search_sb",
+                ".live-search_sb",
+                "#live-search_results",
+                ".live-search_sb_bottom"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
