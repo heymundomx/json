@@ -248,7 +248,9 @@
             "searchmainmenuactive": "minmbx",
             "disableelements": [
                 "bixbox 2",
-                "section 3"
+                "section 3",
+                "ts-post-image wp-post-image attachment-medium size-medium 0",
+                "ts-post-image 1"
             ],
             "disabletext": [
                 "Política de privacidad h1",
