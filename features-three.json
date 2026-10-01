@@ -200,7 +200,9 @@
                 ".bsx a[title=\"Me Gustas tú, así que Puedes tener Sexo con Cualquiera\"] .tt",
                 ".ts-wpop-series-gen",
                 ".wpop-items",
-                "#sidebar"
+                "#sidebar",
+                ".vl",
+                ".hot"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
