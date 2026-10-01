@@ -29,12 +29,6 @@
     ],
     "ads": [
         "https://wz.birthaslaver.com",
-        "https://www.blockadsnot.com",
-        "https://dnhfi5nn2dt67.cloudfront.net",
-        "https://cloudfront.net",
-        "https://cdn.popcash.net",
-        "https://cdn2.popcash.net",
-        "https://popcash.net",
         "https://7p.6vgtx6qp45wprx.cfd",
         "https://h1ue938.vi1te6179xfj7bh5gx65jqopcjy.rest",
         "https://u5.y42izyewz9t2j74fe1bkiw9nw.cyou",
@@ -276,8 +270,6 @@
         "https://zonetmo.disqus.com",
         "https://accounts.google.com",
         "https://www.googletagmanager.com",
-        "https://tumanga.org/listas",
-        "https://tumanga.org/google-oauth.php",
         "https://thumbs.visormanga.com/cover/dios-te-bendiga.jpg",
         "https://thumbs.visormanga.com/cover/6582230d65d17.jpg",
         "https://thumbs.visormanga.com/cover/65f8ef89b63a6.jpg",
@@ -325,8 +317,7 @@
         {
             "domains": [
                 "aHR0cHM6Ly96b25ldG1vLmNvbS8=",
-                "aHR0cHM6Ly92aXNvcm1hbmdhLmNvbS8=",
-                "aHR0cHM6Ly90dW1hbmdhLm9yZy8="
+                "aHR0cHM6Ly92aXNvcm1hbmdhLmNvbS8="
             ],
             "url": [
                 "uploads/logo.png",
@@ -402,18 +393,14 @@
                 "genero/boys-love",
                 "genero/harem",
                 "genero/gore",
-                "online/.*",
-                "leer/el-poema-de-un-corazon-palpitante/capitulo/.*",
                 "adulto"
             ],
             "domainimages": [
                 "aHR0cHM6Ly9pbWFnZXMuem9uZXRtby5jb20v",
-                "aHR0cHM6Ly90aHVtYnMudmlzb3JtYW5nYS5jb20v",
-                "aHR0cHM6Ly90dW1hbmdhLm9yZy8="
+                "aHR0cHM6Ly90aHVtYnMudmlzb3JtYW5nYS5jb20v"
             ],
             "urlimage": [
-                "cover/.*",
-                "storage/.*"
+                "cover/.*"
             ],
             "subs": [
                 "manga",
@@ -442,22 +429,6 @@
                 "body > pre",
                 ".json-formatter-container",
                 ".text-13",
-                ".flex.items-center.gap-2.px-4.text-[17px].font-extrabold.tracking-tight",
-                ".flex.h-9.w-9.flex-col.items-center.justify-center.gap-[5px].rounded-lg",
-                ".flex.flex-wrap.items-center.gap-3.rounded-xl.border.border-line-2.bg-card.px-4.py-3",
-                ".h-[57px].md:hidden",
-                ".mt-6",
-                ".block.truncate.rounded-full",
-                ".relative.mx-auto.max-w-[1200px].px-4.pb-6.pt-5",
-                "#bookmarkBtn",
-                ".fixed.bottom-[72px].left-1/2.z-40.flex",
-                "#relatedsMobileSlot",
-                ".flex.h-9.w-9.items-center.justify-center",
-                ".fixed.inset-x-0.bottom-0.z-40",
-                ".mt-8.mx-auto.max-w-[1200px].px-4.pb-8",
-                "#manga-discussion",
-                ".mt-16.border-t.border-line.bg-[#0a0b0e].pb-20.md:pb-0",
-                "#ori-top",
                 ".manga_portada a[title=\"iShell Boy: Ignition (Shell Boy: Explicación)\"]",
                 ".manga_portada a[title=\"Las chicas interespecies y sus vidas cotidianas\"]",
                 ".manga_portada a[title=\"Aprendí XX a través de un fanfic\"]",
@@ -520,11 +491,7 @@
                 "last-chapters-content 0",
                 "last-chapters 0",
                 "last-mangas 0",
-                "resCarousel postersizes ResHover special 0",
-                "mt-6 0",
-                "mt-12 1",
-                "mt-12 2",
-                "mt-10 0"
+                "resCarousel postersizes ResHover special 0"
             ],
             "disabletext": [
                 "Política de privacidad h1",
