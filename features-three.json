@@ -238,7 +238,7 @@
                 "#sidebar",
                 ".vl",
                 ".hot",
-                "#live-search_sb"
+                ".live-search_sb"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
