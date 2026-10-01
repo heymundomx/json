@@ -242,7 +242,8 @@
                 "#live-search_sb",
                 ".live-search_sb",
                 "#live-search_results",
-                ".live-search_sb_bottom"
+                ".live-search_sb_bottom",
+                ".post-thumbnail"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
