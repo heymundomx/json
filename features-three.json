@@ -209,8 +209,7 @@
             "searchmainmenuactive": "minmbx",
             "disableelements": [
                 "bixbox 2",
-                "section 3",
-                "genre-18 0"
+                "section 3"
             ],
             "disabletext": [
                 "Política de privacidad h1",
