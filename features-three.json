@@ -230,7 +230,8 @@
                 ".vl",
                 ".hot",
                 ".bixbox:first-of-type > p[style*=\"padding\"]",
-                "div.bixbox[style*=\"padding: 10px 15px\"]"
+                "div.bixbox[style*=\"padding: 10px 15px\"]",
+                "div.bixbox .releases h2 span"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
