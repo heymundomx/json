@@ -229,7 +229,8 @@
                 "#sidebar",
                 ".vl",
                 ".hot",
-                ".bixbox:first-of-type > p[style*=\"padding\"]"
+                ".bixbox:first-of-type > p[style*=\"padding\"]",
+                "div.bixbox[style*=\"padding: 10px 15px\"]"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
