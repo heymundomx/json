@@ -77,6 +77,15 @@
         "https://static.cloudflareinsights.com/beacon.min.js",
         "https://mangatv-1.disqus.com",
         "https://uchuujinprojects.disqus.com",
+        "https://img5.mangatv.net/library/35183/653b85c33bab0.webp",
+        "https://img5.mangatv.net/library/18491/65d8c10ac2b0e.webp",
+        "https://img5.mangatv.net/library/3094/65df4900bd04b.webp",
+        "https://img5.mangatv.net/library/47153/69aa62a2d0952.webp",
+        "https://img5.mangatv.net/library/48091/69ae51c215ab9.webp",
+        "https://img3.mangatv.net/library/49209/bdd346f4-0a35-4c35-a289-2d1885c40c02.jpg",
+        "https://img5.mangatv.net/library/33648/66b07d784af06.webp",
+        "https://img5.mangatv.net/library/1344/5f06aa09efbfc.webp",
+        "https://img5.mangatv.net/library/47153/69aa62a2d0952.webp",
         "https://accounts.google.com",
         "https://www.googletagmanager.com"
     ],
@@ -235,7 +244,8 @@
                 ".vl",
                 ".hot",
                 ".bixbox:first-of-type > p[style*=\"padding\"]",
-                "div.bixbox[style*=\"padding: 10px 15px\"]"
+                "div.bixbox[style*=\"padding: 10px 15px\"]",
+                ".ts-post-image.wp-post-image.attachment-medium.size-medium"
             ],
             "searchmainmenu": ".searchx.minmb",
             "searchmainmenuactive": "minmbx",
