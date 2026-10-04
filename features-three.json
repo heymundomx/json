@@ -272,7 +272,7 @@
                 ".hot",
                 ".bixbox:first-of-type > p[style*=\"padding\"]",
                 "div.bixbox[style*=\"padding: 10px 15px\"]",
-                ".ts-post-image",
+                ".ts-post-imagesss",
                 ".attachment-.size-.wp-post-image"
             ],
             "searchmainmenu": ".searchx.minmb",
