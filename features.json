@@ -558,6 +558,7 @@
                 ".mgen",
                 ".tsinfo",
                 "#sidebar",
+                ".messages_content",
                 ".page.manga-page.mobile",
                 ".page.reading-manga.mobile",
                 ".th",
