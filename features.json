@@ -570,6 +570,7 @@
                 "#comments",
                 ".bigcover",
                 "#version",
+                "#searchchapter",
                 "div.bixbox[style*=\"padding: 10px 15px\"]",
                 ".readingnav.rnavbot",
                 ".listupd"
