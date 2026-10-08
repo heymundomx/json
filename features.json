@@ -571,6 +571,7 @@
                 ".bigcover",
                 "#version",
                 "div.bixbox[style*=\"padding: 10px 15px\"]",
+                ".readingnav.rnavbot",
                 ".listupd"
             ],
             "borderexclude": [
