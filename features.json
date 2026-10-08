@@ -584,6 +584,7 @@
                 ".code-display",
                 ".play-button",
                 ".navbar-menu",
+                "#searchchapter",
                 ".custom-btn"
             ],
             "elementimages": ".image-alls img",
