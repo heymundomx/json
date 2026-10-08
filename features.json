@@ -568,6 +568,7 @@
                 ".rating",
                 ".socialts",
                 "#comments",
+                ".bigcover",
                 ".listupd"
             ],
             "borderexclude": [
