@@ -479,6 +479,11 @@
                 "mangatv.net span"
             ],
             "activity": [
+                ".navbar-menu",
+                ".genres-manga-content.noselect",
+                ".header-nav.with-border.space-botton",
+                ".breadcrumbs",
+                ".btn.main",
                 ".th.top-header",
                 ".centernav.bound",
                 ".mgen",
