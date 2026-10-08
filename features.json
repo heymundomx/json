@@ -563,6 +563,11 @@
                 ".th",
                 ".seriestugenre",
                 ".releases",
+                ".ts-breadcrumb.bixbox",
+                ".bookmark",
+                ".rating",
+                ".socialts",
+                "#comments",
                 ".listupd"
             ],
             "borderexclude": [
