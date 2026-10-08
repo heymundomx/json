@@ -578,6 +578,7 @@
                 ".play-button",
                 ".th.top-header",
                 ".centernav.bound",
+                ".btn-social",
                 ".custom-btn"
             ],
             "elementimages": "#readerarea img",
