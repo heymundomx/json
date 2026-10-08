@@ -569,6 +569,7 @@
                 ".socialts",
                 "#comments",
                 ".bigcover",
+                "#version",
                 ".listupd"
             ],
             "borderexclude": [
