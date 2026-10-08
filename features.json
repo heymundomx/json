@@ -552,7 +552,18 @@
                 ".genres-manga-content.noselect",
                 ".header-nav.with-border.space-botton",
                 ".breadcrumbs",
-                ".btn.main"
+                ".btn.main",
+                ".th.top-header",
+                ".centernav.bound",
+                ".mgen",
+                ".tsinfo",
+                "#sidebar",
+                ".page.manga-page.mobile",
+                ".page.reading-manga.mobile",
+                ".th",
+                ".seriestugenre",
+                ".releases",
+                ".listupd"
             ],
             "borderexclude": [
                 ".manga-title-recommend",
