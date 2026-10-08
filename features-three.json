@@ -501,6 +501,11 @@
                 ".th",
                 ".seriestugenre",
                 ".releases",
+                ".breadcrumb",
+                ".share",
+                ".share.row",
+                ".ads-content",
+                ".owl-carousel.owl-theme",
                 ".listupd"
             ],
             "borderexclude": [
