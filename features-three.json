@@ -449,7 +449,7 @@
                 "aHR0cHM6Ly9pbWc1Lm1hbmdhdHYubmV0Lw=="
             ],
             "urlimage": [
-                "librarysss/.*",
+                "library/.*",
                 "wp-content/uploads/.*",
                 "assets_m/series/.*"
             ],
