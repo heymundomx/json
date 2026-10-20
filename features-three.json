@@ -479,6 +479,7 @@
                 ".card-text-url",
                 "a[href*=\"discord.gg/\"]",
                 "#fixedban",
+                ".bsx a[title=\"Administrador del Deseo Sexual de la Cazadora\"] .tt",
                 ".bsx a[title=\"Ai no Senbiki: La historia de cómo conseguí una mamá al buscar una sugar mom\"] .tt",
                 ".ts-wpop-series-gen",
                 ".wpop-items",
