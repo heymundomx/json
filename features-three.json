@@ -1,7 +1,7 @@
 {
     "version": 20270225,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -395,6 +395,7 @@
                 "manga/49067/el-campo-olvidado",
                 "manga/46667/la-magia-que-prest-se-cobra-forzosamente-mediante-pagos-a-plazos",
                 "manga/48420/shijou-saikyou-no-deshi-kenichi-2-tatsujin-hen",
+                "manga/43853/kawaii-kimi-bijin-na-osananajimi-to-heibon-na-boku",
                 "manga/41907/ai-no-senbiki-la-historia-de-c-mo-consegu-una-mam-al-buscar-una-sugar-mom",
                 "leer/.*",
                 "series/.*",
