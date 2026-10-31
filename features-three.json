@@ -1,7 +1,7 @@
 {
     "version": 20270225,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -375,6 +375,9 @@
                 "manga/49440/dragom-ball-nox",
                 "manga/35183/noa-senpai-wa-tomodachi",
                 "manga/49311/jigoku-sensei-nube-neo",
+                "manga/2561/omega-complex",
+                "manga/12038/happy-of-the-end",
+                "manga/5200/hogar-dulce-hogar",
                 "manga/14632/make-heroine-ga-oosugiru",
                 "manga/32828/kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
                 "manga/4857/shuumatsu-no-valkyrie",
