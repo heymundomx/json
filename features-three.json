@@ -1,7 +1,7 @@
 {
     "version": 20270230,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -424,8 +424,8 @@
                 "manga/46153/mi-amada-amiga-de-la-infancia",
                 "manga/5052/maou-sama-retry-r",
                 "manga/49052/boing-sae-no-kyoki-no-katachi",
-                "manga/33986/pond-snail-robber",
                 "manga/5722/mieruko-chan",
+                "manga/33986/pond-snail-robber",
                 "manga/40806/proyecci-n",
                 "manga/3919/gochisousama",
                 "manga/21283/quieres-practicar-conmigo",
