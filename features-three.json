@@ -1,7 +1,7 @@
 {
     "version": 20270231,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -431,6 +431,7 @@
         "https://img5.mangatv.net/library/47188/6925ca9685f7f.webp",
         "https://img3.mangatv.net/library/49517/6af7860e43e0a.jpg",
         "https://img5.mangatv.net/library/4781/5e39aa5a645c9.webp",
+        "https://img5.mangatv.net/library/40858/662aa96803df6.webp",
         "https://accounts.google.com",
         "https://www.googletagmanager.com"
     ],
