@@ -1,7 +1,7 @@
 {
     "version": 20270231,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -486,6 +486,7 @@
                 "manga/49348/vive-conmigo",
                 "manga/49497/como-sobrevivir-en-la-novela-de-terror-que-escribi",
                 "manga/11984/las-flores-azules-y-el-bosque-de-cer-mica",
+                "manga/48608/mundo-opuesto",
                 "manga/5217/anaerobic-love-deep-sea-prisoner",
                 "manga/11658/mononogatari",
                 "manga/19507/ochikobore-fruit-tart",
