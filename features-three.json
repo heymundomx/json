@@ -1,7 +1,7 @@
 {
     "version": 20270231,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -370,8 +370,8 @@
         "https://img5.mangatv.net/library/49052/6a66afca655a2.jpg",
         "https://img5.mangatv.net/library/5722/6904751c4a074.webp",
         "https://img5.mangatv.net/library/49032/6a6c51d3c920e.jpg",
-        "https://img4.mangatv.net/library/5830/653149f80a978.webp",
         "https://img4.mangatv.net/library/42354/66a430f9b2ff7.webp",
+        "https://img.mangatv.net/library/89/5bce60d3f080a.jpg",
         "https://img1.mangatv.net/library/21283/62d1a088075f2.jpg",
         "https://img.mangatv.net/library/917/5f8df5114ee00.jpg",
         "https://img3.mangatv.net/library/49388/6ad134aed0f0d.jpg",
@@ -445,8 +445,8 @@
                 "manga/49052/boing-sae-no-kyoki-no-katachi",
                 "manga/5722/mieruko-chan",
                 "manga/49032/no-podemos-estar-juntos",
-                "manga/5830/kimi-no-yoru-ni-fureru",
                 "manga/42354/el-jefe-menor-que-quiere-que-lo-elogien",
+                "manga/89/kimi-no-otoga-nani-yamanai",
                 "manga/21283/quieres-practicar-conmigo",
                 "manga/917/isekai-de-ipputasaina-harem-seikatsu-anthology",
                 "manga/49388/manual-de-seduccion",
