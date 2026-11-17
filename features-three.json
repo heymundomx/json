@@ -1,7 +1,7 @@
 {
     "version": 20270231,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -508,6 +508,7 @@
                 "manga/12641/uma-musume-cinderella-gray",
                 "manga/45529/sakamoto-days",
                 "manga/48883/jin-kakutou-haouden",
+                "manga/15970/ai-wo-shitteiru",
                 "manga/41907/ai-no-senbiki-la-historia-de-c-mo-consegu-una-mam-al-buscar-una-sugar-mom",
                 "leer/.*",
                 "series/.*",
