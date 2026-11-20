@@ -1,7 +1,7 @@
 {
     "version": 20270231,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -364,7 +364,6 @@
         "https://img5.mangatv.net/library/669/5d1b4beae45cb.webp",
         "https://img1.mangatv.net/library/21283/62d1a088075f2.jpg",
         "https://img.mangatv.net/library/917/5f8df5114ee00.jpg",
-        "https://img3.mangatv.net/library/49388/6ad134aed0f0d.jpg",
         "https://img5.mangatv.net/library/36031/662d594bd2f3c.webp",
         "https://img5.mangatv.net/library/32285/673b4be21b3da.webp",
         "https://img5.mangatv.net/library/1372/655b6f834491f.webp",
@@ -436,7 +435,6 @@
                 "manga/669/youjo-senki",
                 "manga/21283/quieres-practicar-conmigo",
                 "manga/917/isekai-de-ipputasaina-harem-seikatsu-anthology",
-                "manga/49388/manual-de-seduccion",
                 "manga/36031/peque-o-hongo",
                 "manga/32285/jinx",
                 "manga/1372/low-tide-in-twilight",
