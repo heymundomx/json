@@ -1,7 +1,7 @@
 {
     "version": 20270231,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -457,9 +457,10 @@
                 "manga/20789/hinako-note",
                 "manga/49052/boing-sae-no-kyoki-no-katachi",
                 "manga/5722/mieruko-chan",
-                "manga/5492/isekai-nonbiri-nouka",
                 "manga/669/youjo-senki",
                 "manga/5838/unmei-no-tsugai-ga-omae-da-nante",
+                "manga/45624/luna-sangrienta",
+                "manga/5492/isekai-nonbiri-nouka",
                 "manga/3919/gochisousama",
                 "manga/36031/peque-o-hongo",
                 "manga/32285/jinx",
