@@ -1,7 +1,7 @@
 {
     "version": 20270231,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -428,6 +428,7 @@
         "https://img.mangatv.net/library/89/5bce60d3f080a.jpg",
         "https://img.mangatv.net/library/4190/30523_TMOManga59adef4568373.jpg",
         "https://img4.mangatv.net/library/44688/67b3c90b9c819.webp",
+        "https://img3.mangatv.net/library/49528/8CQWYWP2g4v0UkRbuwrDXRuYUgiH5kLlqT5hvdlO.jpg",
         "https://accounts.google.com",
         "https://www.googletagmanager.com"
     ],
@@ -481,6 +482,8 @@
                 "manga/49373/terminos-de-uso-de-mi-automata",
                 "manga/49512/mika",
                 "manga/35183/noa-senpai-wa-tomodachi",
+                "manga/33911/when-trying-to-get-back-at-the-hometown-bullies-another-battle-began",
+                "manga/49235/nippon-sangoku",
                 "manga/5217/anaerobic-love-deep-sea-prisoner",
                 "manga/11658/mononogatari",
                 "manga/19507/ochikobore-fruit-tart",
@@ -492,9 +495,6 @@
                 "manga/49517/coleccion-de-historias-cortas-dulce-agujero-el-que-pierde-es-el-que-recibe",
                 "manga/45807/asesino-de-nivel-dios-soy-la-sombra",
                 "manga/74/blue-lock",
-                "manga/7481/clases-secretas",
-                "manga/43853/kawaii-kimi-bijin-na-osananajimi-to-heibon-na-boku",
-                "manga/48233/el-maestro-de-la-espada-acogedor-de-estrellas",
                 "manga/41907/ai-no-senbiki-la-historia-de-c-mo-consegu-una-mam-al-buscar-una-sugar-mom",
                 "leer/.*",
                 "series/.*",
