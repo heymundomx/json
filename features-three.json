@@ -1,7 +1,7 @@
 {
     "version": 20270231,
     "versiontwo": 1,
-    "status": true,
+    "status": false,
     "countries": [
         "AR",
         "BZ",
@@ -472,9 +472,9 @@
                 "manga/49533/el-deber-de-una-esposa-comienza-con-su-familia",
                 "manga/49052/boing-sae-no-kyoki-no-katachi",
                 "manga/5722/mieruko-chan",
+                "manga/5838/unmei-no-tsugai-ga-omae-da-nante",
                 "manga/669/youjo-senki",
                 "manga/680/kubo-san-wa-boku-mobu-wo-yurusanai",
-                "manga/5838/unmei-no-tsugai-ga-omae-da-nante",
                 "manga/5492/isekai-nonbiri-nouka",
                 "manga/3919/gochisousama",
                 "manga/36031/peque-o-hongo",
